@@ -30,7 +30,8 @@ except FileNotFoundError:
     EXCLUDED_DOMAINS = set()
 
 TWO = {'eu.com','co.uk','org.uk','uk.net','uk.com','co.za','com.au','co.nz','mex.com',
-       'in.net','jp.net','co.com','us.com','it.com','fr.uptodown.com'}
+       'in.net','jp.net','co.com','us.com','it.com','fr.uptodown.com',
+       'bet.ar','bet.br','com.co'}
 def norm(h):
     h = (h or '').lower(); return h[4:] if h.startswith('www.') else h
 def registrable(host):
