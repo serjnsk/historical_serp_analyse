@@ -24,6 +24,11 @@ RED = sys.argv[1] if len(sys.argv) > 1 else 'data/redirects.json'
 OUT = sys.argv[2] if len(sys.argv) > 2 else 'data/clusters.json'
 probes = json.load(open(RED))['probes']
 
+try:
+    EXCLUDED_DOMAINS = set(json.load(open('data/cluster_excluded_domains.json')))
+except FileNotFoundError:
+    EXCLUDED_DOMAINS = set()
+
 TWO = {'eu.com','co.uk','org.uk','uk.net','uk.com','co.za','com.au','co.nz','mex.com',
        'in.net','jp.net','co.com','us.com','it.com','fr.uptodown.com'}
 def norm(h):
@@ -32,6 +37,8 @@ def registrable(host):
     d = norm(host).lstrip('.'); p = d.split('.')
     if len(p) >= 3 and '.'.join(p[-2:]) in TWO: return '.'.join(p[-3:])
     return '.'.join(p[-2:]) if len(p) >= 2 else d
+def excluded(a, b):
+    return registrable(a) in EXCLUDED_DOMAINS or registrable(b) in EXCLUDED_DOMAINS
 def approved_source(i, url):
     if i == 0: return True
     return (urlsplit(url or '').path or '/') in ('', '/')
@@ -61,7 +68,7 @@ for seed, rec in probes.items():
     ch = rec.get('chain') or []
     for i in range(len(ch) - 1):
         a, b = norm(ch[i].get('host')), norm(ch[i+1].get('host'))
-        if not a or not b or a == b: continue
+        if not a or not b or a == b or excluded(a, b): continue
         lab = elabel(ch[i].get('via'), ch[i].get('status'))
         (strict if approved_source(i, ch[i].get('url')) else deep).append((a, b, lab))
 A = {a for (a, b, l) in strict}
@@ -81,7 +88,7 @@ for f in rrt_files:
         a = norm(r.get('host'))
         for c in (r.get('cross') or []):
             b = norm(c.get('to'))
-            if not a or not b or a == b: continue
+            if not a or not b or a == b or excluded(a, b): continue
             for v in (c.get('via') or []):
                 edgemap[(a, b)].add(v)              # 'canonical' / 'hreflang'
             softedge.add((a, b))
