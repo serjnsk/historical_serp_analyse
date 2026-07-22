@@ -1,0 +1,16 @@
+[
+{"host":"scamadviser.com","status":"timeout","cross":[]},
+{"host":"behance.net","status":"ok","cross":[]},
+{"host":"sumsub.com","status":"ok","cross":[]},
+{"host":"twitch.tv","status":"ok","cross":[]},
+{"host":"jsonformatter.org","status":"ok","cross":[]},
+{"host":"bookmaker-ratings.ru","status":"ok","cross":[{"to":"bookmaker-ratings.pt","via":["hreflang"]},{"to":"bookmaker-ratings.bg","via":["hreflang"]},{"to":"bookmaker-ratings.kz","via":["hreflang"]},{"to":"bookmaker-ratings.by","via":["hreflang"]},{"to":"bookmaker-ratings-uz.com","via":["hreflang"]},{"to":"bookmaker-ratings.am","via":["hreflang"]},{"to":"bookmaker-ratings.lv","via":["hreflang"]},{"to":"bookmaker-ratings-az.com","via":["hreflang"]}]},
+{"host":"oddschecker.com","status":"timeout","cross":[]},
+{"host":"esportsinsider.com","status":"ok","cross":[]},
+{"host":"downdetector.fr","status":"timeout","cross":[]},
+{"host":"footballwhispers.com","status":"ok","cross":[]},
+{"host":"campingbayona.com","status":"ok","cross":[{"to":"bayonaplaya.com","via":["canonical"]}]},
+{"host":"steinertriple-sport.fr","status":"ok","cross":[]},
+{"host":"kick.com","status":"timeout","cross":[]},
+{"host":"coinmarketcap.com","status":"timeout","cross":[]}
+]

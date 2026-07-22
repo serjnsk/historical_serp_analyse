@@ -1,0 +1,15 @@
+[
+{"host":"betify-fr.jp.net","status":"crawl-failed","cross":[]},
+{"host":"betify.uk.com","status":"ok","cross":[{"to":"betifycasinoenligne.com","via":["canonical","hreflang"]}]},
+{"host":"betify.mex.com","status":"crawl-failed","cross":[]},
+{"host":"betify-sh-casino-france.in.net","status":"ok","cross":[{"to":"betifyme1.com","via":["canonical"]}]},
+{"host":"betify-avis.fr","status":"ok","cross":[]},
+{"host":"betify-casinofr.com","status":"ok","cross":[]},
+{"host":"betifys.eu.com","status":"ok","cross":[]},
+{"host":"betify-paris.com","status":"ok","cross":[]},
+{"host":"betifycasino-enligne.com","status":"ok","cross":[]},
+{"host":"site-officiel.betify-sh-casino-france.in.net","status":"ok","cross":[{"to":"betifyme1.com","via":["canonical"]}]},
+{"host":"betifyfr.fr","status":"ok","cross":[]},
+{"host":"betifycasino-fr.it.com","status":"crawl-failed","cross":[]},
+{"host":"betify-fr.casino","status":"ok","cross":[]}
+]

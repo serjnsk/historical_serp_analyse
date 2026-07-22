@@ -1,0 +1,16 @@
+[
+{"host":"wk-transport-logistique.fr","status":"ok","cross":[]},
+{"host":"pizzasainteanne.com","status":"timeout","cross":[]},
+{"host":"radio.unesp.br","status":"ok","cross":[]},
+{"host":"preprod.jdd.compagnie-pernette.com","status":"crawl-failed","cross":[]},
+{"host":"portaldaqueixa.com","status":"ok","cross":[]},
+{"host":"cielhtx.com","status":"ok","cross":[]},
+{"host":"ahmetipek.com","status":"timeout","cross":[]},
+{"host":"theperfumestop.co.uk","status":"ok","cross":[]},
+{"host":"savilera.com","status":"ok","cross":[]},
+{"host":"wetttipps-heute.com","status":"ok","cross":[]},
+{"host":"playview.blog","status":"crawl-failed","cross":[]},
+{"host":"wellingtonrochadvogados.com","status":"crawl-failed","cross":[]},
+{"host":"diaridigital.es","status":"timeout","cross":[]},
+{"host":"rotaaldia.com","status":"ok","cross":[]}
+]

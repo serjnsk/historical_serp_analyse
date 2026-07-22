@@ -1,0 +1,11 @@
+[
+{"host":"hrpartners.hr","status":"ok","cross":[]},
+{"host":"vicentecastelloprojects.com","status":"crawl-failed","cross":[]},
+{"host":"paddypower.com","status":"ok","cross":[]},
+{"host":"actuabd.com","status":"crawl-failed","cross":[]},
+{"host":"facelore.com","status":"crawl-failed","cross":[]},
+{"host":"pharmaciedugrandjardin.com","status":"ok","cross":[]},
+{"host":"aqmee.com","status":"timeout","cross":[]},
+{"host":"friendseurope.org","status":"timeout","cross":[]},
+{"host":"aboutdebras.fr","status":"ok","cross":[]}
+]

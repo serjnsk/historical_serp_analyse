@@ -1,0 +1,7 @@
+[
+{"host":"betfair.com","status":"ok","cross":[{"to":"betfair.bet.br","via":["hreflang"]},{"to":"betfair.it","via":["hreflang"]},{"to":"betfair.es","via":["hreflang"]},{"to":"betfair.ro","via":["hreflang"]}]},
+{"host":"esportsbets.com","status":"ok","cross":[]},
+{"host":"foxjeux.com","status":"ok","cross":[]},
+{"host":"pleeease-casino.fr","status":"ok","cross":[{"to":"please-casino.fr","via":["canonical","hreflang"]},{"to":"sonic5k.com.br","via":["hreflang"]},{"to":"narrow.io","via":["hreflang"]},{"to":"galactic.cz","via":["hreflang"]}]},
+{"host":"cryptocasinobet.fr","status":"ok","cross":[{"to":"crypto-casinobet.fr","via":["canonical","hreflang"]}]}
+]

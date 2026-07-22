@@ -1,0 +1,16 @@
+[
+{"host":"bettingjobs.com","status":"ok","cross":[]},
+{"host":"forum.doccasino.xyz","status":"ok","cross":[]},
+{"host":"germaineparis.fr","status":"ok","cross":[{"to":"tsr-recyclage.fr","via":["canonical","hreflang"]}]},
+{"host":"unibet.com","status":"ok","cross":[]},
+{"host":"mondialdesjeux.com","status":"ok","cross":[]},
+{"host":"bonustiime.com","status":"ok","cross":[]},
+{"host":"spicycasinos.com","status":"timeout","cross":[]},
+{"host":"ruedesparis.com","status":"timeout","cross":[]},
+{"host":"lebonparisportif.com","status":"ok","cross":[]},
+{"host":"virtuality-paris.com","status":"ok","cross":[]},
+{"host":"appdeparis.com","status":"crawl-failed","cross":[]},
+{"host":"casinoallianz.com","status":"ok","cross":[]},
+{"host":"site-paris-sportif-hors-arjel.com","status":"ok","cross":[]},
+{"host":"bonuskoodit.com","status":"timeout","cross":[]}
+]

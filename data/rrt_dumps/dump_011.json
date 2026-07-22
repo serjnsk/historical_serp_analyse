@@ -1,0 +1,16 @@
+[
+{"host":"betifyfrance1.fr","status":"crawl-failed","cross":[]},
+{"host":"betify-casinofr.top","status":"crawl-failed","cross":[]},
+{"host":"betify-casinofr.eu.com","status":"crawl-failed","cross":[]},
+{"host":"casino-betify.retdtechfrance.fr","status":"ok","cross":[{"to":"lycee-charlesdegaulle.fr","via":["canonical","hreflang"]}]},
+{"host":"betify-fr.lycee-charlesdegaulle.fr","status":"ok","cross":[{"to":"lycee-charlesdegaulle.fr","via":["canonical","hreflang"]}]},
+{"host":"betifyfrance.vip","status":"ok","cross":[{"to":"urbanmobs.fr","via":["canonical"]}]},
+{"host":"betify88.com","status":"ok","cross":[]},
+{"host":"betify.ru","status":"ok","cross":[]},
+{"host":"betify.malokadistro.com","status":"crawl-failed","cross":[]},
+{"host":"betify-casino.france-petitions.com","status":"crawl-failed","cross":[]},
+{"host":"connexion.betify-officiel1.fr","status":"ok","cross":[{"to":"sh5.betify-officiel1.fr","via":["canonical","hreflang"]}]},
+{"host":"betifynl.toulousebasketclub.fr","status":"ok","cross":[{"to":"betify2.toulousebasketclub.fr","via":["canonical","hreflang"]},{"to":"toulousebasketclub.fr","via":["hreflang"]}]},
+{"host":"betify.jobmontagne.fr","status":"crawl-failed","cross":[]},
+{"host":"betify.black","status":"crawl-failed","cross":[]}
+]

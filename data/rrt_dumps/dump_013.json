@@ -1,0 +1,16 @@
+[
+{"host":"casinobetify.com","status":"ok","cross":[]},
+{"host":"betify.cool","status":"ok","cross":[{"to":"kiaora-ondres.fr","via":["canonical"]}]},
+{"host":"betify-france.vitacolo.fr","status":"crawl-failed","cross":[]},
+{"host":"betify.mabaiedesomme.fr","status":"crawl-failed","cross":[]},
+{"host":"betify.rochedy.fr","status":"crawl-failed","cross":[]},
+{"host":"fr-betify-casino.com","status":"ok","cross":[]},
+{"host":"betifycasino.betify-casino-france.net","status":"crawl-failed","cross":[]},
+{"host":"betify-casinos.org","status":"ok","cross":[]},
+{"host":"betify.express","status":"crawl-failed","cross":[]},
+{"host":"sh.betify5-casino-france.in.net","status":"ok","cross":[{"to":"betifyme1.com","via":["canonical"]}]},
+{"host":"codepromobetify.com","status":"ok","cross":[]},
+{"host":"betifycasino-fra.com","status":"ok","cross":[]},
+{"host":"casino-betify.eu","status":"ok","cross":[]},
+{"host":"betifycasino.sitegpr.com","status":"ok","cross":[{"to":"betifyjuin.sitegpr.com","via":["canonical","hreflang"]},{"to":"sitegpr.com","via":["hreflang"]}]}
+]

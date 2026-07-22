@@ -1,0 +1,7 @@
+[
+{"host":"portal-snc.eastus2.cloudapp.azure.com","status":"crawl-failed","cross":[]},
+{"host":"admission.nitsri.ac.in","status":"crawl-failed","cross":[]},
+{"host":"hzpgne.hashnode.dev","status":"ok","cross":[]},
+{"host":"isee.unifei.edu.br","status":"ok","cross":[]},
+{"host":"nmcnagpur.gov.in","status":"timeout","cross":[]}
+]

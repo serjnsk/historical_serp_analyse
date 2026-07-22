@@ -1,0 +1,16 @@
+[
+{"host":"steinertriples-sport.fr","status":"ok","cross":[{"to":"steinertriple-sport.fr","via":["canonical","hreflang"]}]},
+{"host":"aboutslots.com","status":"ok","cross":[]},
+{"host":"winterdienst-wien.eu","status":"crawl-failed","cross":[]},
+{"host":"find-and-update.company-information.service.gov.uk","status":"crawl-failed","cross":[]},
+{"host":"infspm-mosta.dz","status":"crawl-failed","cross":[]},
+{"host":"divalux.ma","status":"crawl-failed","cross":[]},
+{"host":"ff4j.org","status":"ok","cross":[{"to":"casino-en-ligne-betify.lyon-solidaire.fr","via":["canonical","hreflang"]},{"to":"lyon-solidaire.fr","via":["hreflang"]}]},
+{"host":"sportytrader.com","status":"ok","cross":[{"to":"sportytrader.de","via":["hreflang"]},{"to":"sportytrader.es","via":["hreflang"]},{"to":"sportytrader.pt","via":["hreflang"]},{"to":"sportytrader.nl","via":["hreflang"]},{"to":"sportytrader.it","via":["hreflang"]}]},
+{"host":"genuinelyfrench.com","status":"ok","cross":[{"to":"impor88-genuinelyfrench.pages.dev","via":["hreflang"]}]},
+{"host":"republicpolicy.com","status":"ok","cross":[]},
+{"host":"coinstats.app","status":"ok","cross":[]},
+{"host":"mightytips.com","status":"ok","cross":[{"to":"mightytips-es.com","via":["hreflang"]},{"to":"mightytips.biz","via":["hreflang"]},{"to":"mightytips.net","via":["hreflang"]},{"to":"mightytips.org","via":["hreflang"]},{"to":"mightytips.pl","via":["hreflang"]},{"to":"mightytips.ro","via":["hreflang"]}]},
+{"host":"federacioncolegiosjyf.org","status":"crawl-failed","cross":[]},
+{"host":"ppe.ufrj.br","status":"ok","cross":[{"to":"ppe.coppe.ufrj.br","via":["canonical","hreflang"]}]}
+]

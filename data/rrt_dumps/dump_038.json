@@ -1,0 +1,4 @@
+[
+{"host":"biomed21a.fr","status":"ok","cross":[]},
+{"host":"stake.com","status":"ok","cross":[{"to":"stake.us","via":["hreflang"]},{"to":"stake.com.co","via":["hreflang"]},{"to":"stake.bet.br","via":["hreflang"]},{"to":"stake.pe","via":["hreflang"]},{"to":"stake.it","via":["hreflang"]},{"to":"stake.dk","via":["hreflang"]},{"to":"stake.mx","via":["hreflang"]},{"to":"pba.stake.bet.ar","via":["hreflang"]}]}
+]

@@ -1,0 +1,7 @@
+[
+{"host":"portalsaude.saobernardo.sp.gov.br","status":"timeout","cross":[]},
+{"host":"elriconcitodeesther.wordpress.com","status":"crawl-failed","cross":[]},
+{"host":"irepair.com.cy","status":"ok","cross":[{"to":"irepair.gr","via":["hreflang"]}]},
+{"host":"poxoreu.mt.gov.br","status":"ok","cross":[]},
+{"host":"mdms.kerala.gov.in","status":"timeout","cross":[]}
+]

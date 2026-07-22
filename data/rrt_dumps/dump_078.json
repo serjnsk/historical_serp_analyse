@@ -1,0 +1,7 @@
+[
+{"host":"riip-fr.eu.com","status":"timeout","cross":[]},
+{"host":"dev-ahmed-elkhodary.pantheonsite.io","status":"timeout","cross":[]},
+{"host":"malokadistro-france.eu.com","status":"crawl-failed","cross":[]},
+{"host":"s3.amazonaws.com","status":"timeout","cross":[]},
+{"host":"transparencia.cacimbinhas.al.gov.br","status":"ok","cross":[]}
+]

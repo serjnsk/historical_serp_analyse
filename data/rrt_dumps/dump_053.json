@@ -1,0 +1,14 @@
+[
+{"host":"3pol.com","status":"ok","cross":[]},
+{"host":"formazioneteci.com","status":"crawl-failed","cross":[]},
+{"host":"ufrj.br","status":"ok","cross":[]},
+{"host":"neujpro.fr","status":"crawl-failed","cross":[]},
+{"host":"esthaonfootball.fr","status":"ok","cross":[]},
+{"host":"dukersusa.com","status":"ok","cross":[]},
+{"host":"camaradircereis.sp.gov.br","status":"ok","cross":[]},
+{"host":"tapdancedetroit.org","status":"ok","cross":[]},
+{"host":"excellence-research.com","status":"ok","cross":[]},
+{"host":"globalshala.com","status":"timeout","cross":[]},
+{"host":"bi-nergy.com","status":"crawl-failed","cross":[]},
+{"host":"denisducarme.net","status":"timeout","cross":[]}
+]

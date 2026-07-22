@@ -1,0 +1,16 @@
+[
+{"host":"arma-consulting.com","status":"ok","cross":[]},
+{"host":"mission-humanitaire.fr","status":"ok","cross":[]},
+{"host":"focusgn.com","status":"ok","cross":[]},
+{"host":"about.me","status":"ok","cross":[]},
+{"host":"atthalin.fr","status":"ok","cross":[{"to":"betify-french.fr","via":["hreflang"]}]},
+{"host":"gregorth.net","status":"ok","cross":[]},
+{"host":"hotel-phenix-lyon.fr","status":"ok","cross":[]},
+{"host":"dicebounty.com","status":"crawl-failed","cross":[]},
+{"host":"kollywoodtv.net","status":"ok","cross":[]},
+{"host":"edialux.fr","status":"ok","cross":[]},
+{"host":"petit-grain.fr","status":"ok","cross":[]},
+{"host":"redesmolinatel.com","status":"ok","cross":[]},
+{"host":"grupodicel.com","status":"ok","cross":[]},
+{"host":"brocante-sabres.com","status":"ok","cross":[{"to":"brocanteamani.com","via":["canonical"]}]}
+]

@@ -1,0 +1,16 @@
+[
+{"host":"inmoov.fr","status":"ok","cross":[]},
+{"host":"frontpopulaire-2024.fr","status":"ok","cross":[{"to":"front-populaire.com","via":["canonical"]}]},
+{"host":"imagup.com","status":"ok","cross":[{"to":"imagup.org","via":["canonical"]}]},
+{"host":"asfaltage.com","status":"ok","cross":[]},
+{"host":"firjansenai.com.br","status":"ok","cross":[]},
+{"host":"tracxn.com","status":"ok","cross":[]},
+{"host":"vata.eco","status":"ok","cross":[]},
+{"host":"shebatx.com","status":"ok","cross":[]},
+{"host":"doggoneart.ca","status":"ok","cross":[]},
+{"host":"gaffg.com","status":"ok","cross":[]},
+{"host":"corinemoriou.com","status":"timeout","cross":[]},
+{"host":"europeangaming.eu","status":"ok","cross":[]},
+{"host":"academiavirtual.inpi.gov.br","status":"crawl-failed","cross":[]},
+{"host":"psknives.com","status":"ok","cross":[]}
+]

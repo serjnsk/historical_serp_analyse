@@ -1,0 +1,6 @@
+[
+{"host":"vetify.com.ar","status":"ok","cross":[]},
+{"host":"riipfr.eu.com","status":"timeout","cross":[]},
+{"host":"malokadistrofr.eu.com","status":"timeout","cross":[]},
+{"host":"malokadistro-fra.eu.com","status":"timeout","cross":[]}
+]

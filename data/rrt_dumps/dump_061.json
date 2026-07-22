@@ -1,0 +1,16 @@
+[
+{"host":"dmcsweb.upb.edu.ph","status":"timeout","cross":[]},
+{"host":"slg.lga.gov.ph","status":"crawl-failed","cross":[]},
+{"host":"intergameonline.com","status":"ok","cross":[]},
+{"host":"sbcnews.co.uk","status":"ok","cross":[]},
+{"host":"dekompanen.com","status":"ok","cross":[]},
+{"host":"solsticegrowers.com","status":"crawl-failed","cross":[]},
+{"host":"bseronline.in","status":"ok","cross":[]},
+{"host":"ssbjk.org.in","status":"ok","cross":[]},
+{"host":"fair-makler.immo","status":"timeout","cross":[]},
+{"host":"lepetitalsacien.fr","status":"crawl-failed","cross":[]},
+{"host":"fscore.in","status":"ok","cross":[{"to":"us.soccerway.com","via":["canonical","hreflang"]},{"to":"soccerway.com","via":["hreflang"]},{"to":"au.soccerway.com","via":["hreflang"]},{"to":"ca.soccerway.com","via":["hreflang"]},{"to":"gh.soccerway.com","via":["hreflang"]},{"to":"ie.soccerway.com","via":["hreflang"]},{"to":"ke.soccerway.com","via":["hreflang"]},{"to":"ng.soccerway.com","via":["hreflang"]},{"to":"no.soccerway.com","via":["hreflang"]},{"to":"sg.soccerway.com","via":["hreflang"]},{"to":"za.soccerway.com","via":["hreflang"]},{"to":"uk.soccerway.com","via":["hreflang"]},{"to":"ara.soccerway.com","via":["hreflang"]},{"to":"cn.soccerway.com","via":["hreflang"]}]},
+{"host":"magasins-privilege.fr","status":"ok","cross":[]},
+{"host":"noyella.fr","status":"crawl-failed","cross":[]},
+{"host":"breakinghotel.com","status":"ok","cross":[]}
+]

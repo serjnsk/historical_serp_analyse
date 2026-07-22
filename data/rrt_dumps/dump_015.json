@@ -1,0 +1,16 @@
+[
+{"host":"madnessbonus.fr","status":"timeout","cross":[]},
+{"host":"betmaker.co","status":"ok","cross":[{"to":"stakemaker.org","via":["canonical"]}]},
+{"host":"casinospotfr.com","status":"ok","cross":[]},
+{"host":"crash-casino.io","status":"ok","cross":[]},
+{"host":"casino-comparatif.org","status":"ok","cross":[{"to":"casinocomparatif.fr","via":["canonical","hreflang"]},{"to":"casino-comparatif.ca","via":["hreflang"]}]},
+{"host":"jeux-gratuits-casino.com","status":"ok","cross":[]},
+{"host":"crypto-casino.bet","status":"ok","cross":[{"to":"crypto-casinobet.fr","via":["canonical","hreflang"]}]},
+{"host":"pariez-malin.fr","status":"ok","cross":[{"to":"pariez-malin.com","via":["canonical"]}]},
+{"host":"blog.jeux.com","status":"ok","cross":[]},
+{"host":"topcasinofrance.com","status":"ok","cross":[{"to":"le-joueur.fr","via":["canonical"]}]},
+{"host":"bonusempire.fr","status":"crawl-failed","cross":[]},
+{"host":"minijeu-casino.com","status":"ok","cross":[]},
+{"host":"forum.sos-casino.org","status":"ok","cross":[{"to":"forum.soscasino.info","via":["canonical"]}]},
+{"host":"casinonapoleon.org","status":"ok","cross":[{"to":"casinonapoleon.bet","via":["canonical","hreflang"]}]}
+]

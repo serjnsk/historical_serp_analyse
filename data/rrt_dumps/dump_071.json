@@ -1,0 +1,7 @@
+[
+{"host":"siti-scommesse-non-aams.com","status":"ok","cross":[]},
+{"host":"bc.game","status":"ok","cross":[]},
+{"host":"lucky-minigames.com","status":"ok","cross":[{"to":"de.lucky-minigames.com","via":["hreflang"]},{"to":"es.lucky-minigames.com","via":["hreflang"]},{"to":"pt.lucky-minigames.com","via":["hreflang"]},{"to":"fr.lucky-minigames.com","via":["hreflang"]},{"to":"it.lucky-minigames.com","via":["hreflang"]}]},
+{"host":"cryptorank.io","status":"ok","cross":[]},
+{"host":"kasinohai.com","status":"timeout","cross":[]}
+]

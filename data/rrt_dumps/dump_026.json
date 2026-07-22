@@ -1,0 +1,16 @@
+[
+{"host":"perelafouine.com","status":"ok","cross":[]},
+{"host":"agingevolved.com","status":"crawl-failed","cross":[]},
+{"host":"cleancss.com","status":"ok","cross":[]},
+{"host":"cryptoast.fr","status":"ok","cross":[]},
+{"host":"restaurantalma.com","status":"ok","cross":[]},
+{"host":"evoplay.games","status":"ok","cross":[]},
+{"host":"fr.scamdoc.com","status":"ok","cross":[{"to":"scamdoc.com","via":["hreflang"]},{"to":"es.scamdoc.com","via":["hreflang"]}]},
+{"host":"captaincaz.net","status":"ok","cross":[{"to":"captain-caz.net","via":["canonical","hreflang"]}]},
+{"host":"books.google.fr","status":"ok","cross":[]},
+{"host":"bhinfo.fr","status":"ok","cross":[]},
+{"host":"julycrance.com","status":"ok","cross":[]},
+{"host":"amf-france.org","status":"ok","cross":[]},
+{"host":"medium.com","status":"ok","cross":[]},
+{"host":"cavadeos.com","status":"ok","cross":[]}
+]

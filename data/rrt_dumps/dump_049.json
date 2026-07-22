@@ -1,0 +1,15 @@
+[
+{"host":"massprod.com","status":"crawl-failed","cross":[]},
+{"host":"atp-air.com","status":"crawl-failed","cross":[]},
+{"host":"feterever.com","status":"ok","cross":[]},
+{"host":"captain-caz.net","status":"ok","cross":[]},
+{"host":"ksportphysiotherapie.com","status":"ok","cross":[]},
+{"host":"hubics.fr","status":"ok","cross":[]},
+{"host":"mo-di-tec.fr","status":"ok","cross":[]},
+{"host":"solo-houses.com","status":"ok","cross":[]},
+{"host":"zaegel-held.com","status":"ok","cross":[]},
+{"host":"joursdedanse.compagnie-pernette.com","status":"ok","cross":[]},
+{"host":"paraguay.bvsalud.org","status":"ok","cross":[]},
+{"host":"bit.ly","status":"ok","cross":[{"to":"bitly.com","via":["canonical","hreflang"]}]},
+{"host":"qaligo.com","status":"ok","cross":[]}
+]

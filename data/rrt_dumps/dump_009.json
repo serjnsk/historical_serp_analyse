@@ -1,0 +1,16 @@
+[
+{"host":"betify.sondagespayants.fr","status":"timeout","cross":[]},
+{"host":"betifys.net","status":"ok","cross":[]},
+{"host":"betifyfr.eu.com","status":"ok","cross":[]},
+{"host":"francebetify.net","status":"ok","cross":[]},
+{"host":"betify.co.za","status":"ok","cross":[]},
+{"host":"betifycasino.us.com","status":"ok","cross":[]},
+{"host":"betifycasino.site","status":"ok","cross":[]},
+{"host":"casino-betify.fr","status":"ok","cross":[]},
+{"host":"betify.jp.net","status":"ok","cross":[{"to":"pilates-studioval.fr","via":["canonical","hreflang"]},{"to":"be-tify.fr","via":["hreflang"]}]},
+{"host":"betify.croixblanche47.fr","status":"crawl-failed","cross":[]},
+{"host":"betify-fr.co.com","status":"ok","cross":[]},
+{"host":"bet.betify.ru","status":"crawl-failed","cross":[]},
+{"host":"record.betify.partners","status":"crawl-failed","cross":[]},
+{"host":"betify-casinos.com","status":"crawl-failed","cross":[]}
+]

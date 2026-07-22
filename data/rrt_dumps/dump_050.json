@@ -1,0 +1,16 @@
+[
+{"host":"aironestudio.com","status":"ok","cross":[]},
+{"host":"im.ufrj.br","status":"crawl-failed","cross":[]},
+{"host":"bar.brasserie-fontaine.ch","status":"ok","cross":[]},
+{"host":"we-dev.fr","status":"crawl-failed","cross":[]},
+{"host":"valprod.fr","status":"ok","cross":[]},
+{"host":"beepgamecenter.com","status":"ok","cross":[]},
+{"host":"ivodoc.wordpress.com","status":"ok","cross":[]},
+{"host":"crunchbase.com","status":"ok","cross":[]},
+{"host":"heylink.me","status":"ok","cross":[]},
+{"host":"liltie.com","status":"ok","cross":[]},
+{"host":"aisneincendie.com","status":"crawl-failed","cross":[]},
+{"host":"hadramoutresturant.com","status":"ok","cross":[]},
+{"host":"getlab.fr","status":"ok","cross":[]},
+{"host":"jamesjsteele.com","status":"ok","cross":[]}
+]

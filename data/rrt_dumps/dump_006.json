@@ -1,0 +1,16 @@
+[
+{"host":"betifycasino.pro","status":"ok","cross":[]},
+{"host":"betify.fm","status":"ok","cross":[]},
+{"host":"betify-frcasino.eu.com","status":"crawl-failed","cross":[]},
+{"host":"betify6.sh","status":"ok","cross":[]},
+{"host":"betify1.bandcamp.com","status":"ok","cross":[]},
+{"host":"betify-portugal.com","status":"ok","cross":[{"to":"betifycasino-pt.com","via":["canonical"]}]},
+{"host":"betify2-casino.com","status":"crawl-failed","cross":[]},
+{"host":"betify-casino.top","status":"crawl-failed","cross":[]},
+{"host":"betify.co.com","status":"ok","cross":[]},
+{"host":"betify.paris","status":"ok","cross":[]},
+{"host":"fr-betify.com","status":"ok","cross":[]},
+{"host":"betifycasino2.fr","status":"ok","cross":[]},
+{"host":"betify0te.hashnode.dev","status":"ok","cross":[]},
+{"host":"affiliates.betify.com","status":"crawl-failed","cross":[]}
+]

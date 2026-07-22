@@ -1,0 +1,15 @@
+[
+{"host":"mondobizarro.fr","status":"ok","cross":[{"to":"kiaora-ondres.fr","via":["canonical"]}]},
+{"host":"basketlandes.fr","status":"ok","cross":[{"to":"sauvequiplume.fr","via":["canonical"]}]},
+{"host":"audreymartin.eu","status":"crawl-failed","cross":[]},
+{"host":"dermatys.fr","status":"crawl-failed","cross":[]},
+{"host":"sondagespayants.fr","status":"ok","cross":[{"to":"leponclet.fr","via":["canonical"]}]},
+{"host":"jesuismalentendant.com","status":"ok","cross":[]},
+{"host":"lemansgolfier.com","status":"ok","cross":[{"to":"fr-betify-casino.com","via":["canonical","hreflang"]}]},
+{"host":"oddspedia.com","status":"ok","cross":[]},
+{"host":"okta.com","status":"ok","cross":[]},
+{"host":"faceit.com","status":"ok","cross":[]},
+{"host":"igamingbrazil.com","status":"ok","cross":[]},
+{"host":"tokeninsight.com","status":"ok","cross":[]},
+{"host":"gamingcommission.be","status":"ok","cross":[]}
+]

@@ -1,0 +1,13 @@
+[
+{"host":"vacuumrandom.com","status":"ok","cross":[]},
+{"host":"faii.co.in","status":"crawl-failed","cross":[]},
+{"host":"scoop.it","status":"ok","cross":[]},
+{"host":"godmota.pt","status":"crawl-failed","cross":[]},
+{"host":"happy-feet.ma","status":"ok","cross":[]},
+{"host":"marion-kieffer-sophrologue.fr","status":"crawl-failed","cross":[]},
+{"host":"confluences.fr","status":"ok","cross":[{"to":"meilleurcasinoen-ligne.net","via":["canonical"]}]},
+{"host":"mga.org.mt","status":"ok","cross":[]},
+{"host":"directsource-games.com","status":"timeout","cross":[]},
+{"host":"cycles-rigobert.com","status":"ok","cross":[]},
+{"host":"meletaderomer.com","status":"ok","cross":[]}
+]

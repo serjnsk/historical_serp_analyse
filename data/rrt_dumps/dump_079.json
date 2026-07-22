@@ -1,0 +1,7 @@
+[
+{"host":"lol.fandom.com","status":"timeout","cross":[]},
+{"host":"movilidadmachala.gob.ec","status":"ok","cross":[]},
+{"host":"blog.10minuteschool.com","status":"ok","cross":[{"to":"10minuteschool.com","via":["canonical","hreflang"]}]},
+{"host":"coomeb.coop.br","status":"ok","cross":[]},
+{"host":"espees.eng.ufmg.br","status":"ok","cross":[]}
+]

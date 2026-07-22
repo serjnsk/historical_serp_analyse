@@ -1,0 +1,16 @@
+[
+{"host":"davidknotts.co.uk","status":"ok","cross":[]},
+{"host":"pdg.ifes.edu.br","status":"timeout","cross":[]},
+{"host":"dicksons2h.com","status":"crawl-failed","cross":[]},
+{"host":"blog.carreiras.pucrs.br","status":"timeout","cross":[]},
+{"host":"dronesimpro.com","status":"timeout","cross":[]},
+{"host":"spacioworld.com","status":"timeout","cross":[]},
+{"host":"asuredentalkaty.com","status":"crawl-failed","cross":[]},
+{"host":"courseset.com","status":"crawl-failed","cross":[]},
+{"host":"scogal.fr","status":"ok","cross":[]},
+{"host":"courbevoievent.com","status":"ok","cross":[]},
+{"host":"lux23.it","status":"ok","cross":[]},
+{"host":"precisteel.fr","status":"ok","cross":[]},
+{"host":"igamingbusiness.com","status":"ok","cross":[]},
+{"host":"yogonet.com","status":"timeout","cross":[]}
+]

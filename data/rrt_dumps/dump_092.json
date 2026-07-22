@@ -1,0 +1,7 @@
+[
+{"host":"crt.saude.sp.gov.br","status":"timeout","cross":[]},
+{"host":"wap.traderscn.com","status":"crawl-failed","cross":[]},
+{"host":"lucena.pb.gov.br","status":"ok","cross":[]},
+{"host":"itaipava.ma.gov.br","status":"ok","cross":[]},
+{"host":"institutoikigai.org.br","status":"crawl-failed","cross":[]}
+]

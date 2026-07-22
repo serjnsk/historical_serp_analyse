@@ -1,0 +1,4 @@
+.env
+*.log
+data/rrt_queue.bak.json
+data/redirects.v1.bak.json

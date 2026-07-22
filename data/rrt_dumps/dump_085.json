@@ -1,0 +1,7 @@
+[
+{"host":"portal.ifnmg.edu.br","status":"crawl-failed","cross":[]},
+{"host":"site.ctasmart.com.br","status":"ok","cross":[]},
+{"host":"m.host-panda.com","status":"timeout","cross":[]},
+{"host":"wap.host-panda.com","status":"crawl-failed","cross":[]},
+{"host":"procon.pa.gov.br","status":"timeout","cross":[]}
+]

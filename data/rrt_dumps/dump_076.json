@@ -1,0 +1,7 @@
+[
+{"host":"ua.tribuna.com","status":"ok","cross":[{"to":"tribuna.com","via":["hreflang"]},{"to":"de.tribuna.com","via":["hreflang"]},{"to":"es.tribuna.com","via":["hreflang"]},{"to":"fr.tribuna.com","via":["hreflang"]},{"to":"it.tribuna.com","via":["hreflang"]},{"to":"ar.tribuna.com","via":["hreflang"]},{"to":"by.tribuna.com","via":["hreflang"]}]},
+{"host":"turismo.curitiba.pr.gov.br","status":"crawl-failed","cross":[]},
+{"host":"pro.myfoodstory.org","status":"ok","cross":[]},
+{"host":"info.delo.si","status":"ok","cross":[]},
+{"host":"it.semrush.com","status":"ok","cross":[{"to":"semrush.com","via":["hreflang"]},{"to":"de.semrush.com","via":["hreflang"]},{"to":"es.semrush.com","via":["hreflang"]},{"to":"fr.semrush.com","via":["hreflang"]},{"to":"nl.semrush.com","via":["hreflang"]},{"to":"pl.semrush.com","via":["hreflang"]},{"to":"pt.semrush.com","via":["hreflang"]},{"to":"sv.semrush.com","via":["hreflang"]},{"to":"vi.semrush.com","via":["hreflang"]},{"to":"tr.semrush.com","via":["hreflang"]},{"to":"zh.semrush.com","via":["hreflang"]},{"to":"ja.semrush.com","via":["hreflang"]},{"to":"ko.semrush.com","via":["hreflang"]}]}
+]

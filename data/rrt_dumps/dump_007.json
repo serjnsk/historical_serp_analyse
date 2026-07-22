@@ -1,0 +1,16 @@
+[
+{"host":"betify.store","status":"ok","cross":[]},
+{"host":"betifywin.com","status":"crawl-failed","cross":[]},
+{"host":"betify-fra.website","status":"crawl-failed","cross":[]},
+{"host":"betify.guru","status":"ok","cross":[]},
+{"host":"betifyfrance.hashnode.dev","status":"ok","cross":[]},
+{"host":"betify.charlicharger.fr","status":"ok","cross":[{"to":"lycee-charlesdegaulle.fr","via":["canonical","hreflang"]}]},
+{"host":"betify-casino.retdtechfrance.fr","status":"ok","cross":[{"to":"lycee-charlesdegaulle.fr","via":["canonical","hreflang"]}]},
+{"host":"betify1.eu.com","status":"crawl-failed","cross":[]},
+{"host":"betifycasino.one","status":"crawl-failed","cross":[]},
+{"host":"betifycasino5.com","status":"crawl-failed","cross":[]},
+{"host":"betifycasino.ltd","status":"ok","cross":[{"to":"sauvequiplume.fr","via":["canonical"]}]},
+{"host":"betifyfrance.ltd","status":"crawl-failed","cross":[]},
+{"host":"betify-casino.ltd","status":"crawl-failed","cross":[]},
+{"host":"betify.camminabimbi.com","status":"crawl-failed","cross":[]}
+]

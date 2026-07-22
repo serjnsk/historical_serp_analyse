@@ -1,0 +1,16 @@
+[
+{"host":"davidknotts.co.uk","status":"ok","cross":[]},
+{"host":"psintelligence.fr","status":"ok","cross":[]},
+{"host":"petitpeuple.fr","status":"ok","cross":[]},
+{"host":"tdl-demenagement.fr","status":"crawl-failed","cross":[]},
+{"host":"formation.iseh.fr","status":"crawl-failed","cross":[]},
+{"host":"dieteticienne85.fr","status":"ok","cross":[]},
+{"host":"blix.gg","status":"ok","cross":[]},
+{"host":"atelieraulei.fr","status":"timeout","cross":[]},
+{"host":"pizzagranderue.fr","status":"crawl-failed","cross":[]},
+{"host":"sduncanlaw.com","status":"ok","cross":[]},
+{"host":"lerevelateur.net","status":"timeout","cross":[]},
+{"host":"aventim-residentiel.com","status":"ok","cross":[]},
+{"host":"wrf.unoeste.br","status":"crawl-failed","cross":[]},
+{"host":"cybrhawk.com","status":"ok","cross":[]}
+]

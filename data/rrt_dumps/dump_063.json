@@ -1,0 +1,16 @@
+[
+{"host":"comptoir-de-lor.fr","status":"ok","cross":[]},
+{"host":"drone-design.fr","status":"timeout","cross":[]},
+{"host":"atrgarage.com","status":"ok","cross":[]},
+{"host":"raveaustin.com","status":"ok","cross":[]},
+{"host":"rhodopesfairytales2019.discovered-spaces.org","status":"crawl-failed","cross":[]},
+{"host":"migrenetest.volvat.no","status":"crawl-failed","cross":[]},
+{"host":"summit.leadmissionsintl.com","status":"ok","cross":[]},
+{"host":"crystaltherapygems.com","status":"ok","cross":[]},
+{"host":"prosel.ifpa.edu.br","status":"crawl-failed","cross":[]},
+{"host":"conexao.ufrj.br","status":"timeout","cross":[]},
+{"host":"dansermag.com","status":"ok","cross":[]},
+{"host":"rip.ie","status":"ok","cross":[]},
+{"host":"bourgeois.avocat.fr","status":"crawl-failed","cross":[]},
+{"host":"titanfrance.com","status":"timeout","cross":[]}
+]

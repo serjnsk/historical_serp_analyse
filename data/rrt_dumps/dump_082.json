@@ -1,0 +1,7 @@
+[
+{"host":"sefaz.ap.gov.br","status":"timeout","cross":[]},
+{"host":"paicintegral.seduc.ce.gov.br","status":"ok","cross":[]},
+{"host":"apps.cept.gov.in","status":"timeout","cross":[]},
+{"host":"msduniv.ac.in","status":"crawl-failed","cross":[]},
+{"host":"getinvolved.london.ca","status":"ok","cross":[]}
+]

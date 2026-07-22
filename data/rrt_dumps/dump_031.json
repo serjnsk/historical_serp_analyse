@@ -1,0 +1,9 @@
+[
+{"host":"vip-grinders.com","status":"ok","cross":[{"to":"vip-grinders.es","via":["hreflang"]}]},
+{"host":"adm.gov.it","status":"ok","cross":[]},
+{"host":"centraldenoticiasbrasil.com","status":"crawl-failed","cross":[]},
+{"host":"enjoyspa.fr","status":"ok","cross":[]},
+{"host":"youpey.com","status":"crawl-failed","cross":[]},
+{"host":"ofc-eu.com","status":"ok","cross":[]},
+{"host":"frenchiesfriendly.com","status":"ok","cross":[]}
+]

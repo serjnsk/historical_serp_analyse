@@ -1,0 +1,16 @@
+[
+{"host":"betify-fr1.france-petitions.com","status":"crawl-failed","cross":[]},
+{"host":"betify.audreymartin.eu","status":"crawl-failed","cross":[]},
+{"host":"betifycasino.app","status":"ok","cross":[{"to":"betifycasinoenligne.com","via":["canonical","hreflang"]}]},
+{"host":"betify2.lycee-charlesdegaulle.fr","status":"ok","cross":[{"to":"lycee-charlesdegaulle.fr","via":["canonical","hreflang"]}]},
+{"host":"betify.basketlandes.fr","status":"crawl-failed","cross":[]},
+{"host":"betify.bsctimes.com","status":"ok","cross":[]},
+{"host":"casino-betify.net","status":"ok","cross":[{"to":"marcdecafe.fr","via":["canonical","hreflang"]}]},
+{"host":"betify-fr1-casino.france-petitions.com","status":"crawl-failed","cross":[]},
+{"host":"casinabetify.com","status":"ok","cross":[]},
+{"host":"betify.vitacolo.fr","status":"crawl-failed","cross":[]},
+{"host":"betify.online-gaming-casino.click","status":"ok","cross":[{"to":"rotisserie-mios.fr","via":["hreflang"]}]},
+{"host":"betifycasino.online","status":"ok","cross":[]},
+{"host":"betify-fr-casino.eu.com","status":"crawl-failed","cross":[]},
+{"host":"betifyfr.vitacolo.fr","status":"crawl-failed","cross":[]}
+]

@@ -1,0 +1,7 @@
+[
+{"host":"valencadopiaui.pi.leg.br","status":"ok","cross":[]},
+{"host":"transparencia.tanquedarca.al.gov.br","status":"ok","cross":[]},
+{"host":"parnarama.ma.leg.br","status":"ok","cross":[]},
+{"host":"wap.lacey-ve.com","status":"timeout","cross":[]},
+{"host":"home.rumahpeluang.com","status":"crawl-failed","cross":[]}
+]

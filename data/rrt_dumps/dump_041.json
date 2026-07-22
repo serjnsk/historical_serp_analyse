@@ -1,0 +1,5 @@
+[
+{"host":"webparanoid.com","status":"timeout","cross":[]},
+{"host":"museumtoulouse-collections.fr","status":"ok","cross":[{"to":"autosecurite-vieux-lille.fr","via":["canonical"]}]},
+{"host":"chevalnouvelleaquitaine.fr","status":"ok","cross":[]}
+]

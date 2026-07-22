@@ -1,0 +1,16 @@
+[
+{"host":"burger-tangor.fr","status":"timeout","cross":[]},
+{"host":"carre-chroma.fr","status":"timeout","cross":[]},
+{"host":"randolphe-gohi.com","status":"crawl-failed","cross":[]},
+{"host":"diveriteservice.com","status":"ok","cross":[]},
+{"host":"medicys.fr","status":"ok","cross":[]},
+{"host":"allopeinture-deco.fr","status":"crawl-failed","cross":[]},
+{"host":"cfcici.co.in","status":"ok","cross":[]},
+{"host":"acma-menuiseries.fr","status":"ok","cross":[]},
+{"host":"estatekom.com","status":"crawl-failed","cross":[]},
+{"host":"cadrenoirmontsaintmichel.fr","status":"timeout","cross":[]},
+{"host":"aristainternational.ae","status":"crawl-failed","cross":[]},
+{"host":"studiotribu.fr","status":"crawl-failed","cross":[]},
+{"host":"azariapr.co.uk","status":"ok","cross":[]},
+{"host":"clashofslots.hashnode.dev","status":"ok","cross":[]}
+]

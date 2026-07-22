@@ -1,0 +1,10 @@
+[
+{"host":"fr.bitdegree.org","status":"ok","cross":[{"to":"bitdegree.org","via":["hreflang"]},{"to":"es.bitdegree.org","via":["hreflang"]},{"to":"ru.bitdegree.org","via":["hreflang"]},{"to":"tr.bitdegree.org","via":["hreflang"]},{"to":"id.bitdegree.org","via":["hreflang"]},{"to":"br.bitdegree.org","via":["hreflang"]},{"to":"cn.bitdegree.org","via":["hreflang"]},{"to":"vn.bitdegree.org","via":["hreflang"]},{"to":"jp.bitdegree.org","via":["hreflang"]}]},
+{"host":"benjamingirard.com","status":"ok","cross":[]},
+{"host":"people.utm.my","status":"crawl-failed","cross":[]},
+{"host":"sebastienzozaya.fr","status":"ok","cross":[]},
+{"host":"click-vacances.com","status":"ok","cross":[]},
+{"host":"pausecafein.fr","status":"ok","cross":[]},
+{"host":"fr.egamersworld.com","status":"ok","cross":[{"to":"egamersworld.com","via":["hreflang"]},{"to":"ua.egamersworld.com","via":["hreflang"]},{"to":"rus.egamersworld.com","via":["hreflang"]},{"to":"de.egamersworld.com","via":["hreflang"]},{"to":"pt.egamersworld.com","via":["hreflang"]},{"to":"es.egamersworld.com","via":["hreflang"]},{"to":"pl.egamersworld.com","via":["hreflang"]},{"to":"tr.egamersworld.com","via":["hreflang"]},{"to":"fi.egamersworld.com","via":["hreflang"]},{"to":"da.egamersworld.com","via":["hreflang"]},{"to":"no.egamersworld.com","via":["hreflang"]},{"to":"sv.egamersworld.com","via":["hreflang"]}]},
+{"host":"t.me","status":"ok","cross":[]}
+]

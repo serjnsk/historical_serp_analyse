@@ -1,0 +1,9 @@
+[
+{"host":"bart-f.fr","status":"ok","cross":[]},
+{"host":"sucreriedelamontagne.com","status":"crawl-failed","cross":[]},
+{"host":"illicomag.fr","status":"ok","cross":[]},
+{"host":"dellibabykids.com.br","status":"crawl-failed","cross":[]},
+{"host":"vl-media.fr","status":"ok","cross":[]},
+{"host":"jacobsandwhitehall.com","status":"ok","cross":[]},
+{"host":"rdriviera.com","status":"ok","cross":[{"to":"betify-casino-en-ligne-france.eu.com","via":["canonical","hreflang"]}]}
+]

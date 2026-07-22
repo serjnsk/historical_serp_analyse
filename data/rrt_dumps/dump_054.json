@@ -1,0 +1,15 @@
+[
+{"host":"shining.no","status":"timeout","cross":[]},
+{"host":"projetia-sas.fr","status":"timeout","cross":[]},
+{"host":"zenartemotions.com","status":"ok","cross":[]},
+{"host":"growingtogether.scot","status":"ok","cross":[]},
+{"host":"semag.digital-outremer.com","status":"ok","cross":[{"to":"semaag.fr","via":["canonical"]}]},
+{"host":"tarifdouanier.eu","status":"timeout","cross":[]},
+{"host":"medical-plus.com.ua","status":"timeout","cross":[]},
+{"host":"escapade-valfrejus.fr","status":"timeout","cross":[]},
+{"host":"familypizzavaulx.fr","status":"ok","cross":[]},
+{"host":"blogs.laprensagrafica.com","status":"ok","cross":[]},
+{"host":"rwcplasticsurgery.com","status":"crawl-failed","cross":[]},
+{"host":"metaratings.ru","status":"ok","cross":[{"to":"metaratings.by","via":["hreflang"]},{"to":"meta-ratings.kz","via":["hreflang"]},{"to":"metaratings.tj","via":["hreflang"]}]},
+{"host":"gpvrivedroite.fr","status":"timeout","cross":[]}
+]

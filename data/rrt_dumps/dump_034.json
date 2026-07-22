@@ -1,0 +1,16 @@
+[
+{"host":"gowork.fr","status":"ok","cross":[]},
+{"host":"sitecomme.ca","status":"ok","cross":[]},
+{"host":"sggoodwood.com","status":"ok","cross":[]},
+{"host":"irishluck.ie","status":"ok","cross":[]},
+{"host":"lions-france.org","status":"ok","cross":[]},
+{"host":"creativefactory.info","status":"ok","cross":[]},
+{"host":"ligue-bretagne-triathlon.com","status":"ok","cross":[{"to":"betify-fr1.lievin2025.com","via":["canonical","hreflang"]},{"to":"lievin2025.com","via":["hreflang"]}]},
+{"host":"retos.margafriend.com","status":"crawl-failed","cross":[]},
+{"host":"site24x7.com","status":"ok","cross":[]},
+{"host":"esports.net","status":"ok","cross":[]},
+{"host":"m.twitch.tv","status":"ok","cross":[{"to":"twitch.tv","via":["hreflang"]}]},
+{"host":"africasport.net","status":"ok","cross":[]},
+{"host":"blofin.com","status":"ok","cross":[]},
+{"host":"fintalea.com","status":"crawl-failed","cross":[]}
+]

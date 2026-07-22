@@ -1,0 +1,14 @@
+[
+{"host":"fusion3pl.co.uk","status":"timeout","cross":[]},
+{"host":"forumducadredevie.bj","status":"timeout","cross":[]},
+{"host":"mahah.ie","status":"crawl-failed","cross":[]},
+{"host":"renaitre.fr","status":"ok","cross":[]},
+{"host":"rawcompany.net","status":"crawl-failed","cross":[]},
+{"host":"nutrition-veterinaire.com","status":"ok","cross":[]},
+{"host":"native-constructeur.com","status":"ok","cross":[]},
+{"host":"dev.upline-groupe.com","status":"ok","cross":[{"to":"upline-groupe.com","via":["canonical"]}]},
+{"host":"arnouldsgym.com","status":"timeout","cross":[]},
+{"host":"indicouple.com","status":"timeout","cross":[]},
+{"host":"digi-topo.com","status":"timeout","cross":[]},
+{"host":"jouonsflash.com","status":"timeout","cross":[]}
+]

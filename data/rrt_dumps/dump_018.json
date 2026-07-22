@@ -1,0 +1,14 @@
+[
+{"host":"lucky-7-bonus.fr","status":"timeout","cross":[]},
+{"host":"livredepari.com","status":"timeout","cross":[]},
+{"host":"parisparfums.fr","status":"timeout","cross":[]},
+{"host":"mcasinofr.com","status":"crawl-failed","cross":[]},
+{"host":"lesmeilleurs-jeux.net","status":"ok","cross":[]},
+{"host":"askgamblers.com","status":"ok","cross":[]},
+{"host":"meilleurcasinoen-ligne.net","status":"ok","cross":[]},
+{"host":"sunaocasino.com","status":"ok","cross":[]},
+{"host":"bet-ify.com","status":"ok","cross":[]},
+{"host":"royaal.casino","status":"ok","cross":[]},
+{"host":"bästabettingsidorna.se","status":"ok","cross":[]},
+{"host":"casinogratuitsansdepot.com","status":"ok","cross":[{"to":"mastersjeuvideo.com","via":["canonical","hreflang"]}]}
+]

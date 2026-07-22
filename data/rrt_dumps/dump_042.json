@@ -1,0 +1,5 @@
+[
+{"host":"toncadre.fr","status":"ok","cross":[{"to":"tsr-recyclage.fr","via":["canonical","hreflang"]}]},
+{"host":"bulgarie-dentiste.fr","status":"ok","cross":[{"to":"tsr-recyclage.fr","via":["canonical","hreflang"]}]},
+{"host":"usvck.fr","status":"ok","cross":[{"to":"tsr-recyclage.fr","via":["canonical","hreflang"]}]}
+]

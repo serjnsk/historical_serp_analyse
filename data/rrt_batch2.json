@@ -1,0 +1,6508 @@
+{
+ "results": [
+  {
+   "host": "critiquejeu.info",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bonussansdepot.info",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "parissportif.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "laplanquedujoueur.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "codebeautify.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "franceverif.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jouerenlignefr.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.co",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyavis.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-officiel.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.co",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-france.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casinos.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyfrance.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casino-betify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifyconnexion.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifyplay.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.world",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-pro.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ambulance-zephyr.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.website",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "europe-en-rhonealpes.eu",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify.best",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify2.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hotellalauzetane.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify-fr-casino.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "help.betify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-12d.webflow.io",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.club",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.pt",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino-fr.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-france.casino",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-casino.com.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify-es.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify-italy.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify-live.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify-online.de",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifys.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.carrd.co",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-oficial-portugal.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-france.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-code-promo.betify-casino-france.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.games",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino-fr-fr.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "betify1.co",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "betifyfr.shop",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-sport-france.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "jeux.betify-casino-sport-france.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.jimdosite.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-fr.eu.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-fr.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-casino-fr.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-bet.betify-casino-fr.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-casino-online-fr.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-bet.betify-casino-fr.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betify-casino-fr.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-casino-poker-france.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "jeux.betify-casino-poker-france.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifyfr.malokadistro.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino365fr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasinoa366fr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.best",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "europe-en-rhonealpes.eu",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-casino-poker-fr.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-club-fr.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "jeux.betify-casino-club-fr.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-casino-france.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifycas.betify-casino-france.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify22.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifybett.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ca.betifybett.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "nl.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "it.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.betifybett.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifys.app",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify1.sh",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino777fr.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifycasinoa366fr.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifycasinoappfr.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tinyscholarstown.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "official.tower-rush-jeu7.us.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinobetifyfr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasinosfrance.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ambulance-zephyr.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.univers-med.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify1.eu",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifyparis.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.uk.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyfrance.vitacolo.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "arcadius-ristorante.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "vitacolo.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.it",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-officiel3.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifyconnexionfr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinosbetify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinobetify1.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinos-betify.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.pro",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.fm",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-frcasino.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify6.sh",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify1.bandcamp.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-portugal.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifycasino-pt.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify2-casino.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino.top",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.paris",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fr-betify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino2.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify0te.hashnode.dev",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "affiliates.betify.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.store",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifywin.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-fra.website",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.guru",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifyfrance.hashnode.dev",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.charlicharger.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-casino.retdtechfrance.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify1.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.one",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino5.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.ltd",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "sauvequiplume.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifyfrance.ltd",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino.ltd",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.camminabimbi.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.oen.org.uk",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify.be-h.be",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "be-h.be",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.sondagespayants.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "betifys.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifyfr.eu.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "francebetify.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.co.za",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.us.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.site",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casino-betify.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.jp.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pilates-studioval.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "be-tify.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.croixblanche47.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-fr.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bet.betify.ru",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "record.betify.partners",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casinos.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-france-fr.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-sportif.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.link",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino.info",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycs-fr.click",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-fr.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify3sh.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifycasino.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino-fr.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.retdtechfrance.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifyfr.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyonline.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyonline-fr.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyfrance1.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casinofr.top",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casinofr.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casino-betify.retdtechfrance.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-fr.lycee-charlesdegaulle.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifyfrance.vip",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "urbanmobs.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify88.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.ru",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.malokadistro.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casino.france-petitions.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "connexion.betify-officiel1.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "sh5.betify-officiel1.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifynl.toulousebasketclub.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify2.toulousebasketclub.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "toulousebasketclub.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.jobmontagne.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.black",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-fr1.france-petitions.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.audreymartin.eu",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.app",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifycasinoenligne.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify2.lycee-charlesdegaulle.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.basketlandes.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.bsctimes.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casino-betify.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "marcdecafe.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-fr1-casino.france-petitions.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casinabetify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.vitacolo.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.online-gaming-casino.click",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "rotisserie-mios.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifycasino.online",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-fr-casino.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betifyfr.vitacolo.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casinobetify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.cool",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "kiaora-ondres.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-france.vitacolo.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.mabaiedesomme.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.rochedy.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "fr-betify-casino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.betify-casino-france.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-casinos.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify.express",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sh.betify5-casino-france.in.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifyme1.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "codepromobetify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino-fra.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casino-betify.eu",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino.sitegpr.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifyjuin.sitegpr.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sitegpr.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-fr.jp.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify.uk.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifycasinoenligne.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify.mex.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-sh-casino-france.in.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifyme1.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betify-avis.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-casinofr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifys.eu.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betify-paris.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino-enligne.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "site-officiel.betify-sh-casino-france.in.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifyme1.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betifyfr.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betifycasino-fr.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betify-fr.casino",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "madnessbonus.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "betmaker.co",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "stakemaker.org",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinospotfr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "crash-casino.io",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casino-comparatif.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinocomparatif.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casino-comparatif.ca",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "jeux-gratuits-casino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "crypto-casino.bet",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "crypto-casinobet.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pariez-malin.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pariez-malin.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "blog.jeux.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "topcasinofrance.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "le-joueur.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "bonusempire.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "minijeu-casino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "forum.sos-casino.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "forum.soscasino.info",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinonapoleon.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinonapoleon.bet",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinodoc.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cfaparis.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bonuscasinogratuit.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinoenligneguru.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "please-casino.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "sonic5k.com.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "narrow.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "galactic.cz",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "betcha.pa",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jeuxaviator.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "jeuxaviator-fr.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "tnbet.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tn.bet",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lucky-7-bonus.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "livredepari.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "parisparfums.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "mcasinofr.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lesmeilleurs-jeux.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "askgamblers.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "meilleurcasinoen-ligne.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sunaocasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bet-ify.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royaal.casino",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bästabettingsidorna.se",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinogratuitsansdepot.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "mastersjeuvideo.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinospesialisten.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "game-casino.eu",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinonapoleon.bet",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pleeeasecasino1.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "please-casino.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sonic5k.com.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "narrow.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "galactic.cz",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pariez-malin.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pleeeasecasino.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "please-casino.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sonic5k.com.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "narrow.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "galactic.cz",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "crypto-casino.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casino-napoleon.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betandskill.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cryptocasino-bet.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "crypto-casinobet.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "gagnantscasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "top10descasinos.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "betfair.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betfair.bet.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betfair.it",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betfair.es",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "betfair.ro",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "esportsbets.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "foxjeux.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pleeease-casino.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "please-casino.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sonic5k.com.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "narrow.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "galactic.cz",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "cryptocasinobet.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "crypto-casinobet.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "joueurdepari.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "aviatrix.bet",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "casino.jeux.fm",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinos.jeux.fm",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "jeux-fm.us.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinosanalyzer.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "betway.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bet365.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "inesm-paris.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "annuaire-casino-france.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "paris.intersquat.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "better-change.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinos-arabic.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "testcasinoenligne.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sitesdeparissportifs.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "fr.jeux.fm",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinos.jeux.fm",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "jeux-fm.us.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "bettingjobs.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "forum.doccasino.xyz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "germaineparis.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tsr-recyclage.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "unibet.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mondialdesjeux.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bonustiime.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "spicycasinos.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "ruedesparis.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lebonparisportif.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "virtuality-paris.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "appdeparis.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casinoallianz.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "site-paris-sportif-hors-arjel.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bonuskoodit.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "jeux.ca",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "es.casino.guru",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "de.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "se.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kazinoazov.net",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kasinoguru-bg.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinoguru-it.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kasinoguru-cz.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sk.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "dk.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sr.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kongebonus.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "online-casino-dubai.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinos-enlignefr.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casino-en-ligne-fiable.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "le-joueur.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "listedesparis.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "betby.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gamblinginsider.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinoguru-it.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "de.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "se.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kazinoazov.net",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kasinoguru-bg.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kasinoguru-cz.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sk.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "dk.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sr.casino.guru",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "crypto-casino1.bet",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "crypto-casinobet.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "cs2-bets.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casino-victoria.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "victoria-casino.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "actualitesdesparis.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "bonusmaniac.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "forum.soscasino.gg",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "forum.soscasino.info",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "tower-rush.bet",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "comparateurbonus.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinotan.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinotan.net",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinosansdepot.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "the-bonusempire.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "bonussandepot.it.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ambianceloisirs.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "jsonformatter.curiousconcept.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fr.beincrypto.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "beincrypto.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "coinbase.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "roundme.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mutuelle-sante.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "acataqueria.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "scamadviser.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "behance.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sumsub.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "twitch.tv",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jsonformatter.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bookmaker-ratings.ru",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "bookmaker-ratings.pt",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings.bg",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings.kz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings.by",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings-uz.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings.am",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings.lv",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bookmaker-ratings-az.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "oddschecker.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "esportsinsider.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "downdetector.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "footballwhispers.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "campingbayona.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "bayonaplaya.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "steinertriple-sport.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kick.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "coinmarketcap.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "perelafouine.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "agingevolved.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cleancss.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cryptoast.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "restaurantalma.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "evoplay.games",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fr.scamdoc.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "scamdoc.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.scamdoc.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "captaincaz.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "captain-caz.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "books.google.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bhinfo.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "julycrance.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "amf-france.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "medium.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cavadeos.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "binance.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "linktr.ee",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "livetipsportal.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tribuna.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "de.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "it.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ar.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ua.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "by.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "investx.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "spoutnickteam.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tumblr.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "acave.ind.br",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "acatransformadora.com.br",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "godmota.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mondelibre.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "themagma.co",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jebalance.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "coinarbitragebot.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "amicale-pieds-noirs-47.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "shuffle.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "shuffle.bet",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "btcc.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "anj.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fr.bitdegree.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ru.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "tr.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "id.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "br.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "cn.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "vn.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "jp.bitdegree.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "benjamingirard.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "people.utm.my",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sebastienzozaya.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "click-vacances.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pausecafein.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fr.egamersworld.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ua.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "rus.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "tr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fi.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "da.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sv.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "t.me",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "vacuumrandom.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "faii.co.in",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "scoop.it",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "godmota.pt",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "happy-feet.ma",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "marion-kieffer-sophrologue.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "confluences.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "meilleurcasinoen-ligne.net",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "mga.org.mt",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "directsource-games.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "cycles-rigobert.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "meletaderomer.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "vip-grinders.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "vip-grinders.es",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "adm.gov.it",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "centraldenoticiasbrasil.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "enjoyspa.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "youpey.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ofc-eu.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "frenchiesfriendly.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fugaformation.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "botify.ai",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "savonneriekesia.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "emotions-wedding.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "credialianzaltda.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "zenithmmo-france.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pastordavekiehn.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "eoidna.educacion.navarra.es",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "galnet.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "gravatar.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "fr.gravatar.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "blogdafrancoise.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "entauvergne.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "steinertriples-sport.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "steinertriple-sport.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "aboutslots.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "winterdienst-wien.eu",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "find-and-update.company-information.service.gov.uk",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "infspm-mosta.dz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "divalux.ma",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ff4j.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casino-en-ligne-betify.lyon-solidaire.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lyon-solidaire.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "sportytrader.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "sportytrader.de",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sportytrader.es",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sportytrader.pt",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sportytrader.nl",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sportytrader.it",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "genuinelyfrench.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "impor88-genuinelyfrench.pages.dev",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "republicpolicy.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "coinstats.app",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mightytips.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "mightytips-es.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "mightytips.biz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "mightytips.net",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "mightytips.org",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "mightytips.pl",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "mightytips.ro",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "federacioncolegiosjyf.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ppe.ufrj.br",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ppe.coppe.ufrj.br",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "gowork.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sitecomme.ca",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sggoodwood.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "irishluck.ie",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lions-france.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "creativefactory.info",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ligue-bretagne-triathlon.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-fr1.lievin2025.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lievin2025.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "retos.margafriend.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "site24x7.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "esports.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "m.twitch.tv",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "twitch.tv",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "africasport.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "blofin.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fintalea.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "arma-consulting.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mission-humanitaire.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "focusgn.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "about.me",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "atthalin.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-french.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "gregorth.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hotel-phenix-lyon.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "dicebounty.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kollywoodtv.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "edialux.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "petit-grain.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "redesmolinatel.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "grupodicel.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "brocante-sabres.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "brocanteamani.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "bart-f.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sucreriedelamontagne.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "illicomag.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "dellibabykids.com.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "vl-media.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jacobsandwhitehall.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rdriviera.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betify-casino-en-ligne-france.eu.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kitetobreizh.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "francois-robin.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "uci.bi",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "adrianafleisacher.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tribunenantaise.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "circlingthenews.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ejef.tjmg.jus.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "siranthaelectricals.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "biomed21a.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "stake.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "stake.us",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "stake.com.co",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "stake.bet.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "stake.pe",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "stake.it",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "stake.dk",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "stake.mx",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pba.stake.bet.ar",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "oceaneadventures.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "globalgamenetwork.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "acciones.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "apkcombo.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "coindataflow.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "monopoly-live.tv",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bernardbonnefond.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "babylontours.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "babylontours.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "hugestakes.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "webparanoid.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "museumtoulouse-collections.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "autosecurite-vieux-lille.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "chevalnouvelleaquitaine.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "toncadre.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tsr-recyclage.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "bulgarie-dentiste.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tsr-recyclage.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "usvck.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tsr-recyclage.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "chicken-road.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "geckoterminal.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ambianceloisirs.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "marcus-strasbourg.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lycee-charlesdegaulle.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "riip.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "betifyfr.spectacle-oceania.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "spectacle-oceania.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "coinando.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "awebanalysis.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "priceprediction.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ce-at.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "telegram-board.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "warthunder.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sagefemme-willems.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pilates-studioval.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "be-tify.fr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "ctbe.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "cycle-volt.fr",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "montchovet.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "kiaora-ondres.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "mondobizarro.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "kiaora-ondres.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "basketlandes.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "sauvequiplume.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "audreymartin.eu",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "dermatys.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sondagespayants.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "leponclet.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "jesuismalentendant.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemansgolfier.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "fr-betify-casino.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "oddspedia.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "okta.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "faceit.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "igamingbrazil.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tokeninsight.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gamingcommission.be",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "icoholder.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "consortiumamu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "collcard.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "store.louna.tv",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "solusante-grenoble.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "africa-green.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "livecoinwatch.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "serelaxer.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cokhinghiadung.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "playfrancais.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "figurines-multiverse.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "weecommerce.ca",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "outlookindia.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "ecogrillstarter.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "insikalodge.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "blockonomi.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "myteam.ai",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sherak.com.ar",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "urzuv.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hydrofuge-toiture.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "emotionaloverdraft.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "advanspharma.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "corenac.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cd7v.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "radiocnrv.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aide-info-jeu.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "comment-contacter.be",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "minhhuongtravel.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "voyage.uneautrevision.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "faitesvousconnaitre.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bnm.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casino.bnm.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "seawardcoltd.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "escape-league.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "aerogommage02.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "massprod.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "atp-air.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "feterever.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "captain-caz.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ksportphysiotherapie.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hubics.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mo-di-tec.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "solo-houses.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "zaegel-held.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "joursdedanse.compagnie-pernette.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "paraguay.bvsalud.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bit.ly",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "bitly.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "qaligo.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aironestudio.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "im.ufrj.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "bar.brasserie-fontaine.ch",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "we-dev.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "valprod.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "beepgamecenter.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ivodoc.wordpress.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "crunchbase.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "heylink.me",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "liltie.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aisneincendie.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "hadramoutresturant.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "getlab.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jamesjsteele.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "igblive.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cambridgecenter.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "region6.dilg.gov.ph",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gmbabti.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "festivjazz.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lacasededjeye.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "iaxx.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cecilegrimaud.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pizzadelicieuse.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gsaconseil.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "arctp.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "freetips.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bitcoinchaser.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "prothera.com.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "leslessiveslam.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wagyuiberico.es",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "htet2023.in",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "uiservices.co.uk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "engraisgrandmere.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pharmacima.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cryptonews.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tomarnarede.pt",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "smartgirldigital.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "top100bookmakers.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "coren-mt.gov.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kcphotographyandprinting.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "alserviciosjuridicos.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "morajgroup.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "3pol.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "formazioneteci.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ufrj.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "neujpro.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "esthaonfootball.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "dukersusa.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "camaradircereis.sp.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tapdancedetroit.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "excellence-research.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "globalshala.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "bi-nergy.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "denisducarme.net",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "shining.no",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "projetia-sas.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "zenartemotions.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "growingtogether.scot",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "semag.digital-outremer.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "semaag.fr",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "tarifdouanier.eu",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "medical-plus.com.ua",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "escapade-valfrejus.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "familypizzavaulx.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "blogs.laprensagrafica.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rwcplasticsurgery.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "metaratings.ru",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "metaratings.by",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "meta-ratings.kz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "metaratings.tj",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "gpvrivedroite.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "antoniofurlan.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "yereldenevrensele.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bleachmx.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "test-ahmed-elkhodary.pantheonsite.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "coinmooner.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "scentacollection.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "portal.dpap.deped.gov.ph",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "missionafrica.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "chemiefabrik-schwerin.de",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nexams.hpushimla.in",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "konaswimlessons.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "taylorplumbingva.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nesaf.org.uk",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "fusion3pl.co.uk",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "forumducadredevie.bj",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "mahah.ie",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "renaitre.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rawcompany.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "nutrition-veterinaire.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "native-constructeur.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "dev.upline-groupe.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "upline-groupe.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "arnouldsgym.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "indicouple.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "digi-topo.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "jouonsflash.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "davidknotts.co.uk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pdg.ifes.edu.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "dicksons2h.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "blog.carreiras.pucrs.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "dronesimpro.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "spacioworld.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "asuredentalkaty.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "courseset.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "scogal.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "courbevoievent.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lux23.it",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "precisteel.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "igamingbusiness.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "yogonet.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "coincodex.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "horsepower-trainingen.nl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "innoviasup.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "academy.learndash.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "docs.nexcess.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "oncominas.provisorio.ws",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "assimmo.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "hestia-habitat.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "canawinebarmn.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "creativesky.co.uk",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "videosdecyclisme.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "stayamerican.org",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "cordonneriesenlis.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "suramedhealthcenter.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "fgme.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "psintelligence.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "petitpeuple.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tdl-demenagement.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "formation.iseh.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "dieteticienne85.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "blix.gg",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "atelieraulei.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "pizzagranderue.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sduncanlaw.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lerevelateur.net",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "aventim-residentiel.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wrf.unoeste.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cybrhawk.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hrpartners.hr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "vicentecastelloprojects.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "paddypower.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "actuabd.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "facelore.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pharmaciedugrandjardin.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aqmee.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "friendseurope.org",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "aboutdebras.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "dmcsweb.upb.edu.ph",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "slg.lga.gov.ph",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "intergameonline.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sbcnews.co.uk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "dekompanen.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "solsticegrowers.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "bseronline.in",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ssbjk.org.in",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fair-makler.immo",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lepetitalsacien.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "fscore.in",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "us.soccerway.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "au.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ca.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "gh.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ie.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ke.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ng.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sg.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "za.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "uk.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ara.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "cn.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "magasins-privilege.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "noyella.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "breakinghotel.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "preprod.webcaisse.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "maelle-dieteticienne.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "hltv.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lacryptonite.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "nhartgallery.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "d360africa.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "bestof-servolex.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "profmoosa.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "servicefeemaison.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nepei.fae.ufmg.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sigma.world",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ledingenieria.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wp2023-23.sud-wp.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "xeridas.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "comptoir-de-lor.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "drone-design.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "atrgarage.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "raveaustin.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rhodopesfairytales2019.discovered-spaces.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "migrenetest.volvat.no",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "summit.leadmissionsintl.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "crystaltherapygems.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "prosel.ifpa.edu.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "conexao.ufrj.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "dansermag.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rip.ie",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bourgeois.avocat.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "titanfrance.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "inmoov.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "frontpopulaire-2024.fr",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "front-populaire.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "imagup.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "imagup.org",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "asfaltage.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "firjansenai.com.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tracxn.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "vata.eco",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "shebatx.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "doggoneart.ca",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gaffg.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "corinemoriou.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "europeangaming.eu",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "academiavirtual.inpi.gov.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "psknives.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "asisbd.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tendances.chefdentreprise.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "semanact.mcti.gov.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lotuspalmbeach.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tahboubgroup.org",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "miraclesdecarlo.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "brin-de-malice.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fr.besoccer.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "scitaris.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "orienteering.sport",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hs3pe-crises.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "sabrinapele.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "burger-tangor.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "carre-chroma.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "randolphe-gohi.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "diveriteservice.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "medicys.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "allopeinture-deco.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cfcici.co.in",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "acma-menuiseries.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "estatekom.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cadrenoirmontsaintmichel.fr",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "aristainternational.ae",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "studiotribu.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "azariapr.co.uk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "clashofslots.hashnode.dev",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wk-transport-logistique.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pizzasainteanne.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "radio.unesp.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "preprod.jdd.compagnie-pernette.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "portaldaqueixa.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cielhtx.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ahmetipek.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "theperfumestop.co.uk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "savilera.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wetttipps-heute.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "playview.blog",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "wellingtonrochadvogados.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "diaridigital.es",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "rotaaldia.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "innovationhub.ug",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "superklick.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "goodmorningmusic.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "podcastics.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "timetv.news",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "actuanews.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pronostips.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gamesbras.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "egamersworld.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ua.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "rus.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "tr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fi.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "da.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sv.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "es.egamersworld.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ua.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "rus.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "tr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fi.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "da.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sv.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "fscore.org.uk",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "777score.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "us.soccerway.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "au.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ca.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "gh.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ie.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ke.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ng.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sg.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "za.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "uk.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ara.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "cn.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "azscore.ng",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "us.soccerway.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "au.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ca.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "gh.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ie.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ke.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ng.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sg.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "za.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "uk.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ara.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "cn.soccerway.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "siti-scommesse-non-aams.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bc.game",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lucky-minigames.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "de.lucky-minigames.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.lucky-minigames.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.lucky-minigames.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.lucky-minigames.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "it.lucky-minigames.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "cryptorank.io",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasinohai.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "clubtips.substack.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "credtips.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "portalsaude.saobernardo.sp.gov.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "elriconcitodeesther.wordpress.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "irepair.com.cy",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "irepair.gr",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "poxoreu.mt.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mdms.kerala.gov.in",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "cdg.cebudocgroup.com.ph",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "transparencia.saobeneditodoriopreto.ma.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "crempol.arstm.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "gtuipr.gtu.ac.in",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "en.lasentinelle.be",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "portal-snc.eastus2.cloudapp.azure.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "admission.nitsri.ac.in",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "hzpgne.hashnode.dev",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "isee.unifei.edu.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nmcnagpur.gov.in",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "ua.tribuna.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "it.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ar.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "by.tribuna.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "turismo.curitiba.pr.gov.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pro.myfoodstory.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "info.delo.si",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "it.semrush.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "nl.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sv.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "vi.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "tr.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "zh.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ja.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ko.semrush.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "inventariofauna.saobernardo.sp.gov.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "teloencuentroblog.wordpress.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pesquisaicps.recife.pe.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sports.bwin.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "comptablegenie.wordpress.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "riip-fr.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "dev-ahmed-elkhodary.pantheonsite.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "malokadistro-france.eu.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "s3.amazonaws.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "transparencia.cacimbinhas.al.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lol.fandom.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "movilidadmachala.gob.ec",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "blog.10minuteschool.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "10minuteschool.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "coomeb.coop.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "espees.eng.ufmg.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "informagiovani.parma.it",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "brightwoods.edu.ph",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sisar.org.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "secteur-brunoy-valdyerres.catholique.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "celik.com.tr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "club.sabaylok.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "atthalin.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "web.lacey-ve.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "dados.uema.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sefaz.ap.gov.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "paicintegral.seduc.ce.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "apps.cept.gov.in",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "msduniv.ac.in",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "getinvolved.london.ca",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "valencadopiaui.pi.leg.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "transparencia.tanquedarca.al.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "parnarama.ma.leg.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wap.lacey-ve.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "home.rumahpeluang.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pbmc.coppe.ufrj.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "vemsaber.ifsc.usp.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "annetessier.zici.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasneb.or.ke",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "extrema.mg.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "portal.ifnmg.edu.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "site.ctasmart.com.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "m.host-panda.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "wap.host-panda.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "procon.pa.gov.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "news.tmax-iq.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "cemicruzeiro.se.df.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "web.ricoalviano.id",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "erielab.web.unc.edu",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lujan.edu.co",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rr.sapo.pt",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cesu.cps.sp.gov.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "licenciamentounificado.recife.pe.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "suksn.edu.in",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "malokadistro.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "fqcq.qc.ca",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "superior.edu.pk",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "tacelciason1977.jigsy.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "blog.social.mg.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "siga.tjmg.jus.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "mesquita.rj.gov.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "camaraangelina.sc.gov.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "blog.xiaoku6.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "www6.katarzynabies.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "www1.hzdalian.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "wap.haohuic.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "wap.lfkegong.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "www1.spellholdstudios.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "amos-professional-unity.frederic-cordier.fr",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sti2d.lycee-couffignal.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "vetify.com.ar",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "riipfr.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "malokadistrofr.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "malokadistro-fra.eu.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "crt.saude.sp.gov.br",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "wap.traderscn.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lucena.pb.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "itaipava.ma.gov.br",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "institutoikigai.org.br",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "news.eleven-news.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "h5.polyhedralunderground.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "vestibular.faculdaderefidim.edu.br",
+   "status": "ok",
+   "cross": []
+  }
+ ]
+}

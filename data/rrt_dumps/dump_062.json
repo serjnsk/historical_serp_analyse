@@ -1,0 +1,16 @@
+[
+{"host":"preprod.webcaisse.fr","status":"crawl-failed","cross":[]},
+{"host":"maelle-dieteticienne.fr","status":"crawl-failed","cross":[]},
+{"host":"hltv.org","status":"ok","cross":[]},
+{"host":"lacryptonite.fr","status":"timeout","cross":[]},
+{"host":"nhartgallery.com","status":"timeout","cross":[]},
+{"host":"d360africa.com","status":"crawl-failed","cross":[]},
+{"host":"bestof-servolex.fr","status":"ok","cross":[]},
+{"host":"profmoosa.com","status":"ok","cross":[]},
+{"host":"servicefeemaison.fr","status":"ok","cross":[]},
+{"host":"nepei.fae.ufmg.br","status":"ok","cross":[]},
+{"host":"sigma.world","status":"ok","cross":[]},
+{"host":"ledingenieria.com","status":"ok","cross":[]},
+{"host":"wp2023-23.sud-wp.fr","status":"crawl-failed","cross":[]},
+{"host":"xeridas.com","status":"ok","cross":[]}
+]

@@ -1,0 +1,7 @@
+[
+{"host":"pbmc.coppe.ufrj.br","status":"crawl-failed","cross":[]},
+{"host":"vemsaber.ifsc.usp.br","status":"ok","cross":[]},
+{"host":"annetessier.zici.fr","status":"ok","cross":[]},
+{"host":"kasneb.or.ke","status":"timeout","cross":[]},
+{"host":"extrema.mg.gov.br","status":"ok","cross":[]}
+]

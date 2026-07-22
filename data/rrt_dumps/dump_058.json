@@ -1,0 +1,16 @@
+[
+{"host":"coincodex.com","status":"ok","cross":[]},
+{"host":"horsepower-trainingen.nl","status":"ok","cross":[]},
+{"host":"innoviasup.fr","status":"crawl-failed","cross":[]},
+{"host":"academy.learndash.com","status":"ok","cross":[{"to":"docs.nexcess.com","via":["canonical"]}]},
+{"host":"oncominas.provisorio.ws","status":"crawl-failed","cross":[]},
+{"host":"assimmo.fr","status":"timeout","cross":[]},
+{"host":"hestia-habitat.fr","status":"ok","cross":[]},
+{"host":"canawinebarmn.com","status":"timeout","cross":[]},
+{"host":"creativesky.co.uk","status":"timeout","cross":[]},
+{"host":"videosdecyclisme.fr","status":"ok","cross":[]},
+{"host":"stayamerican.org","status":"timeout","cross":[]},
+{"host":"cordonneriesenlis.fr","status":"timeout","cross":[]},
+{"host":"suramedhealthcenter.com","status":"timeout","cross":[]},
+{"host":"fgme.fr","status":"timeout","cross":[]}
+]

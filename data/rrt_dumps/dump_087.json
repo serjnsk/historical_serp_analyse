@@ -1,0 +1,7 @@
+[
+{"host":"rr.sapo.pt","status":"crawl-failed","cross":[]},
+{"host":"cesu.cps.sp.gov.br","status":"crawl-failed","cross":[]},
+{"host":"licenciamentounificado.recife.pe.gov.br","status":"ok","cross":[]},
+{"host":"suksn.edu.in","status":"ok","cross":[]},
+{"host":"malokadistro.eu.com","status":"timeout","cross":[]}
+]

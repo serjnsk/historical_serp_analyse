@@ -1,0 +1,15 @@
+[
+{"host":"chicken-road.net","status":"ok","cross":[]},
+{"host":"geckoterminal.com","status":"ok","cross":[]},
+{"host":"ambianceloisirs.fr","status":"ok","cross":[]},
+{"host":"marcus-strasbourg.fr","status":"ok","cross":[{"to":"lycee-charlesdegaulle.fr","via":["canonical","hreflang"]}]},
+{"host":"riip.fr","status":"ok","cross":[{"to":"betifyfr.spectacle-oceania.fr","via":["canonical","hreflang"]},{"to":"spectacle-oceania.fr","via":["hreflang"]}]},
+{"host":"coinando.com","status":"ok","cross":[]},
+{"host":"awebanalysis.com","status":"ok","cross":[]},
+{"host":"priceprediction.net","status":"ok","cross":[]},
+{"host":"ce-at.fr","status":"crawl-failed","cross":[]},
+{"host":"telegram-board.com","status":"crawl-failed","cross":[]},
+{"host":"warthunder.com","status":"ok","cross":[]},
+{"host":"sagefemme-willems.fr","status":"ok","cross":[{"to":"pilates-studioval.fr","via":["canonical","hreflang"]},{"to":"be-tify.fr","via":["hreflang"]}]},
+{"host":"ctbe.fr","status":"ok","cross":[{"to":"cycle-volt.fr","via":["canonical","hreflang"]}]}
+]

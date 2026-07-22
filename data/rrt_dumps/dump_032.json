@@ -1,0 +1,14 @@
+[
+{"host":"fugaformation.fr","status":"ok","cross":[]},
+{"host":"botify.ai","status":"ok","cross":[]},
+{"host":"savonneriekesia.fr","status":"ok","cross":[]},
+{"host":"emotions-wedding.fr","status":"crawl-failed","cross":[]},
+{"host":"credialianzaltda.com","status":"crawl-failed","cross":[]},
+{"host":"zenithmmo-france.fr","status":"crawl-failed","cross":[]},
+{"host":"pastordavekiehn.com","status":"ok","cross":[]},
+{"host":"eoidna.educacion.navarra.es","status":"ok","cross":[]},
+{"host":"galnet.fr","status":"crawl-failed","cross":[]},
+{"host":"gravatar.com","status":"ok","cross":[{"to":"fr.gravatar.com","via":["hreflang"]}]},
+{"host":"blogdafrancoise.com","status":"crawl-failed","cross":[]},
+{"host":"entauvergne.fr","status":"ok","cross":[]}
+]

@@ -1,0 +1,16 @@
+[
+{"host":"joueurdepari.com","status":"crawl-failed","cross":[]},
+{"host":"aviatrix.bet","status":"timeout","cross":[]},
+{"host":"casino.jeux.fm","status":"ok","cross":[{"to":"casinos.jeux.fm","via":["canonical","hreflang"]},{"to":"jeux-fm.us.org","via":["hreflang"]}]},
+{"host":"casinosanalyzer.com","status":"timeout","cross":[]},
+{"host":"betway.com","status":"ok","cross":[]},
+{"host":"bet365.com","status":"crawl-failed","cross":[]},
+{"host":"inesm-paris.com","status":"ok","cross":[]},
+{"host":"annuaire-casino-france.com","status":"crawl-failed","cross":[]},
+{"host":"paris.intersquat.org","status":"ok","cross":[]},
+{"host":"better-change.org","status":"ok","cross":[]},
+{"host":"casinos-arabic.com","status":"ok","cross":[]},
+{"host":"testcasinoenligne.com","status":"ok","cross":[]},
+{"host":"sitesdeparissportifs.org","status":"crawl-failed","cross":[]},
+{"host":"fr.jeux.fm","status":"ok","cross":[{"to":"casinos.jeux.fm","via":["canonical","hreflang"]},{"to":"jeux-fm.us.org","via":["hreflang"]}]}
+]

@@ -1,0 +1,16 @@
+[
+{"host":"jeux.ca","status":"ok","cross":[]},
+{"host":"es.casino.guru","status":"ok","cross":[{"to":"de.casino.guru","via":["hreflang"]},{"to":"se.casino.guru","via":["hreflang"]},{"to":"kazinoazov.net","via":["hreflang"]},{"to":"pt.casino.guru","via":["hreflang"]},{"to":"kasinoguru-bg.com","via":["hreflang"]},{"to":"casino.guru","via":["hreflang"]},{"to":"casinoguru-it.com","via":["hreflang"]},{"to":"kasinoguru-cz.com","via":["hreflang"]},{"to":"sk.casino.guru","via":["hreflang"]},{"to":"dk.casino.guru","via":["hreflang"]},{"to":"sr.casino.guru","via":["hreflang"]}]},
+{"host":"kongebonus.com","status":"ok","cross":[]},
+{"host":"online-casino-dubai.com","status":"ok","cross":[]},
+{"host":"casinos-enlignefr.com","status":"crawl-failed","cross":[]},
+{"host":"casino-en-ligne-fiable.com","status":"ok","cross":[{"to":"le-joueur.fr","via":["canonical"]}]},
+{"host":"listedesparis.com","status":"crawl-failed","cross":[]},
+{"host":"betby.com","status":"ok","cross":[]},
+{"host":"gamblinginsider.com","status":"ok","cross":[]},
+{"host":"casinoguru-it.com","status":"ok","cross":[{"to":"de.casino.guru","via":["hreflang"]},{"to":"se.casino.guru","via":["hreflang"]},{"to":"kazinoazov.net","via":["hreflang"]},{"to":"pt.casino.guru","via":["hreflang"]},{"to":"kasinoguru-bg.com","via":["hreflang"]},{"to":"casino.guru","via":["hreflang"]},{"to":"es.casino.guru","via":["hreflang"]},{"to":"kasinoguru-cz.com","via":["hreflang"]},{"to":"sk.casino.guru","via":["hreflang"]},{"to":"dk.casino.guru","via":["hreflang"]},{"to":"sr.casino.guru","via":["hreflang"]}]},
+{"host":"crypto-casino1.bet","status":"ok","cross":[{"to":"crypto-casinobet.fr","via":["canonical","hreflang"]}]},
+{"host":"cs2-bets.org","status":"ok","cross":[]},
+{"host":"casino-victoria.fr","status":"ok","cross":[{"to":"victoria-casino.fr","via":["canonical"]}]},
+{"host":"actualitesdesparis.com","status":"crawl-failed","cross":[]}
+]

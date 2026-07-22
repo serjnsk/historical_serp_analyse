@@ -1,0 +1,14 @@
+[
+{"host":"casinospesialisten.net","status":"ok","cross":[]},
+{"host":"game-casino.eu","status":"ok","cross":[]},
+{"host":"casinonapoleon.bet","status":"ok","cross":[]},
+{"host":"pleeeasecasino1.fr","status":"ok","cross":[{"to":"please-casino.fr","via":["canonical","hreflang"]},{"to":"sonic5k.com.br","via":["hreflang"]},{"to":"narrow.io","via":["hreflang"]},{"to":"galactic.cz","via":["hreflang"]}]},
+{"host":"pariez-malin.com","status":"ok","cross":[]},
+{"host":"pleeeasecasino.fr","status":"ok","cross":[{"to":"please-casino.fr","via":["canonical","hreflang"]},{"to":"sonic5k.com.br","via":["hreflang"]},{"to":"narrow.io","via":["hreflang"]},{"to":"galactic.cz","via":["hreflang"]}]},
+{"host":"crypto-casino.fr","status":"ok","cross":[]},
+{"host":"casino-napoleon.fr","status":"ok","cross":[]},
+{"host":"betandskill.com","status":"ok","cross":[]},
+{"host":"cryptocasino-bet.fr","status":"ok","cross":[{"to":"crypto-casinobet.fr","via":["canonical","hreflang"]}]},
+{"host":"gagnantscasino.com","status":"ok","cross":[]},
+{"host":"top10descasinos.com","status":"ok","cross":[]}
+]

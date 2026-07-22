@@ -1,0 +1,7 @@
+[
+{"host":"innovationhub.ug","status":"timeout","cross":[]},
+{"host":"superklick.com","status":"crawl-failed","cross":[]},
+{"host":"goodmorningmusic.net","status":"ok","cross":[{"to":"podcastics.com","via":["canonical"]}]},
+{"host":"timetv.news","status":"ok","cross":[]},
+{"host":"actuanews.fr","status":"ok","cross":[]}
+]

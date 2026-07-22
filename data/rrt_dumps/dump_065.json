@@ -1,0 +1,14 @@
+[
+{"host":"asisbd.org","status":"ok","cross":[]},
+{"host":"tendances.chefdentreprise.com","status":"crawl-failed","cross":[]},
+{"host":"semanact.mcti.gov.br","status":"crawl-failed","cross":[]},
+{"host":"lotuspalmbeach.com","status":"ok","cross":[]},
+{"host":"tahboubgroup.org","status":"timeout","cross":[]},
+{"host":"miraclesdecarlo.com","status":"ok","cross":[]},
+{"host":"brin-de-malice.fr","status":"ok","cross":[]},
+{"host":"fr.besoccer.com","status":"timeout","cross":[]},
+{"host":"scitaris.com","status":"ok","cross":[]},
+{"host":"orienteering.sport","status":"ok","cross":[]},
+{"host":"hs3pe-crises.fr","status":"timeout","cross":[]},
+{"host":"sabrinapele.fr","status":"ok","cross":[]}
+]

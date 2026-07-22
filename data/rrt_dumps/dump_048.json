@@ -1,0 +1,14 @@
+[
+{"host":"corenac.gov.br","status":"ok","cross":[]},
+{"host":"cd7v.fr","status":"crawl-failed","cross":[]},
+{"host":"radiocnrv.com","status":"ok","cross":[]},
+{"host":"aide-info-jeu.fr","status":"timeout","cross":[]},
+{"host":"comment-contacter.be","status":"ok","cross":[]},
+{"host":"minhhuongtravel.com","status":"crawl-failed","cross":[]},
+{"host":"voyage.uneautrevision.com","status":"crawl-failed","cross":[]},
+{"host":"faitesvousconnaitre.com","status":"ok","cross":[]},
+{"host":"bnm.org","status":"ok","cross":[{"to":"casino.bnm.org","via":["canonical","hreflang"]}]},
+{"host":"seawardcoltd.com","status":"timeout","cross":[]},
+{"host":"escape-league.fr","status":"timeout","cross":[]},
+{"host":"aerogommage02.fr","status":"timeout","cross":[]}
+]

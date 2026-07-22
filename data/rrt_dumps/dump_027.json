@@ -1,0 +1,16 @@
+[
+{"host":"binance.com","status":"ok","cross":[]},
+{"host":"linktr.ee","status":"timeout","cross":[]},
+{"host":"livetipsportal.com","status":"ok","cross":[]},
+{"host":"tribuna.com","status":"ok","cross":[{"to":"de.tribuna.com","via":["hreflang"]},{"to":"es.tribuna.com","via":["hreflang"]},{"to":"fr.tribuna.com","via":["hreflang"]},{"to":"it.tribuna.com","via":["hreflang"]},{"to":"ar.tribuna.com","via":["hreflang"]},{"to":"ua.tribuna.com","via":["hreflang"]},{"to":"by.tribuna.com","via":["hreflang"]}]},
+{"host":"investx.fr","status":"ok","cross":[]},
+{"host":"spoutnickteam.com","status":"ok","cross":[]},
+{"host":"tumblr.com","status":"timeout","cross":[]},
+{"host":"acave.ind.br","status":"ok","cross":[{"to":"acatransformadora.com.br","via":["canonical"]}]},
+{"host":"godmota.com","status":"ok","cross":[]},
+{"host":"mondelibre.org","status":"ok","cross":[]},
+{"host":"themagma.co","status":"ok","cross":[]},
+{"host":"jebalance.com","status":"ok","cross":[]},
+{"host":"coinarbitragebot.com","status":"timeout","cross":[]},
+{"host":"amicale-pieds-noirs-47.fr","status":"crawl-failed","cross":[]}
+]

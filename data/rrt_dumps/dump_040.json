@@ -1,0 +1,7 @@
+[
+{"host":"coindataflow.com","status":"ok","cross":[]},
+{"host":"monopoly-live.tv","status":"ok","cross":[]},
+{"host":"bernardbonnefond.com","status":"ok","cross":[]},
+{"host":"babylontours.fr","status":"ok","cross":[{"to":"babylontours.com","via":["canonical","hreflang"]}]},
+{"host":"hugestakes.com","status":"ok","cross":[]}
+]

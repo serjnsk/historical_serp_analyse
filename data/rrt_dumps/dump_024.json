@@ -1,0 +1,16 @@
+[
+{"host":"bonusmaniac.com","status":"timeout","cross":[]},
+{"host":"forum.soscasino.gg","status":"ok","cross":[{"to":"forum.soscasino.info","via":["canonical"]}]},
+{"host":"tower-rush.bet","status":"ok","cross":[]},
+{"host":"comparateurbonus.com","status":"ok","cross":[]},
+{"host":"casinotan.com","status":"ok","cross":[{"to":"casinotan.net","via":["canonical"]}]},
+{"host":"casinosansdepot.it.com","status":"crawl-failed","cross":[]},
+{"host":"the-bonusempire.fr","status":"crawl-failed","cross":[]},
+{"host":"bonussandepot.it.com","status":"ok","cross":[{"to":"ambianceloisirs.fr","via":["canonical","hreflang"]}]},
+{"host":"jsonformatter.curiousconcept.com","status":"ok","cross":[]},
+{"host":"fr.beincrypto.com","status":"ok","cross":[{"to":"beincrypto.com","via":["hreflang"]}]},
+{"host":"coinbase.com","status":"timeout","cross":[]},
+{"host":"roundme.com","status":"ok","cross":[]},
+{"host":"mutuelle-sante.net","status":"ok","cross":[]},
+{"host":"acataqueria.fr","status":"ok","cross":[]}
+]
