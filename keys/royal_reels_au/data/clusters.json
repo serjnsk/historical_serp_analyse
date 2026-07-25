@@ -2,15 +2,24 @@
 "clusters": [
 {
 "id": "C1",
-"size": 38,
+"size": 53,
 "regs": [
+"bondilabs.com",
+"booseeka.com",
 "casino-royalreels.com",
+"deltaassociates.com",
 "fixated-taedium.com",
+"fooddeliverynews.com",
 "google.com",
+"hardfeelings.net",
+"healthyfootballleague.com",
+"jrishifrinson.com",
+"marleyandlockyer.com",
 "rolayreels.com",
 "royal-reels-18.net",
 "royal-reels21.net",
 "royal-reels21au.net",
+"royal-reelz-2.com",
 "royal-reelz.com",
 "royaleeels.com",
 "royaleeels.net",
@@ -38,19 +47,33 @@
 "royalrels.com",
 "royalrels.net",
 "roylereels.com",
+"saving-spoon-billed-sandpiper.com",
+"shakeygroundfarm.com",
+"skolay.com",
+"solardepot.com.au",
+"ticts.net",
 "toyalreels.com",
 "us.org",
 "vivat-lastages.com",
 "wwwroyalreels.com"
 ],
 "members": [
+"bondilabs.com",
+"booseeka.com",
 "casino-royalreels.com",
+"deltaassociates.com",
 "fixated-taedium.com",
+"fooddeliverynews.com",
+"hardfeelings.net",
+"healthyfootballleague.com",
+"jrishifrinson.com",
+"marleyandlockyer.com",
 "play.google.com",
 "rolayreels.com",
 "royal-reels-18.net",
 "royal-reels21.net",
 "royal-reels21au.net",
+"royal-reelz-2.com",
 "royal-reelz.com",
 "royaleeels.com",
 "royaleeels.net",
@@ -59,6 +82,7 @@
 "royalreals.net",
 "royalreels-22casino.net",
 "royalreels-casino-au.com",
+"royalreels.royal-reels21.net",
 "royalreels100.com",
 "royalreels101.com",
 "royalreels11.app",
@@ -79,6 +103,11 @@
 "royalrels.com",
 "royalrels.net",
 "roylereels.com",
+"saving-spoon-billed-sandpiper.com",
+"shakeygroundfarm.com",
+"skolay.com",
+"solardepot.com.au",
+"ticts.net",
 "toyalreels.com",
 "vivat-lastages.com",
 "wwwroyalreels.com"
@@ -263,6 +292,29 @@
 },
 {
 "id": "C6",
+"size": 7,
+"regs": [
+"batikartbarbados.com",
+"royal-reels-10.club",
+"royal-reels-16.club",
+"royal-reels-20.club",
+"royal-reels-au.club",
+"royal-reels-official.club",
+"royal-reels16.ink"
+],
+"members": [
+"batikartbarbados.com",
+"royal-reels-10.club",
+"royal-reels-16.club",
+"royal-reels-20.club",
+"royal-reels-au.club",
+"royal-reels-official.club",
+"royal-reels16.ink"
+],
+"terminals": {}
+},
+{
+"id": "C7",
 "size": 6,
 "regs": [
 "royalreels10.com",
@@ -286,7 +338,7 @@
 }
 },
 {
-"id": "C7",
+"id": "C8",
 "size": 6,
 "regs": [
 "royalreels18-online.com",
@@ -309,7 +361,7 @@
 }
 },
 {
-"id": "C8",
+"id": "C9",
 "size": 5,
 "regs": [
 "royal-reels.com",
@@ -330,7 +382,7 @@
 }
 },
 {
-"id": "C9",
+"id": "C10",
 "size": 5,
 "regs": [
 "boost.education",
@@ -351,7 +403,7 @@
 }
 },
 {
-"id": "C10",
+"id": "C11",
 "size": 4,
 "regs": [
 "itineraire.io",
@@ -370,7 +422,7 @@
 }
 },
 {
-"id": "C11",
+"id": "C12",
 "size": 4,
 "regs": [
 "acture.app",
@@ -389,7 +441,7 @@
 }
 },
 {
-"id": "C12",
+"id": "C13",
 "size": 4,
 "regs": [
 "opra.co.nz",
@@ -408,7 +460,7 @@
 }
 },
 {
-"id": "C13",
+"id": "C14",
 "size": 4,
 "regs": [
 "ivorypearlbar.com",
@@ -428,7 +480,42 @@
 }
 },
 {
-"id": "C14",
+"id": "C15",
+"size": 4,
+"regs": [
+"ata-rdc.org",
+"royal-reels-casino-au.ink",
+"royalreels-23.ink",
+"royalreels-casino1.ink"
+],
+"members": [
+"ata-rdc.org",
+"royalreels.royal-reels-casino-au.ink",
+"royalreels.royalreels-23.ink",
+"royalreels.royalreels-casino1.ink"
+],
+"terminals": {}
+},
+{
+"id": "C16",
+"size": 4,
+"regs": [
+"ercepresliffre.info",
+"idrissa.cc",
+"jwcroft.com"
+],
+"members": [
+"ercepresliffre.info",
+"royalreels.ercepresliffre.info",
+"royalreels.idrissa.cc",
+"royalreels.jwcroft.com"
+],
+"terminals": {
+"ercepresliffre.info": 2
+}
+},
+{
+"id": "C17",
 "size": 3,
 "regs": [
 "bet-square.io",
@@ -445,7 +532,7 @@
 }
 },
 {
-"id": "C15",
+"id": "C18",
 "size": 3,
 "regs": [
 "royalsreels-20.com",
@@ -462,7 +549,7 @@
 }
 },
 {
-"id": "C16",
+"id": "C19",
 "size": 3,
 "regs": [
 "google.com",
@@ -479,7 +566,7 @@
 }
 },
 {
-"id": "C17",
+"id": "C20",
 "size": 3,
 "regs": [
 "greenbeestudyguides.com",
@@ -496,7 +583,7 @@
 }
 },
 {
-"id": "C18",
+"id": "C21",
 "size": 3,
 "regs": [
 "buzzconf.io",
@@ -513,7 +600,7 @@
 }
 },
 {
-"id": "C19",
+"id": "C22",
 "size": 3,
 "regs": [
 "anzsee.org",
@@ -530,7 +617,7 @@
 }
 },
 {
-"id": "C20",
+"id": "C23",
 "size": 3,
 "regs": [
 "101nightwin.com",
@@ -545,7 +632,7 @@
 "terminals": {}
 },
 {
-"id": "C21",
+"id": "C24",
 "size": 3,
 "regs": [
 "brianmoorman.org",
@@ -562,7 +649,7 @@
 }
 },
 {
-"id": "C22",
+"id": "C25",
 "size": 3,
 "regs": [
 "emmadabiri.com",
@@ -579,24 +666,7 @@
 }
 },
 {
-"id": "C23",
-"size": 3,
-"regs": [
-"ercepresliffre.info",
-"idrissa.cc",
-"jwcroft.com"
-],
-"members": [
-"ercepresliffre.info",
-"royalreels.idrissa.cc",
-"royalreels.jwcroft.com"
-],
-"terminals": {
-"ercepresliffre.info": 2
-}
-},
-{
-"id": "C24",
+"id": "C26",
 "size": 3,
 "regs": [
 "aruler.download",
@@ -613,7 +683,7 @@
 }
 },
 {
-"id": "C25",
+"id": "C27",
 "size": 3,
 "regs": [
 "casinologin.bet",
@@ -629,7 +699,7 @@
 }
 },
 {
-"id": "C26",
+"id": "C28",
 "size": 3,
 "regs": [
 "extremereach.com",
@@ -645,7 +715,7 @@
 }
 },
 {
-"id": "C27",
+"id": "C29",
 "size": 2,
 "regs": [
 "icpg.info",
@@ -660,7 +730,7 @@
 }
 },
 {
-"id": "C28",
+"id": "C30",
 "size": 2,
 "regs": [
 "dailymail.co.uk",
@@ -675,7 +745,7 @@
 }
 },
 {
-"id": "C29",
+"id": "C31",
 "size": 2,
 "regs": [
 "bento.me",
@@ -690,7 +760,7 @@
 }
 },
 {
-"id": "C30",
+"id": "C32",
 "size": 2,
 "regs": [
 "threads.com",
@@ -705,7 +775,7 @@
 }
 },
 {
-"id": "C31",
+"id": "C33",
 "size": 2,
 "regs": [
 "9news.com.au",
@@ -720,7 +790,7 @@
 }
 },
 {
-"id": "C32",
+"id": "C34",
 "size": 2,
 "regs": [
 "bhglobalproperties.com",
@@ -735,7 +805,7 @@
 }
 },
 {
-"id": "C33",
+"id": "C35",
 "size": 2,
 "regs": [
 "economictimes.com",
@@ -750,7 +820,7 @@
 }
 },
 {
-"id": "C34",
+"id": "C36",
 "size": 2,
 "regs": [
 "heavyliftpfi.com",
@@ -765,7 +835,7 @@
 }
 },
 {
-"id": "C35",
+"id": "C37",
 "size": 2,
 "regs": [
 "atom.com",
@@ -780,7 +850,7 @@
 }
 },
 {
-"id": "C36",
+"id": "C38",
 "size": 2,
 "regs": [
 "royalreels7casino.com",
@@ -795,7 +865,7 @@
 }
 },
 {
-"id": "C37",
+"id": "C39",
 "size": 2,
 "regs": [
 "aplar2020.com",
@@ -810,7 +880,7 @@
 }
 },
 {
-"id": "C38",
+"id": "C40",
 "size": 2,
 "regs": [
 "abadat5rckc.com",
@@ -825,7 +895,7 @@
 }
 },
 {
-"id": "C39",
+"id": "C41",
 "size": 2,
 "regs": [
 "moblumen.com",
@@ -840,7 +910,7 @@
 }
 },
 {
-"id": "C40",
+"id": "C42",
 "size": 2,
 "regs": [
 "richfeel.com",
@@ -855,7 +925,7 @@
 }
 },
 {
-"id": "C41",
+"id": "C43",
 "size": 2,
 "regs": [
 "birthed.co.nz",
@@ -870,7 +940,7 @@
 }
 },
 {
-"id": "C42",
+"id": "C44",
 "size": 2,
 "regs": [
 "casinoroyalreels.com",
@@ -885,7 +955,7 @@
 }
 },
 {
-"id": "C43",
+"id": "C45",
 "size": 2,
 "regs": [
 "anchorinn.pub",
@@ -900,7 +970,7 @@
 }
 },
 {
-"id": "C44",
+"id": "C46",
 "size": 2,
 "regs": [
 "tokenplay.app",
@@ -915,7 +985,7 @@
 }
 },
 {
-"id": "C45",
+"id": "C47",
 "size": 2,
 "regs": [
 "crownau77.com",
@@ -930,7 +1000,7 @@
 }
 },
 {
-"id": "C46",
+"id": "C48",
 "size": 2,
 "regs": [
 "nitropack.io",
@@ -945,7 +1015,7 @@
 }
 },
 {
-"id": "C47",
+"id": "C49",
 "size": 2,
 "regs": [
 "musclegun.co.nz",
@@ -960,7 +1030,7 @@
 }
 },
 {
-"id": "C48",
+"id": "C50",
 "size": 2,
 "regs": [
 "beyondgenderproject.org",
@@ -975,7 +1045,7 @@
 }
 },
 {
-"id": "C49",
+"id": "C51",
 "size": 2,
 "regs": [
 "royalreels10.co.com",
@@ -990,7 +1060,7 @@
 }
 },
 {
-"id": "C50",
+"id": "C52",
 "size": 2,
 "regs": [
 "royaal.casino",
@@ -1005,7 +1075,7 @@
 }
 },
 {
-"id": "C51",
+"id": "C53",
 "size": 2,
 "regs": [
 "actualiteivoire.info",
@@ -1018,16 +1088,63 @@
 "terminals": {
 "actualiteivoire.info": 1
 }
+},
+{
+"id": "C54",
+"size": 2,
+"regs": [
+"chicagoandfriendsintheatres.com",
+"royalreelsonlinecasino.com"
+],
+"members": [
+"chicagoandfriendsintheatres.com",
+"royalreelsonlinecasino.com"
+],
+"terminals": {}
+},
+{
+"id": "C55",
+"size": 2,
+"regs": [
+"expressivetherapiessummit.la",
+"royalreels22casino.club"
+],
+"members": [
+"expressivetherapiessummit.la",
+"royalreels22casino.club"
+],
+"terminals": {}
+},
+{
+"id": "C56",
+"size": 2,
+"regs": [
+"hotwaterbrewingco.com"
+],
+"members": [
+"hotwaterbrewingco.com",
+"royal-reels-23.hotwaterbrewingco.com"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
+"bondilabs.com": "C1",
+"booseeka.com": "C1",
 "casino-royalreels.com": "C1",
+"deltaassociates.com": "C1",
 "fixated-taedium.com": "C1",
+"fooddeliverynews.com": "C1",
+"hardfeelings.net": "C1",
+"healthyfootballleague.com": "C1",
+"jrishifrinson.com": "C1",
+"marleyandlockyer.com": "C1",
 "play.google.com": "C1",
 "rolayreels.com": "C1",
 "royal-reels-18.net": "C1",
 "royal-reels21.net": "C1",
 "royal-reels21au.net": "C1",
+"royal-reelz-2.com": "C1",
 "royal-reelz.com": "C1",
 "royaleeels.com": "C1",
 "royaleeels.net": "C1",
@@ -1036,6 +1153,7 @@
 "royalreals.net": "C1",
 "royalreels-22casino.net": "C1",
 "royalreels-casino-au.com": "C1",
+"royalreels.royal-reels21.net": "C1",
 "royalreels100.com": "C1",
 "royalreels101.com": "C1",
 "royalreels11.app": "C1",
@@ -1056,6 +1174,11 @@
 "royalrels.com": "C1",
 "royalrels.net": "C1",
 "roylereels.com": "C1",
+"saving-spoon-billed-sandpiper.com": "C1",
+"shakeygroundfarm.com": "C1",
+"skolay.com": "C1",
+"solardepot.com.au": "C1",
+"ticts.net": "C1",
 "toyalreels.com": "C1",
 "vivat-lastages.com": "C1",
 "wwwroyalreels.com": "C1",
@@ -1124,133 +1247,151 @@
 "shedoesthis.com": "C5",
 "steroide.me": "C5",
 "thetricksnetwork.com": "C5",
-"royalreels10.com": "C6",
-"royalreels22.com": "C6",
-"royalreels23.com": "C6",
-"royalreels7.com": "C6",
-"royalreels8.com": "C6",
-"royalreels9.com": "C6",
-"royalreels18-online.com": "C7",
-"royalreelscasino18official.net": "C7",
-"therocket.house": "C7",
-"vortex3d.nz": "C7",
-"vortex3d.nzau": "C7",
-"vortex3d.nzen-au": "C7",
-"royal-reels.com": "C8",
-"royalreels.casino": "C8",
-"royalreels.online": "C8",
-"royalreelsofficial.com": "C8",
-"royalreelsonline-casino.com": "C8",
-"boost.education": "C9",
-"mcash.network": "C9",
-"portmolyneuxschool.co.nz": "C9",
-"southmountain.vet": "C9",
-"wrenchturners.online": "C9",
-"itineraire.io": "C10",
-"mpo333.io": "C10",
-"outspokenwomen.io": "C10",
-"tabletoprpg.io": "C10",
-"acture.app": "C11",
-"emwis-eg.org": "C11",
-"harmonycricket.farm": "C11",
-"occupylausd.org": "C11",
-"opra.co.nz": "C12",
-"royalreels-casino-official-site.com": "C12",
-"royalreels18casino.us.com": "C12",
-"royalreelscasino18.ink": "C12",
-"ivorypearlbar.com": "C13",
-"lostsociety-dc.com": "C13",
-"parkersgrille.com": "C13",
-"uncagedmimosas.com": "C13",
-"bet-square.io": "C14",
-"betsquare.com": "C14",
-"betsquare.org": "C14",
-"royalsreels-20.com": "C15",
-"royalsreels-21.com": "C15",
-"royalsreels.com": "C15",
-"cecon.setelagoas.mg.gov.br": "C16",
-"google.com": "C16",
-"royalqueenseeds.it": "C16",
-"greenbeestudyguides.com": "C17",
-"papporestaurant.com": "C17",
-"xa-na.com": "C17",
-"buzzconf.io": "C18",
-"royalreels20.gr.com": "C18",
-"staffrm.io": "C18",
-"anzsee.org": "C19",
-"eidolon.net": "C19",
-"spareharvest.com": "C19",
-"affgo.org": "C20",
-"l1l.pw": "C20",
-"win.101nightwin.com": "C20",
-"brianmoorman.org": "C21",
-"royalreels.implicaproject.org": "C21",
-"royalreels.watanili.com": "C21",
-"royalreels.emmadabiri.com": "C22",
-"royalreels.malagaamiantocero.org": "C22",
-"theapplebyte.info": "C22",
-"ercepresliffre.info": "C23",
-"royalreels.idrissa.cc": "C23",
-"royalreels.jwcroft.com": "C23",
-"aruler.download": "C24",
-"royalreels.constituyentes.org": "C24",
-"royalreels.rawbreakdownproject.com": "C24",
-"au.casinologin.mobi": "C25",
-"casinologin.bet": "C25",
-"casinologin.mobi": "C25",
-"shots.net": "C26",
-"shotsvault.extremereach.com": "C26",
-"sourcecreative.extremereach.com": "C26",
-"icpg.info": "C27",
-"vuze.camera": "C27",
-"dailymail.co.uk": "C28",
-"dailymail.com": "C28",
-"bento.me": "C29",
-"linktr.ee": "C29",
-"threads.com": "C30",
-"threads.net": "C30",
-"9news.com.au": "C31",
-"nine.com.au": "C31",
-"bhglobalproperties.com": "C32",
-"building-heritage.com": "C32",
-"economictimes.indiatimes.com": "C33",
-"m.economictimes.com": "C33",
-"heavyliftpfi.com": "C34",
-"projectcargojournal.com": "C34",
-"domains.atom.com": "C35",
-"polars.io": "C35",
-"royalreels7casino.com": "C36",
-"royalreelscasino-australia.com": "C36",
-"aplar2020.com": "C37",
-"australianassignmentshelp.com": "C37",
-"gkrjao.abadat5rckc.com": "C38",
-"royalreelspokies.live": "C38",
-"moblumen.com": "C39",
-"mtbrokewines.com.au": "C39",
-"richfeel.com": "C40",
-"richfeelnaturals.com": "C40",
-"birthed.co.nz": "C41",
-"hopandvine.co.nz": "C41",
-"casinoroyalreels.com": "C42",
-"royalreels1.casino": "C42",
-"anchorinn.pub": "C43",
-"eatgood.nyc": "C43",
-"tokenplay.app": "C44",
-"vegansupply.co.nz": "C44",
-"crownau77.com": "C45",
-"crownau77.info": "C45",
-"nitropack.io": "C46",
-"petfishtank.com": "C46",
-"musclegun.com.au": "C47",
-"royalreels-official.musclegun.co.nz": "C47",
-"beyondgenderproject.org": "C48",
-"buildabetterbenin.org": "C48",
-"royalreels10.co.com": "C49",
-"royalreelscasinos.co.com": "C49",
-"royaal.casino": "C50",
-"royalreels22.sbs": "C50",
-"actualiteivoire.info": "C51",
-"royalreels.peepmystyles.com": "C51"
+"batikartbarbados.com": "C6",
+"royal-reels-10.club": "C6",
+"royal-reels-16.club": "C6",
+"royal-reels-20.club": "C6",
+"royal-reels-au.club": "C6",
+"royal-reels-official.club": "C6",
+"royal-reels16.ink": "C6",
+"royalreels10.com": "C7",
+"royalreels22.com": "C7",
+"royalreels23.com": "C7",
+"royalreels7.com": "C7",
+"royalreels8.com": "C7",
+"royalreels9.com": "C7",
+"royalreels18-online.com": "C8",
+"royalreelscasino18official.net": "C8",
+"therocket.house": "C8",
+"vortex3d.nz": "C8",
+"vortex3d.nzau": "C8",
+"vortex3d.nzen-au": "C8",
+"royal-reels.com": "C9",
+"royalreels.casino": "C9",
+"royalreels.online": "C9",
+"royalreelsofficial.com": "C9",
+"royalreelsonline-casino.com": "C9",
+"boost.education": "C10",
+"mcash.network": "C10",
+"portmolyneuxschool.co.nz": "C10",
+"southmountain.vet": "C10",
+"wrenchturners.online": "C10",
+"itineraire.io": "C11",
+"mpo333.io": "C11",
+"outspokenwomen.io": "C11",
+"tabletoprpg.io": "C11",
+"acture.app": "C12",
+"emwis-eg.org": "C12",
+"harmonycricket.farm": "C12",
+"occupylausd.org": "C12",
+"opra.co.nz": "C13",
+"royalreels-casino-official-site.com": "C13",
+"royalreels18casino.us.com": "C13",
+"royalreelscasino18.ink": "C13",
+"ivorypearlbar.com": "C14",
+"lostsociety-dc.com": "C14",
+"parkersgrille.com": "C14",
+"uncagedmimosas.com": "C14",
+"ata-rdc.org": "C15",
+"royalreels.royal-reels-casino-au.ink": "C15",
+"royalreels.royalreels-23.ink": "C15",
+"royalreels.royalreels-casino1.ink": "C15",
+"ercepresliffre.info": "C16",
+"royalreels.ercepresliffre.info": "C16",
+"royalreels.idrissa.cc": "C16",
+"royalreels.jwcroft.com": "C16",
+"bet-square.io": "C17",
+"betsquare.com": "C17",
+"betsquare.org": "C17",
+"royalsreels-20.com": "C18",
+"royalsreels-21.com": "C18",
+"royalsreels.com": "C18",
+"cecon.setelagoas.mg.gov.br": "C19",
+"google.com": "C19",
+"royalqueenseeds.it": "C19",
+"greenbeestudyguides.com": "C20",
+"papporestaurant.com": "C20",
+"xa-na.com": "C20",
+"buzzconf.io": "C21",
+"royalreels20.gr.com": "C21",
+"staffrm.io": "C21",
+"anzsee.org": "C22",
+"eidolon.net": "C22",
+"spareharvest.com": "C22",
+"affgo.org": "C23",
+"l1l.pw": "C23",
+"win.101nightwin.com": "C23",
+"brianmoorman.org": "C24",
+"royalreels.implicaproject.org": "C24",
+"royalreels.watanili.com": "C24",
+"royalreels.emmadabiri.com": "C25",
+"royalreels.malagaamiantocero.org": "C25",
+"theapplebyte.info": "C25",
+"aruler.download": "C26",
+"royalreels.constituyentes.org": "C26",
+"royalreels.rawbreakdownproject.com": "C26",
+"au.casinologin.mobi": "C27",
+"casinologin.bet": "C27",
+"casinologin.mobi": "C27",
+"shots.net": "C28",
+"shotsvault.extremereach.com": "C28",
+"sourcecreative.extremereach.com": "C28",
+"icpg.info": "C29",
+"vuze.camera": "C29",
+"dailymail.co.uk": "C30",
+"dailymail.com": "C30",
+"bento.me": "C31",
+"linktr.ee": "C31",
+"threads.com": "C32",
+"threads.net": "C32",
+"9news.com.au": "C33",
+"nine.com.au": "C33",
+"bhglobalproperties.com": "C34",
+"building-heritage.com": "C34",
+"economictimes.indiatimes.com": "C35",
+"m.economictimes.com": "C35",
+"heavyliftpfi.com": "C36",
+"projectcargojournal.com": "C36",
+"domains.atom.com": "C37",
+"polars.io": "C37",
+"royalreels7casino.com": "C38",
+"royalreelscasino-australia.com": "C38",
+"aplar2020.com": "C39",
+"australianassignmentshelp.com": "C39",
+"gkrjao.abadat5rckc.com": "C40",
+"royalreelspokies.live": "C40",
+"moblumen.com": "C41",
+"mtbrokewines.com.au": "C41",
+"richfeel.com": "C42",
+"richfeelnaturals.com": "C42",
+"birthed.co.nz": "C43",
+"hopandvine.co.nz": "C43",
+"casinoroyalreels.com": "C44",
+"royalreels1.casino": "C44",
+"anchorinn.pub": "C45",
+"eatgood.nyc": "C45",
+"tokenplay.app": "C46",
+"vegansupply.co.nz": "C46",
+"crownau77.com": "C47",
+"crownau77.info": "C47",
+"nitropack.io": "C48",
+"petfishtank.com": "C48",
+"musclegun.com.au": "C49",
+"royalreels-official.musclegun.co.nz": "C49",
+"beyondgenderproject.org": "C50",
+"buildabetterbenin.org": "C50",
+"royalreels10.co.com": "C51",
+"royalreelscasinos.co.com": "C51",
+"royaal.casino": "C52",
+"royalreels22.sbs": "C52",
+"actualiteivoire.info": "C53",
+"royalreels.peepmystyles.com": "C53",
+"chicagoandfriendsintheatres.com": "C54",
+"royalreelsonlinecasino.com": "C54",
+"expressivetherapiessummit.la": "C55",
+"royalreels22casino.club": "C55",
+"hotwaterbrewingco.com": "C56",
+"royal-reels-23.hotwaterbrewingco.com": "C56"
 },
 "edges": [
 {
@@ -2362,9 +2503,10 @@
 "src": "royalreels.idrissa.cc",
 "dst": "ercepresliffre.info",
 "via": [
-"301"
+"301",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "royalreels.bond",
@@ -2773,6 +2915,273 @@
 "302"
 ],
 "soft": false
+},
+{
+"src": "royalreelsonlinecasino.com",
+"dst": "chicagoandfriendsintheatres.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels11casinos.com",
+"dst": "hardfeelings.net",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels5.cc",
+"dst": "skolay.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels-22casino.net",
+"dst": "ticts.net",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels.royalreels-23.ink",
+"dst": "ata-rdc.org",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "royalreels.royalreels-23.ink",
+"dst": "royalreels.royalreels-casino1.ink",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-18.net",
+"dst": "booseeka.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreelscasinous.org",
+"dst": "marleyandlockyer.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels.royal-reels-casino-au.ink",
+"dst": "ata-rdc.org",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "royalreels.royal-reels-casino-au.ink",
+"dst": "royalreels.royalreels-casino1.ink",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reelz.com",
+"dst": "bondilabs.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reelz.com",
+"dst": "royal-reelz-2.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels21au.net",
+"dst": "saving-spoon-billed-sandpiper.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels21au.net",
+"dst": "royalreels.royal-reels21.net",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-20.club",
+"dst": "batikartbarbados.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-20.club",
+"dst": "royal-reels16.ink",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-23.hotwaterbrewingco.com",
+"dst": "hotwaterbrewingco.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels11.app",
+"dst": "deltaassociates.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royaleeels1.net",
+"dst": "jrishifrinson.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "wwwroyalreels.com",
+"dst": "healthyfootballleague.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-au.club",
+"dst": "batikartbarbados.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-au.club",
+"dst": "royal-reels16.ink",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-16.club",
+"dst": "batikartbarbados.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-16.club",
+"dst": "royal-reels16.ink",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-official.club",
+"dst": "batikartbarbados.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-official.club",
+"dst": "royal-reels-10.club",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels20.co",
+"dst": "fooddeliverynews.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreals.net",
+"dst": "shakeygroundfarm.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels23casino.net",
+"dst": "solardepot.com.au",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels.idrissa.cc",
+"dst": "royalreels.ercepresliffre.info",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels22casino.club",
+"dst": "expressivetherapiessummit.la",
+"via": [
+"hreflang"
+],
+"soft": true
 }
 ]
 }

@@ -1,0 +1,12 @@
+[
+{"host":"slotozilla.com","status":"ok","cross":[]},
+{"host":"royalreelsonlinecasino.com","status":"ok","cross":[{"to":"chicagoandfriendsintheatres.com","via":["canonical","hreflang"]}]},
+{"host":"auspokies.net","status":"ok","cross":[]},
+{"host":"royalreels11casinos.com","status":"ok","cross":[{"to":"hardfeelings.net","via":["canonical","hreflang"]}]},
+{"host":"royal-reels-casino-au.net","status":"timeout","cross":[]},
+{"host":"royalrels.co.com","status":"ok","cross":[]},
+{"host":"royalreels-23.life","status":"crawl-failed","cross":[]},
+{"host":"royalreels22casino.sbs","status":"crawl-failed","cross":[]},
+{"host":"royalreels5.cc","status":"ok","cross":[{"to":"skolay.com","via":["canonical","hreflang"]}]},
+{"host":"royalreels19casino.sbs","status":"crawl-failed","cross":[]}
+]

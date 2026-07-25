@@ -1,0 +1,588 @@
+{
+ "results": [
+  {
+   "host": "slotozilla.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelsonlinecasino.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "chicagoandfriendsintheatres.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "auspokies.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels11casinos.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hardfeelings.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels-casino-au.net",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "royalrels.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-23.life",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels22casino.sbs",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels5.cc",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "skolay.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels19casino.sbs",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels23.eu.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-22casino.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ticts.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.royalreels-23.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ata-rdc.org",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "royalreels.royalreels-casino1.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels-18.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "booseeka.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-23.win",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino-18.click",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels21casino.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-20.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinos.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels23casinos.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-19.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.guru",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinous.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "marleyandlockyer.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.royal-reels-casino-au.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ata-rdc.org",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "royalreels.royalreels-casino1.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels888-au.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-australia.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalcasino.dk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-26.fun",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "reelsroyalcasino.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reelz.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "bondilabs.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royal-reelz-2.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels21au.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "saving-spoon-billed-sandpiper.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels.royal-reels21.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels-20.club",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "batikartbarbados.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royal-reels16.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels25casinos.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-23.hotwaterbrewingco.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hotwaterbrewingco.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels11.app",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "deltaassociates.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royaleeels1.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "jrishifrinson.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "au-royalreelss.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wwwroyalreels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "healthyfootballleague.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelscasino-au.us.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-au.club",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "batikartbarbados.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royal-reels16.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels22casinos.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels20casino.site",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ausslots.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalsreels16.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-23.live",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-16.club",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "batikartbarbados.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royal-reels16.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels-official.club",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "batikartbarbados.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royal-reels-10.club",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-18.site",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels20official.one",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels19casino.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.ae.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels21casinos.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels20.co",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "fooddeliverynews.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalsreels-au.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreals.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "shakeygroundfarm.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-20.site",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.bond",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels23casino.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "solardepot.com.au",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.implicaproject.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.idrissa.cc",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.ercepresliffre.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ercepresliffre.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.constituyentes.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.malagaamiantocero.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kastking.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gowin18.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels19casinoaus.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-23.top",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino24official.one",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels22casino.club",
+   "status": "crawl-failed",
+   "cross": [
+    {
+     "to": "expressivetherapiessummit.la",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.watanili.com",
+   "status": "crawl-failed",
+   "cross": []
+  }
+ ]
+}

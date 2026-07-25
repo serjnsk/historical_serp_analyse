@@ -1,0 +1,12 @@
+[
+{"host":"royalreels22casinos.online","status":"crawl-failed","cross":[]},
+{"host":"royalreels20casino.site","status":"crawl-failed","cross":[]},
+{"host":"ausslots.com","status":"ok","cross":[]},
+{"host":"royalsreels16.com","status":"ok","cross":[]},
+{"host":"royalreels-23.live","status":"crawl-failed","cross":[]},
+{"host":"royal-reels-16.club","status":"ok","cross":[{"to":"batikartbarbados.com","via":["canonical","hreflang"]},{"to":"royal-reels16.ink","via":["hreflang"]}]},
+{"host":"royal-reels-official.club","status":"ok","cross":[{"to":"batikartbarbados.com","via":["canonical","hreflang"]},{"to":"royal-reels-10.club","via":["hreflang"]}]},
+{"host":"royalreels-18.site","status":"crawl-failed","cross":[]},
+{"host":"royalreels20official.one","status":"crawl-failed","cross":[]},
+{"host":"royalreels19casino.club","status":"crawl-failed","cross":[]}
+]

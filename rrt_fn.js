@@ -1,5 +1,7 @@
 // RRT extraction function (reconstructed) — тело хранится в localStorage['fn'] и вызывается как:
-//   await (new Function('HOST', localStorage.getItem('fn')))('<host>')
+//   const AsyncFunction = Object.getPrototypeOf(async function(){}).constructor;
+//   await (new AsyncFunction('HOST', localStorage.getItem('fn')))('<host>')
+// ВАЖНО: обычный `new Function` НЕ поддерживает await внутри тела (SyntaxError) — нужен именно AsyncFunction.
 // Переинжект на новом компьютере: открыть https://search.google.com/u/0/test/rich-results/result?hl=en
 //   и выполнить в консоли/через claude-in-chrome:  localStorage.setItem('fn', <содержимое ниже одной строкой>)
 // Скрипт: опрашивает результат RRT (англ. статусы), открывает "view tested page", читает HTML из CodeMirror,
@@ -17,6 +19,7 @@ try {
     const t=(document.body.innerText||'').toLowerCase();
     if (t.includes('crawled successfully')||t.includes('item detected')||t.includes('no items')||t.includes('eligible')||t.includes('valid item')){ done=true; break; }
     if (t.includes('something went wrong')){ status='timeout'; done=false; break; }
+    if (t.includes('url is not available to google')||t.includes('crawl failed')){ status='crawl-failed'; done=false; break; }
     await sleep(500);
   }
   if (done){

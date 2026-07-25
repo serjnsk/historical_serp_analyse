@@ -1,0 +1,12 @@
+[
+{"host":"royalreels23.eu.com","status":"ok","cross":[]},
+{"host":"royalreels-22casino.net","status":"ok","cross":[{"to":"ticts.net","via":["canonical","hreflang"]}]},
+{"host":"royalreels.royalreels-23.ink","status":"ok","cross":[{"to":"ata-rdc.org","via":["canonical"]},{"to":"royalreels.royalreels-casino1.ink","via":["hreflang"]}]},
+{"host":"royal-reels-18.net","status":"ok","cross":[{"to":"booseeka.com","via":["canonical","hreflang"]}]},
+{"host":"royalreels-23.win","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino-18.click","status":"ok","cross":[]},
+{"host":"royalreels21casino.online","status":"crawl-failed","cross":[]},
+{"host":"royalreels-20.club","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasinos.co.com","status":"ok","cross":[]},
+{"host":"royalreels23casinos.online","status":"crawl-failed","cross":[]}
+]

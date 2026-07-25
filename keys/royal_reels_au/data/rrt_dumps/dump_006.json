@@ -1,0 +1,12 @@
+[
+{"host":"royalreels.ae.org","status":"ok","cross":[]},
+{"host":"royalreels21casinos.club","status":"crawl-failed","cross":[]},
+{"host":"royalreels20.co","status":"ok","cross":[{"to":"fooddeliverynews.com","via":["canonical","hreflang"]}]},
+{"host":"royalsreels-au.com","status":"ok","cross":[]},
+{"host":"royalreals.net","status":"ok","cross":[{"to":"shakeygroundfarm.com","via":["canonical","hreflang"]}]},
+{"host":"royalreels-20.site","status":"crawl-failed","cross":[]},
+{"host":"royalreels.bond","status":"ok","cross":[]},
+{"host":"royalreels23casino.net","status":"ok","cross":[{"to":"solardepot.com.au","via":["canonical","hreflang"]}]},
+{"host":"royalreels.implicaproject.org","status":"crawl-failed","cross":[]},
+{"host":"royalreels.idrissa.cc","status":"ok","cross":[{"to":"royalreels.ercepresliffre.info","via":["canonical","hreflang"]},{"to":"ercepresliffre.info","via":["hreflang"]}]}
+]
