@@ -583,6 +583,369 @@
    "host": "royalreels.watanili.com",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "royalreels-casino.royal-reels-pokies.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ata-rdc.org",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "royalreels.royalreels-casino1.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels18.ltd",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.peepmystyles.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.actualiteivoire.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "actualiteivoire.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.emmadabiri.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels22.buzz",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lwelectrical.co.nz",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.jwcroft.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.ercepresliffre.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ercepresliffre.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.rawbreakdownproject.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels18.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels20.lol",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "adlerglass.co.nz",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-au.royal-reels-online.it.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ata-rdc.org",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "royalreels.royalreels-casino1.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels18casinos.vip",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels16.vip",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.jpn.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.sa.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-22.hotwaterbrewingco.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royal-reels-23.hotwaterbrewingco.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "hotwaterbrewingco.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels.woodswines.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels22.sbs",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royaal.casino",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royaleeels.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "jrishifrinson.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royaleeels1.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-au.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-official.royal-reels-bonus-au.ink",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels11au.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "100thww2.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelscasino.onl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "fabulousdarling.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels.eu.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels19casinos.live",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels21.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "saving-spoon-billed-sandpiper.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels.royal-reels21.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelsonlinecasino.app",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels10.biz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.skin",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.rest",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino23official.live",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels23.one",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "roylereels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "maitlandriverrun.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelscasino.us.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "marleyandlockyer.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreelscasinous.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels21.eu.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels23.icu",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino23official.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-au.royalreels-online.ink",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelsau.app",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.royall-reels.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ata-rdc.org",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "royalreels.royalreels-casino1.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
   }
  ]
 }

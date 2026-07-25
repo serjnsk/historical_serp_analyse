@@ -1,0 +1,12 @@
+[
+{"host":"royalreels18casinos.vip","status":"crawl-failed","cross":[]},
+{"host":"royalreels16.vip","status":"crawl-failed","cross":[]},
+{"host":"royalreels.jpn.com","status":"ok","cross":[]},
+{"host":"royalreels.sa.com","status":"ok","cross":[]},
+{"host":"royal-reels-22.hotwaterbrewingco.com","status":"ok","cross":[{"to":"royal-reels-23.hotwaterbrewingco.com","via":["canonical","hreflang"]},{"to":"hotwaterbrewingco.com","via":["hreflang"]}]},
+{"host":"royal-reels.woodswines.com.au","status":"crawl-failed","cross":[]},
+{"host":"royalreels22.sbs","status":"ok","cross":[{"to":"royaal.casino","via":["canonical","hreflang"]}]},
+{"host":"royaleeels.net","status":"ok","cross":[{"to":"jrishifrinson.com","via":["canonical","hreflang"]},{"to":"royaleeels1.net","via":["hreflang"]}]},
+{"host":"royalreels-au.in.net","status":"crawl-failed","cross":[]},
+{"host":"royalreels-official.royal-reels-bonus-au.ink","status":"ok","cross":[]}
+]

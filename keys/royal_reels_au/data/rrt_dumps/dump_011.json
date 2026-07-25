@@ -1,0 +1,12 @@
+[
+{"host":"royalreelscasino23official.live","status":"crawl-failed","cross":[]},
+{"host":"royalreels23.one","status":"crawl-failed","cross":[]},
+{"host":"roylereels.com","status":"ok","cross":[{"to":"maitlandriverrun.net","via":["canonical","hreflang"]}]},
+{"host":"royalreelscasino.us.org","status":"ok","cross":[{"to":"marleyandlockyer.com","via":["canonical","hreflang"]},{"to":"royalreelscasinous.org","via":["hreflang"]}]},
+{"host":"royalreels21.eu.com","status":"ok","cross":[]},
+{"host":"royalreels23.icu","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino23official.club","status":"crawl-failed","cross":[]},
+{"host":"royal-reels-au.royalreels-online.ink","status":"ok","cross":[]},
+{"host":"royalreelsau.app","status":"crawl-failed","cross":[]},
+{"host":"royalreels.royall-reels.ink","status":"ok","cross":[{"to":"ata-rdc.org","via":["canonical"]},{"to":"royalreels.royalreels-casino1.ink","via":["hreflang"]}]}
+]
