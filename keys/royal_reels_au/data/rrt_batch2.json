@@ -1796,6 +1796,121 @@
      ]
     }
    ]
+  },
+  {
+   "host": "royalreels-casino-official-site.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels18casino.us.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelscasino-au.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "thecovetasmania.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.my.canva.site",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinos18official.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelsplayaustralia.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "koinon.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18.livethedream.org.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalereels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royal-reels.uk.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "canberralearninganddevelopmentcentre.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "maodyssey.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels6-australia.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels20online.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18casino.snorex.co.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino-official.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-aussie.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelswebsite.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18-aus.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ryanblackburn.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }

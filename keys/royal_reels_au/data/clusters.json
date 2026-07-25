@@ -1238,6 +1238,19 @@
 "royalreels-official.it.com"
 ],
 "terminals": {}
+},
+{
+"id": "C62",
+"size": 2,
+"regs": [
+"royal-reels.uk.com",
+"royalereels.com"
+],
+"members": [
+"royal-reels.uk.com",
+"royalereels.com"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
@@ -1538,7 +1551,9 @@
 "royal-reels-23-casino.com": "C60",
 "royalsreelscasino.com": "C60",
 "ahh.co.nz": "C61",
-"royalreels-official.it.com": "C61"
+"royalreels-official.it.com": "C61",
+"royal-reels.uk.com": "C62",
+"royalereels.com": "C62"
 },
 "edges": [
 {
@@ -3743,6 +3758,23 @@
 "dst": "royalreels18casino.us.com",
 "via": [
 "canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels-casino-official-site.com",
+"dst": "royalreels18casino.us.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalereels.com",
+"dst": "royal-reels.uk.com",
+"via": [
 "hreflang"
 ],
 "soft": true
