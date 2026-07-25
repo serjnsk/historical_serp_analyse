@@ -125,7 +125,7 @@ P = ['''<!doctype html><html lang="ru"><head><meta charset="utf-8">
  .cell a{color:inherit;text-decoration:none}
 </style></head><body>
 <div class="head">
-<div style="font-size:12px;margin-bottom:6px"><a href="../">← betify (главный проект)</a></div>
+<div style="font-size:12px;margin-bottom:6px"><a href="../">← ко всем ключам</a></div>
 <h1>'''+esc(TITLE)+'''</h1>
 <div class="sub">'''+str(len(cols))+''' снапшотов, '''+cols[0][0]+''' — '''+cols[-1][0]+'''. Топ-'''+str(TOP_N)+''' органики. Цвет = подтверждённая сеть (общая цепочка редиректов).</div>
 <div class="note"><b>Этап 1 — жёсткая склейка по активным редиректам (301/302/307/308 + meta + JS).</b>
