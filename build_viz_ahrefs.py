@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """HTML-таймлайн из еженедельных снапшотов Ahrefs (harvest_ahrefs.py).
 Колонки = снапшоты, строки = позиции, цвет = гипотеза о принадлежности сетке (эвристика по домену).
-usage: build_viz_ahrefs.py <in.json> <out.html>
+usage: build_viz_ahrefs.py <in.json> <out.html> [brand] [clusters.json] [official_domain] [title]
 """
 import json, sys, html
 from urllib.parse import urlsplit
@@ -9,7 +9,10 @@ from collections import Counter
 
 SRC = sys.argv[1] if len(sys.argv) > 1 else 'data/betify_fr_ahrefs.json'
 OUT = sys.argv[2] if len(sys.argv) > 2 else 'data/betify_fr_ahrefs_timeline.html'
-BRAND = 'betify'
+BRAND = sys.argv[3] if len(sys.argv) > 3 else 'betify'
+CLUSTERS_PATH = sys.argv[4] if len(sys.argv) > 4 else 'data/clusters.json'
+OFFICIAL = sys.argv[5] if len(sys.argv) > 5 else 'betify.com'
+TITLE = sys.argv[6] if len(sys.argv) > 6 else 'betify · Франция · исторический SERP (Ahrefs)'
 TOP_N = 100
 
 NEUTRAL = {
@@ -41,16 +44,21 @@ def registrable(host):
 def is_neutral(host):
     return registrable(host) in NEUTRAL
 
+def strip_seps(s):
+    return s.replace(' ', '').replace('-', '').replace('_', '').lower()
+
+BRAND_NORM = strip_seps(BRAND)
+
 def classify(host):
     reg = registrable(host)
     hostn = host[4:] if host.startswith('www.') else host
-    if reg == 'betify.com':
-        return 'official', 'betify.com'
+    if reg == OFFICIAL:
+        return 'official', OFFICIAL
     if is_neutral(host):
         return 'neutral', None
-    brand_in_reg = BRAND in reg.split('.')[0]
+    brand_in_reg = BRAND_NORM in strip_seps(reg.split('.')[0])
     sub = hostn[:-(len(reg)+1)] if hostn.endswith(reg) and len(hostn) > len(reg) else ''
-    brand_in_sub = BRAND in sub
+    brand_in_sub = BRAND_NORM in strip_seps(sub)
     if brand_in_sub and not brand_in_reg:
         return 'parasite_sub', 'PARASITE:'+reg
     if brand_in_reg:
@@ -58,7 +66,7 @@ def classify(host):
     return 'unknown_susp', 'SUSP:'+reg
 
 CAT = {
-    'official':      ('#fff34d','#000','Официальный betify.com'),
+    'official':      ('#fff34d','#000', f'Официальный {OFFICIAL}'),
     'mirror_domain': ('#ff9db0','#000','Домен-зеркало с брендом в имени'),
     'parasite_sub':  ('#8fd6ff','#000','Паразитный поддомен на чужом сайте'),
     'unknown_susp':  ('#ffcf8f','#000','Подозрительный (без бренда в имени)'),
@@ -67,7 +75,7 @@ CAT = {
 
 # --- подтверждённые сети из этапа 1 (редиректы) ---
 try:
-    CL = json.load(open('data/clusters.json'))
+    CL = json.load(open(CLUSTERS_PATH))
     HOST2C = CL['host2cluster']
     CINFO = {c['id']: c for c in CL['clusters']}
 except Exception:
@@ -98,7 +106,7 @@ for s in snaps:
 
 def esc(s): return html.escape(str(s))
 P = ['''<!doctype html><html lang="ru"><head><meta charset="utf-8">
-<title>betify FR — Ahrefs SERP timeline</title><style>
+<title>'''+esc(TITLE)+''' — Ahrefs SERP timeline</title><style>
  html,body{height:100%}
  body{font-family:-apple-system,Segoe UI,Roboto,sans-serif;margin:0;background:#fafafa;color:#111;
       display:flex;flex-direction:column;height:100vh;overflow:hidden}
@@ -117,7 +125,8 @@ P = ['''<!doctype html><html lang="ru"><head><meta charset="utf-8">
  .cell a{color:inherit;text-decoration:none}
 </style></head><body>
 <div class="head">
-<h1>betify · Франция · исторический SERP (Ahrefs)</h1>
+<div style="font-size:12px;margin-bottom:6px"><a href="../">← betify (главный проект)</a></div>
+<h1>'''+esc(TITLE)+'''</h1>
 <div class="sub">'''+str(len(cols))+''' снапшотов, '''+cols[0][0]+''' — '''+cols[-1][0]+'''. Топ-'''+str(TOP_N)+''' органики. Цвет = подтверждённая сеть (общая цепочка редиректов).</div>
 <div class="note"><b>Этап 1 — жёсткая склейка по активным редиректам (301/302/307/308 + meta + JS).</b>
 Цветом помечены хосты, входящие в одну сеть по редиректам; белые — без активного редиректа или мёртвые (→ Wayback-этап). Наведите на ячейку: сеть и конечный адрес.</div>

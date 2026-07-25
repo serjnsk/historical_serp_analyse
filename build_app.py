@@ -272,6 +272,7 @@ HTML = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8">
  <span class="brand">betify · расследование сетей</span>
  <span class="tab active" id="tab-dates" onclick="view('dates')">Таблица по датам</span>
  <span class="tab" id="tab-nets" onclick="view('nets')">Диаграммы сетей ({len(clusters)})</span>
+ <span style="margin-left:auto;font-size:12px"><a href="royal-reels-au/" style="color:#666">→ royal reels (AU)</a></span>
 </div>
 
 <div class="view show" id="view-dates">
