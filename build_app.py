@@ -5,16 +5,23 @@
 in : data/betify_fr_ahrefs.json, data/clusters.json, data/redirects.json
 out: data/app.html
 """
-import json, subprocess, html, colorsys
+import json, subprocess, html, colorsys, sys
 from urllib.parse import urlsplit
 from collections import defaultdict
 
 DOT = '/opt/homebrew/bin/dot'
 TOP_N = 100
 
-SNAP = json.load(open('data/betify_fr_ahrefs.json'))
-CL   = json.load(open('data/clusters.json'))
-PROBES = json.load(open('data/redirects.json'))['probes']
+SNAP_PATH    = sys.argv[1] if len(sys.argv) > 1 else 'data/betify_fr_ahrefs.json'
+CLUSTERS_PATH = sys.argv[2] if len(sys.argv) > 2 else 'data/clusters.json'
+REDIRECTS_PATH = sys.argv[3] if len(sys.argv) > 3 else 'data/redirects.json'
+OUT_PATH     = sys.argv[4] if len(sys.argv) > 4 else 'data/app.html'
+BRAND_LABEL  = sys.argv[5] if len(sys.argv) > 5 else 'betify · расследование сетей'
+PAGE_TITLE   = sys.argv[6] if len(sys.argv) > 6 else 'betify — сети конкурентов'
+
+SNAP = json.load(open(SNAP_PATH))
+CL   = json.load(open(CLUSTERS_PATH))
+PROBES = json.load(open(REDIRECTS_PATH))['probes']
 HOST2C = CL['host2cluster']
 CINFO  = {c['id']: c for c in CL['clusters']}
 
@@ -222,7 +229,7 @@ for c in clusters:
       {audit_html}</div>''')
 
 HTML = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8">
-<title>betify — сети конкурентов</title><style>
+<title>{html.escape(PAGE_TITLE)}</title><style>
  html,body{{height:100%;margin:0}}
  body{{font-family:-apple-system,Segoe UI,Roboto,sans-serif;color:#111;display:flex;flex-direction:column;height:100vh;overflow:hidden}}
  .topnav{{flex:0 0 auto;display:flex;gap:4px;align-items:center;padding:8px 14px;border-bottom:1px solid #e3e6ea;background:#fff}}
@@ -269,7 +276,7 @@ HTML = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8">
  .chost .seed{{color:#999;font-weight:400;font-size:10px}}
 </style></head><body>
 <div class="topnav">
- <span class="brand">betify · расследование сетей</span>
+ <span class="brand">{html.escape(BRAND_LABEL)}</span>
  <span class="tab active" id="tab-dates" onclick="view('dates')">Таблица по датам</span>
  <span class="tab" id="tab-nets" onclick="view('nets')">Диаграммы сетей ({len(clusters)})</span>
  <span style="margin-left:auto;font-size:12px"><a href="../" style="color:#666">← ко всем ключам</a></span>
@@ -328,5 +335,5 @@ HTML = f'''<!doctype html><html lang="ru"><head><meta charset="utf-8">
 </script>
 </body></html>'''
 
-open('data/app.html', 'w').write(HTML)
-print('written: data/app.html |', len(cols), 'снапшотов |', len(clusters), 'сетей |', round(len(HTML)/1024), 'KB')
+open(OUT_PATH, 'w').write(HTML)
+print(f'written: {OUT_PATH} |', len(cols), 'снапшотов |', len(clusters), 'сетей |', round(len(HTML)/1024), 'KB')

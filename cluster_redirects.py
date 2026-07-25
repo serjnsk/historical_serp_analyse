@@ -22,10 +22,12 @@ from urllib.parse import urlsplit
 
 RED = sys.argv[1] if len(sys.argv) > 1 else 'data/redirects.json'
 OUT = sys.argv[2] if len(sys.argv) > 2 else 'data/clusters.json'
+RRT_GLOB = sys.argv[3] if len(sys.argv) > 3 else 'data/rrt_batch*.json'
+EXCLUDED_PATH = sys.argv[4] if len(sys.argv) > 4 else 'data/cluster_excluded_domains.json'
 probes = json.load(open(RED))['probes']
 
 try:
-    EXCLUDED_DOMAINS = set(json.load(open('data/cluster_excluded_domains.json')))
+    EXCLUDED_DOMAINS = set(json.load(open(EXCLUDED_PATH)))
 except FileNotFoundError:
     EXCLUDED_DOMAINS = set()
 
@@ -79,8 +81,8 @@ for a, b, l in deep:
     if b in A:
         edgemap[(a, b)].add(l); union(a, b)
 
-# 2) RRT canonical/hreflang (все data/rrt_batch*.json)
-rrt_files = sorted(glob.glob('data/rrt_batch*.json'))
+# 2) RRT canonical/hreflang
+rrt_files = sorted(glob.glob(RRT_GLOB))
 rrt_edge_count = 0
 for f in rrt_files:
     try: rr = json.load(open(f)).get('results', [])
