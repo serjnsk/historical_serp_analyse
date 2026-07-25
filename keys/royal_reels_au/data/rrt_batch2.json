@@ -1089,6 +1089,136 @@
    "host": "royalreels18casino.vip",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "royalreels23official.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels20-onlinecasino.cc",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "richardcasinoaus.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pokiesnearme.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels18.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "booseeka.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royal-reels-18.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "the-royalreels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels21casino.click",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casino-royalreels21.cc",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels21.click",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18australia.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18-aus-casino.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino.biz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalrels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "freedomballoonfest.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "curled.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "robinvalebridgemotel.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "au-royalreels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels21.club",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino22official.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royaleeels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "flindersmemorial.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels18aus.online",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }

@@ -1,0 +1,12 @@
+[
+{"host":"royalreels23official.online","status":"crawl-failed","cross":[]},
+{"host":"royalreels20-onlinecasino.cc","status":"ok","cross":[]},
+{"host":"richardcasinoaus.org","status":"crawl-failed","cross":[]},
+{"host":"pokiesnearme.net","status":"ok","cross":[]},
+{"host":"royalreels18.net","status":"ok","cross":[{"to":"booseeka.com","via":["canonical","hreflang"]},{"to":"royal-reels-18.net","via":["hreflang"]}]},
+{"host":"the-royalreels.com","status":"ok","cross":[]},
+{"host":"royalreels21casino.click","status":"crawl-failed","cross":[]},
+{"host":"casino-royalreels21.cc","status":"crawl-failed","cross":[]},
+{"host":"royalreels21.click","status":"crawl-failed","cross":[]},
+{"host":"royalreels18australia.club","status":"crawl-failed","cross":[]}
+]

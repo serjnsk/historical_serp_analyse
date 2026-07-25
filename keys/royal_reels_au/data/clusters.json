@@ -2,7 +2,7 @@
 "clusters": [
 {
 "id": "C1",
-"size": 58,
+"size": 60,
 "regs": [
 "100thww2.org",
 "bondilabs.com",
@@ -10,7 +10,9 @@
 "casino-royalreels.com",
 "deltaassociates.com",
 "fixated-taedium.com",
+"flindersmemorial.org",
 "fooddeliverynews.com",
+"freedomballoonfest.com",
 "google.com",
 "hardfeelings.net",
 "healthyfootballleague.com",
@@ -68,7 +70,9 @@
 "casino-royalreels.com",
 "deltaassociates.com",
 "fixated-taedium.com",
+"flindersmemorial.org",
 "fooddeliverynews.com",
+"freedomballoonfest.com",
 "hardfeelings.net",
 "healthyfootballleague.com",
 "jrishifrinson.com",
@@ -1191,7 +1195,9 @@
 "casino-royalreels.com": "C1",
 "deltaassociates.com": "C1",
 "fixated-taedium.com": "C1",
+"flindersmemorial.org": "C1",
 "fooddeliverynews.com": "C1",
+"freedomballoonfest.com": "C1",
 "hardfeelings.net": "C1",
 "healthyfootballleague.com": "C1",
 "jrishifrinson.com": "C1",
@@ -3461,6 +3467,41 @@
 "src": "royalreels20.net",
 "dst": "royalreels.royalreels20.net",
 "via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels18.net",
+"dst": "booseeka.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels18.net",
+"dst": "royal-reels-18.net",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalrels.com",
+"dst": "freedomballoonfest.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royaleeels.com",
+"dst": "flindersmemorial.org",
+"via": [
+"canonical",
 "hreflang"
 ],
 "soft": true

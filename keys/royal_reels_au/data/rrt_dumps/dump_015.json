@@ -1,0 +1,12 @@
+[
+{"host":"royalreels18-aus-casino.net","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino.biz","status":"crawl-failed","cross":[]},
+{"host":"royalrels.com","status":"ok","cross":[{"to":"freedomballoonfest.com","via":["canonical","hreflang"]}]},
+{"host":"curled.com.au","status":"ok","cross":[]},
+{"host":"robinvalebridgemotel.com.au","status":"ok","cross":[]},
+{"host":"au-royalreels.com","status":"ok","cross":[]},
+{"host":"royalreels21.club","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino22official.com","status":"crawl-failed","cross":[]},
+{"host":"royaleeels.com","status":"ok","cross":[{"to":"flindersmemorial.org","via":["canonical","hreflang"]}]},
+{"host":"royalreels18aus.online","status":"crawl-failed","cross":[]}
+]
