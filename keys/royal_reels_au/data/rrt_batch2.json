@@ -1219,6 +1219,216 @@
    "host": "royalreels18aus.online",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "royalreels.gb.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "moparmagazine.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fingerfoodpeople.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelsaustraliaa.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels20casino-official.ink",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalrels.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "esoc2025.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "egamersworld.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ua.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "rus.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "de.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pt.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "es.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "tr.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fi.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "da.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "no.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "sv.egamersworld.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "onsitetimber.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinoaustralia.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gameindustry.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.cx",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino-australia.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreelscasino.uk.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelsreviews.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.cn.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels17.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "acmarineandcomposites.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels-17.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels21.cc",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-online.gouldgenealogy.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino20official.robbiesbar-bistro.co.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalereels.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "alzheimerscaregivers.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "amazon.com.au",
+   "status": "ok",
+   "cross": []
   }
  ]
 }

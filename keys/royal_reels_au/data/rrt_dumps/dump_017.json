@@ -1,0 +1,12 @@
+[
+{"host":"royalreels.cx","status":"ok","cross":[]},
+{"host":"royalreelscasino-australia.com","status":"ok","cross":[{"to":"royalreelscasino.uk.com","via":["hreflang"]}]},
+{"host":"royalreelsreviews.com","status":"ok","cross":[]},
+{"host":"royalreels.cn.com","status":"ok","cross":[]},
+{"host":"royalreels17.org","status":"ok","cross":[{"to":"acmarineandcomposites.com","via":["canonical","hreflang"]},{"to":"royalreels-17.org","via":["hreflang"]}]},
+{"host":"royalreels21.cc","status":"crawl-failed","cross":[]},
+{"host":"royal-reels-online.gouldgenealogy.com","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino20official.robbiesbar-bistro.co.nz","status":"ok","cross":[]},
+{"host":"royalereels.net","status":"ok","cross":[{"to":"alzheimerscaregivers.org","via":["canonical","hreflang"]}]},
+{"host":"amazon.com.au","status":"ok","cross":[]}
+]

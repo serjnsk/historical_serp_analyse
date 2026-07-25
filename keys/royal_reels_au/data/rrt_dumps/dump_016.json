@@ -1,0 +1,12 @@
+[
+{"host":"royalreels.gb.net","status":"ok","cross":[]},
+{"host":"moparmagazine.com","status":"ok","cross":[]},
+{"host":"fingerfoodpeople.com.au","status":"ok","cross":[]},
+{"host":"royalreelsaustraliaa.com","status":"ok","cross":[]},
+{"host":"royalreels20casino-official.ink","status":"crawl-failed","cross":[]},
+{"host":"royalrels.net","status":"ok","cross":[{"to":"esoc2025.com","via":["canonical","hreflang"]}]},
+{"host":"egamersworld.com","status":"ok","cross":[{"to":"ua.egamersworld.com","via":["hreflang"]},{"to":"rus.egamersworld.com","via":["hreflang"]},{"to":"de.egamersworld.com","via":["hreflang"]},{"to":"pt.egamersworld.com","via":["hreflang"]},{"to":"es.egamersworld.com","via":["hreflang"]},{"to":"pl.egamersworld.com","via":["hreflang"]},{"to":"fr.egamersworld.com","via":["hreflang"]},{"to":"tr.egamersworld.com","via":["hreflang"]},{"to":"fi.egamersworld.com","via":["hreflang"]},{"to":"da.egamersworld.com","via":["hreflang"]},{"to":"no.egamersworld.com","via":["hreflang"]},{"to":"sv.egamersworld.com","via":["hreflang"]}]},
+{"host":"onsitetimber.com.au","status":"ok","cross":[]},
+{"host":"royalreelscasinoaustralia.com","status":"ok","cross":[]},
+{"host":"gameindustry.com","status":"ok","cross":[]}
+]
