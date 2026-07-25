@@ -1,0 +1,12 @@
+[
+{"host":"royalreels-casino-official-australia.com","status":"crawl-failed","cross":[]},
+{"host":"royalreels18-online.com","status":"ok","cross":[{"to":"therocket.house","via":["canonical","hreflang"]},{"to":"au.online-casino-pokies-australia.click","via":["hreflang"]}]},
+{"host":"royal-reels18-australia.net","status":"crawl-failed","cross":[]},
+{"host":"acru.nyc","status":"ok","cross":[{"to":"impactx.tech","via":["canonical","hreflang"]},{"to":"royalreels22.gb.net","via":["hreflang"]}]},
+{"host":"reliableitsolutions.com.au","status":"ok","cross":[]},
+{"host":"royalreels-official-au.com","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino-official-au.net","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino-official-aus.net","status":"crawl-failed","cross":[]},
+{"host":"royalreels-official-casino.com","status":"crawl-failed","cross":[]},
+{"host":"injex.dev","status":"ok","cross":[{"to":"impactx.tech","via":["canonical","hreflang"]},{"to":"royalreels22.gb.net","via":["hreflang"]}]}
+]
