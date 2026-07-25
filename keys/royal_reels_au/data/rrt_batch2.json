@@ -2053,6 +2053,122 @@
    "host": "royalreels-official.musclegun.co.nz",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "thecambridgecollection.co.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-casino-official-au.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-casino-aus.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.kidsathletics.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.ecowarriors.app",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels7au.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "getbengt.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-website.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "earthangel.co.nz",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels-official-australia.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-onlinecasino-aus.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinoaustralia.tiki.fish",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.casinoland.network",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-au.kidsathletics.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "incredibleyearsnz.co.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "fastpayoutpokies.catholicfhs.online",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "greenteamediation.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.tradix.tech",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "thekiwidiary.co.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelcasinopokies.online",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelcasinoaustralian.co",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "boost.education",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }

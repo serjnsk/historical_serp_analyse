@@ -2,7 +2,7 @@
 "clusters": [
 {
 "id": "C1",
-"size": 67,
+"size": 68,
 "regs": [
 "100thww2.org",
 "acmarineandcomposites.com",
@@ -16,6 +16,7 @@
 "flindersmemorial.org",
 "fooddeliverynews.com",
 "freedomballoonfest.com",
+"getbengt.com",
 "google.com",
 "greencommunityconnections.org",
 "hardfeelings.net",
@@ -83,6 +84,7 @@
 "flindersmemorial.org",
 "fooddeliverynews.com",
 "freedomballoonfest.com",
+"getbengt.com",
 "greencommunityconnections.org",
 "hardfeelings.net",
 "healthyfootballleague.com",
@@ -1255,6 +1257,19 @@
 "royalereels.com"
 ],
 "terminals": {}
+},
+{
+"id": "C63",
+"size": 2,
+"regs": [
+"earthangel.co.nz",
+"royalreels-website.com"
+],
+"members": [
+"earthangel.co.nz",
+"royalreels-website.com"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
@@ -1270,6 +1285,7 @@
 "flindersmemorial.org": "C1",
 "fooddeliverynews.com": "C1",
 "freedomballoonfest.com": "C1",
+"getbengt.com": "C1",
 "greencommunityconnections.org": "C1",
 "hardfeelings.net": "C1",
 "healthyfootballleague.com": "C1",
@@ -1559,7 +1575,9 @@
 "ahh.co.nz": "C61",
 "royalreels-official.it.com": "C61",
 "royal-reels.uk.com": "C62",
-"royalereels.com": "C62"
+"royalereels.com": "C62",
+"earthangel.co.nz": "C63",
+"royalreels-website.com": "C63"
 },
 "edges": [
 {
@@ -3832,6 +3850,24 @@
 "src": "injex.dev",
 "dst": "royalreels22.gb.net",
 "via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels7au.com",
+"dst": "getbengt.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels-website.com",
+"dst": "earthangel.co.nz",
+"via": [
+"canonical",
 "hreflang"
 ],
 "soft": true
