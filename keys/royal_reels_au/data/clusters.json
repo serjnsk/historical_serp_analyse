@@ -2,7 +2,7 @@
 "clusters": [
 {
 "id": "C1",
-"size": 55,
+"size": 58,
 "regs": [
 "100thww2.org",
 "bondilabs.com",
@@ -17,6 +17,7 @@
 "jrishifrinson.com",
 "maitlandriverrun.net",
 "marleyandlockyer.com",
+"qodebrisbane.com",
 "rolayreels.com",
 "royal-reels-18.net",
 "royal-reels21.net",
@@ -49,6 +50,7 @@
 "royalrels.com",
 "royalrels.net",
 "roylereels.com",
+"savethekimberley.com",
 "saving-spoon-billed-sandpiper.com",
 "shakeygroundfarm.com",
 "skolay.com",
@@ -73,6 +75,7 @@
 "maitlandriverrun.net",
 "marleyandlockyer.com",
 "play.google.com",
+"qodebrisbane.com",
 "rolayreels.com",
 "royal-reels-18.net",
 "royal-reels21.net",
@@ -87,6 +90,7 @@
 "royalreels-22casino.net",
 "royalreels-casino-au.com",
 "royalreels.royal-reels21.net",
+"royalreels.royalreels20.net",
 "royalreels100.com",
 "royalreels101.com",
 "royalreels11.app",
@@ -107,6 +111,7 @@
 "royalrels.com",
 "royalrels.net",
 "roylereels.com",
+"savethekimberley.com",
 "saving-spoon-billed-sandpiper.com",
 "shakeygroundfarm.com",
 "skolay.com",
@@ -1154,6 +1159,19 @@
 },
 {
 "id": "C58",
+"size": 2,
+"regs": [
+"royal-reels-au.com",
+"royalreels-777.com"
+],
+"members": [
+"royal-reels-au.com",
+"royalreels-777.com"
+],
+"terminals": {}
+},
+{
+"id": "C59",
 "size": 3,
 "regs": [
 "hotwaterbrewingco.com"
@@ -1180,6 +1198,7 @@
 "maitlandriverrun.net": "C1",
 "marleyandlockyer.com": "C1",
 "play.google.com": "C1",
+"qodebrisbane.com": "C1",
 "rolayreels.com": "C1",
 "royal-reels-18.net": "C1",
 "royal-reels21.net": "C1",
@@ -1194,6 +1213,7 @@
 "royalreels-22casino.net": "C1",
 "royalreels-casino-au.com": "C1",
 "royalreels.royal-reels21.net": "C1",
+"royalreels.royalreels20.net": "C1",
 "royalreels100.com": "C1",
 "royalreels101.com": "C1",
 "royalreels11.app": "C1",
@@ -1214,6 +1234,7 @@
 "royalrels.com": "C1",
 "royalrels.net": "C1",
 "roylereels.com": "C1",
+"savethekimberley.com": "C1",
 "saving-spoon-billed-sandpiper.com": "C1",
 "shakeygroundfarm.com": "C1",
 "skolay.com": "C1",
@@ -1438,9 +1459,11 @@
 "royalreels22.buzz": "C56",
 "adlerglass.co.nz": "C57",
 "royal-reels20.lol": "C57",
-"hotwaterbrewingco.com": "C58",
-"royal-reels-22.hotwaterbrewingco.com": "C58",
-"royal-reels-23.hotwaterbrewingco.com": "C58"
+"royal-reels-au.com": "C58",
+"royalreels-777.com": "C58",
+"hotwaterbrewingco.com": "C59",
+"royal-reels-22.hotwaterbrewingco.com": "C59",
+"royal-reels-23.hotwaterbrewingco.com": "C59"
 },
 "edges": [
 {
@@ -2416,9 +2439,11 @@
 "src": "royalreels10.co.com",
 "dst": "royalreelscasinos.co.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "rokh.net",
@@ -2480,9 +2505,10 @@
 "src": "royalreels20.gr.com",
 "dst": "staffrm.io",
 "via": [
-"301"
+"301",
+"canonical"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "royalreels.sa.com",
@@ -3401,6 +3427,39 @@
 {
 "src": "royalreels.royall-reels.ink",
 "dst": "royalreels.royalreels-casino1.ink",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "rolayreels.com",
+"dst": "savethekimberley.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royal-reels-au.com",
+"dst": "royalreels-777.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels20.net",
+"dst": "qodebrisbane.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "royalreels20.net",
+"dst": "royalreels.royalreels20.net",
 "via": [
 "hreflang"
 ],

@@ -946,6 +946,149 @@
      ]
     }
    ]
+  },
+  {
+   "host": "royalreels.woodswines.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels20.gr.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "staffrm.io",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinoroyalreels22australia.cc",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels.australia-royal-reels.ink",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-2026.it.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "toyalreels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels19casinoau.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels23.click",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "rolayreels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "savethekimberley.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels21au.casino",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18australiacasino.vip",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-au.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels-777.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels102.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "in.bookmyshow.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels20.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "qodebrisbane.com",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "royalreels.royalreels20.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels10.co.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreelscasinos.co.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "mysmart2buy.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "greataussiecaravans.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pinkmonkey.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels18casino.vip",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }
