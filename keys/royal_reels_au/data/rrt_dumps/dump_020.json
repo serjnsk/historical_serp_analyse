@@ -1,0 +1,12 @@
+[
+{"host":"royalreels18casinosaustralia.online","status":"crawl-failed","cross":[]},
+{"host":"thegreenmanpeelforest.co.nz","status":"timeout","cross":[]},
+{"host":"planetminecraft.com","status":"ok","cross":[]},
+{"host":"royalreels19casino.ink","status":"crawl-failed","cross":[]},
+{"host":"crownau77.com","status":"ok","cross":[{"to":"crownau77.info","via":["canonical"]},{"to":"crownau77.live","via":["hreflang"]}]},
+{"host":"royal-reels-20.sophieduker.com","status":"ok","cross":[{"to":"hotwaterbrewingco.com","via":["canonical"]}]},
+{"host":"royalreels.covercrop.tools","status":"crawl-failed","cross":[]},
+{"host":"royalreels20.dargaville.co.nz","status":"ok","cross":[]},
+{"host":"royal-reels-australia.stopcancer.health","status":"ok","cross":[{"to":"impactx.tech","via":["canonical","hreflang"]},{"to":"royalreels22.gb.net","via":["hreflang"]}]},
+{"host":"royalsreels19.online","status":"crawl-failed","cross":[]}
+]
