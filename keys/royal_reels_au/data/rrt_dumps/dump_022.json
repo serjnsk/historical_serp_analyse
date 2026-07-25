@@ -1,0 +1,12 @@
+[
+{"host":"royalreels-official.it.com","status":"ok","cross":[{"to":"ahh.co.nz","via":["canonical","hreflang"]}]},
+{"host":"reelcinemas.com","status":"ok","cross":[]},
+{"host":"property360.com.au","status":"ok","cross":[]},
+{"host":"royalreels-casino18-official.net","status":"crawl-failed","cross":[]},
+{"host":"dreamcatcher.school.nz","status":"crawl-failed","cross":[]},
+{"host":"royal-reels.it.com","status":"crawl-failed","cross":[]},
+{"host":"royal-reels.lithiumvalleywa.com.au","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino18.ink","status":"ok","cross":[{"to":"royalreels18casino.us.com","via":["canonical","hreflang"]}]},
+{"host":"royalreelscasino-official-au.online","status":"crawl-failed","cross":[]},
+{"host":"buildabetterbenin.org","status":"ok","cross":[{"to":"beyondgenderproject.org","via":["canonical","hreflang"]}]}
+]

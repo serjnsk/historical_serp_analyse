@@ -1212,6 +1212,32 @@
 "royalreels-777.com"
 ],
 "terminals": {}
+},
+{
+"id": "C60",
+"size": 2,
+"regs": [
+"royal-reels-23-casino.com",
+"royalsreelscasino.com"
+],
+"members": [
+"royal-reels-23-casino.com",
+"royalsreelscasino.com"
+],
+"terminals": {}
+},
+{
+"id": "C61",
+"size": 2,
+"regs": [
+"ahh.co.nz",
+"royalreels-official.it.com"
+],
+"members": [
+"ahh.co.nz",
+"royalreels-official.it.com"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
@@ -1508,7 +1534,11 @@
 "adlerglass.co.nz": "C58",
 "royal-reels20.lol": "C58",
 "royal-reels-au.com": "C59",
-"royalreels-777.com": "C59"
+"royalreels-777.com": "C59",
+"royal-reels-23-casino.com": "C60",
+"royalsreelscasino.com": "C60",
+"ahh.co.nz": "C61",
+"royalreels-official.it.com": "C61"
 },
 "edges": [
 {
@@ -2421,9 +2451,11 @@
 "src": "buildabetterbenin.org",
 "dst": "beyondgenderproject.org",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "royalreelscasino18.ink",
@@ -3677,6 +3709,40 @@
 "src": "royal-reels-australia.stopcancer.health",
 "dst": "royalreels22.gb.net",
 "via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "sophieduker.com",
+"dst": "hotwaterbrewingco.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "royalsreelscasino.com",
+"dst": "royal-reels-23-casino.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreels-official.it.com",
+"dst": "ahh.co.nz",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "royalreelscasino18.ink",
+"dst": "royalreels18casino.us.com",
+"via": [
+"canonical",
 "hreflang"
 ],
 "soft": true

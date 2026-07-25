@@ -1,0 +1,12 @@
+[
+{"host":"sophieduker.com","status":"ok","cross":[{"to":"hotwaterbrewingco.com","via":["canonical"]}]},
+{"host":"royalreels18casinosaus.com","status":"crawl-failed","cross":[]},
+{"host":"royal-reelscasino.online","status":"crawl-failed","cross":[]},
+{"host":"royal-reelscasino.com","status":"ok","cross":[]},
+{"host":"royalsreelscasino.com","status":"ok","cross":[{"to":"royal-reels-23-casino.com","via":["hreflang"]}]},
+{"host":"firstchoiceflooring.com.au","status":"ok","cross":[]},
+{"host":"royal-reels-casino-official.ink","status":"ok","cross":[]},
+{"host":"royalreels-casinoaustralia.com","status":"ok","cross":[]},
+{"host":"royallreels.casino","status":"ok","cross":[]},
+{"host":"royal-reels-casino.online","status":"crawl-failed","cross":[]}
+]

@@ -1658,6 +1658,144 @@
    "host": "royalsreels19.online",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "sophieduker.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hotwaterbrewingco.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels18casinosaus.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reelscasino.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reelscasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalsreelscasino.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royal-reels-23-casino.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "firstchoiceflooring.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-casino-official.ink",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-casinoaustralia.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royallreels.casino",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reels-casino.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-official.it.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "ahh.co.nz",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "reelcinemas.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "property360.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels-casino18-official.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "dreamcatcher.school.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-reels.lithiumvalleywa.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino18.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels18casino.us.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelscasino-official-au.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "buildabetterbenin.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "beyondgenderproject.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
   }
  ]
 }
