@@ -1429,6 +1429,151 @@
    "host": "amazon.com.au",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "royalreelscasino19official-au.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18casinosau.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "au-royalreels18.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels9.app",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "historylab.net",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels-casino.gouldgenealogy.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels18au.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "greencommunityconnections.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "www-royalreels.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "rokh.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hotwaterbrewingco.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels21.sbs",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino18official.robbiesbar-bistro.co.nz",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinologinaustralia.ink",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels19casino.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "mariachilasadelitas.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels18casinoaus.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino19official.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino18official.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "therocket.house",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "au.online-casino-pokies-australia.click",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pro.royalreels.co.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.online",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreelsofficial.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalsreels.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels1.casino",
+   "status": "ok",
+   "cross": []
   }
  ]
 }

@@ -1,0 +1,11 @@
+[
+{"host":"royalreels19casino.online","status":"crawl-failed","cross":[]},
+{"host":"mariachilasadelitas.com","status":"ok","cross":[]},
+{"host":"royalreels18casinoaus.net","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino19official.com","status":"crawl-failed","cross":[]},
+{"host":"royalreelscasino18official.net","status":"ok","cross":[{"to":"therocket.house","via":["canonical","hreflang"]},{"to":"au.online-casino-pokies-australia.click","via":["hreflang"]}]},
+{"host":"pro.royalreels.co.com","status":"ok","cross":[]},
+{"host":"royalreels.online","status":"ok","cross":[{"to":"royalreelsofficial.com","via":["canonical"]}]},
+{"host":"royalsreels.com","status":"crawl-failed","cross":[]},
+{"host":"royalreels1.casino","status":"ok","cross":[]}
+]
