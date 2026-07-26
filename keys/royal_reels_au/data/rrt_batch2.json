@@ -2169,6 +2169,155 @@
    "host": "boost.education",
    "status": "timeout",
    "cross": []
+  },
+  {
+   "host": "theccc.miami",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "cooroyharvestfresh.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aus-royalreels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royal-reels-slots.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelsaustralia.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nzspirit.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hotwaterbrewingco.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "zaratower.au",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "zarahotel.au",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "harmonycricket.farm",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.emwis-eg.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "emwis-eg.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royal-reels.pitchforkrestaurant.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casinosroyalreels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "onlinecasino-royalreels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cape.coop",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "adamprudenslaw.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels8au.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "stewartleishman.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels8-au.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "suzykitman.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinoaustralia.online",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.pitchforkrestaurant.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels.brookermarine.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasinoaus.bigcartel.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "petfishtank.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreelpokies.com",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }
