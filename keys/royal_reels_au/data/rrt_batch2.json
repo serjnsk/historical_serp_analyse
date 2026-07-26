@@ -2931,6 +2931,179 @@
    "host": "xpressmag.com.au",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "makersplace.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "simbi.io",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "seconds.nyc",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "dogeuprising.co",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "impactx.tech",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels22.gb.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "emuplainsfamilydental.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "xrunes.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "portmolyneuxschool.co.nz",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "southmountain.vet",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels-22.life",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "milkywayex.finance",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royal-reelscasinoaus.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels.webflow.io",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "birthed.co.nz",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.eu.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "fashion-recycle.co.nz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "hopandvine.co.nz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "braddockinteriors.co.nz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ra-bukovel.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "cardsrealm.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "m2shocks.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kingsbridge.merlincinemas.co.uk",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "caironightsrestaurant.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-casino-au.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "slotstemple.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "murphybuses.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cobbandco.net.au",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "malastau.pages.dev",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "etsy.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "californiaburritoonline.co.nz",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }
