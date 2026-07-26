@@ -708,6 +708,23 @@
 "id": "C25",
 "size": 3,
 "regs": [
+"anchorinn.pub",
+"eatgood.nyc",
+"royalreels18casinos.sbs"
+],
+"members": [
+"anchorinn.pub",
+"eatgood.nyc",
+"royalreels18casinos.sbs"
+],
+"terminals": {
+"eatgood.nyc": 2
+}
+},
+{
+"id": "C26",
+"size": 3,
+"regs": [
 "crownau77.com",
 "crownau77.info",
 "crownau77.live"
@@ -722,7 +739,7 @@
 }
 },
 {
-"id": "C26",
+"id": "C27",
 "size": 3,
 "regs": [
 "101nightwin.com",
@@ -737,7 +754,7 @@
 "terminals": {}
 },
 {
-"id": "C27",
+"id": "C28",
 "size": 3,
 "regs": [
 "brianmoorman.org",
@@ -754,7 +771,7 @@
 }
 },
 {
-"id": "C28",
+"id": "C29",
 "size": 3,
 "regs": [
 "emmadabiri.com",
@@ -771,7 +788,7 @@
 }
 },
 {
-"id": "C29",
+"id": "C30",
 "size": 3,
 "regs": [
 "aruler.download",
@@ -788,7 +805,7 @@
 }
 },
 {
-"id": "C30",
+"id": "C31",
 "size": 3,
 "regs": [
 "royalreels8-au.com",
@@ -803,7 +820,23 @@
 "terminals": {}
 },
 {
-"id": "C31",
+"id": "C32",
+"size": 3,
+"regs": [
+"aplar2020.com",
+"australianassignmentshelp.com"
+],
+"members": [
+"aplar2020.com",
+"australianassignmentshelp.com",
+"royal-reels-au.australianassignmentshelp.com"
+],
+"terminals": {
+"australianassignmentshelp.com": 2
+}
+},
+{
+"id": "C33",
 "size": 3,
 "regs": [
 "casinologin.bet",
@@ -819,7 +852,7 @@
 }
 },
 {
-"id": "C32",
+"id": "C34",
 "size": 3,
 "regs": [
 "actualiteivoire.info",
@@ -835,7 +868,7 @@
 }
 },
 {
-"id": "C33",
+"id": "C35",
 "size": 3,
 "regs": [
 "extremereach.com",
@@ -851,7 +884,7 @@
 }
 },
 {
-"id": "C34",
+"id": "C36",
 "size": 2,
 "regs": [
 "icpg.info",
@@ -866,7 +899,7 @@
 }
 },
 {
-"id": "C35",
+"id": "C37",
 "size": 2,
 "regs": [
 "dailymail.co.uk",
@@ -881,7 +914,7 @@
 }
 },
 {
-"id": "C36",
+"id": "C38",
 "size": 2,
 "regs": [
 "bento.me",
@@ -896,7 +929,7 @@
 }
 },
 {
-"id": "C37",
+"id": "C39",
 "size": 2,
 "regs": [
 "threads.com",
@@ -911,7 +944,7 @@
 }
 },
 {
-"id": "C38",
+"id": "C40",
 "size": 2,
 "regs": [
 "9news.com.au",
@@ -926,7 +959,7 @@
 }
 },
 {
-"id": "C39",
+"id": "C41",
 "size": 2,
 "regs": [
 "bhglobalproperties.com",
@@ -941,7 +974,7 @@
 }
 },
 {
-"id": "C40",
+"id": "C42",
 "size": 2,
 "regs": [
 "economictimes.com",
@@ -956,7 +989,7 @@
 }
 },
 {
-"id": "C41",
+"id": "C43",
 "size": 2,
 "regs": [
 "heavyliftpfi.com",
@@ -971,7 +1004,7 @@
 }
 },
 {
-"id": "C42",
+"id": "C44",
 "size": 2,
 "regs": [
 "atom.com",
@@ -986,22 +1019,7 @@
 }
 },
 {
-"id": "C43",
-"size": 2,
-"regs": [
-"aplar2020.com",
-"australianassignmentshelp.com"
-],
-"members": [
-"aplar2020.com",
-"australianassignmentshelp.com"
-],
-"terminals": {
-"australianassignmentshelp.com": 2
-}
-},
-{
-"id": "C44",
+"id": "C45",
 "size": 2,
 "regs": [
 "abadat5rckc.com",
@@ -1016,7 +1034,7 @@
 }
 },
 {
-"id": "C45",
+"id": "C46",
 "size": 2,
 "regs": [
 "moblumen.com",
@@ -1031,7 +1049,7 @@
 }
 },
 {
-"id": "C46",
+"id": "C47",
 "size": 2,
 "regs": [
 "richfeel.com",
@@ -1046,7 +1064,7 @@
 }
 },
 {
-"id": "C47",
+"id": "C48",
 "size": 2,
 "regs": [
 "birthed.co.nz",
@@ -1061,7 +1079,7 @@
 }
 },
 {
-"id": "C48",
+"id": "C49",
 "size": 2,
 "regs": [
 "casinoroyalreels.com",
@@ -1073,21 +1091,6 @@
 ],
 "terminals": {
 "royalreels1.casino": 1
-}
-},
-{
-"id": "C49",
-"size": 2,
-"regs": [
-"anchorinn.pub",
-"eatgood.nyc"
-],
-"members": [
-"anchorinn.pub",
-"eatgood.nyc"
-],
-"terminals": {
-"eatgood.nyc": 2
 }
 },
 {
@@ -1322,6 +1325,19 @@
 "zaratower.au"
 ],
 "terminals": {}
+},
+{
+"id": "C67",
+"size": 2,
+"regs": [
+"theyuzu.co",
+"yuzuco.com"
+],
+"members": [
+"theyuzu.co",
+"yuzuco.com"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
@@ -1550,65 +1566,67 @@
 "royalreels7casino.com": "C24",
 "royalreelscasino-australia.com": "C24",
 "royalreelscasino.uk.com": "C24",
-"crownau77.com": "C25",
-"crownau77.info": "C25",
-"crownau77.live": "C25",
-"affgo.org": "C26",
-"l1l.pw": "C26",
-"win.101nightwin.com": "C26",
-"brianmoorman.org": "C27",
-"royalreels.implicaproject.org": "C27",
-"royalreels.watanili.com": "C27",
-"royalreels.emmadabiri.com": "C28",
-"royalreels.malagaamiantocero.org": "C28",
-"theapplebyte.info": "C28",
-"aruler.download": "C29",
-"royalreels.constituyentes.org": "C29",
-"royalreels.rawbreakdownproject.com": "C29",
-"royalreels8-au.com": "C30",
-"royalreels8au.com": "C30",
-"stewartleishman.com": "C30",
-"au.casinologin.mobi": "C31",
-"casinologin.bet": "C31",
-"casinologin.mobi": "C31",
-"actualiteivoire.info": "C32",
-"royalreels.actualiteivoire.info": "C32",
-"royalreels.peepmystyles.com": "C32",
-"shots.net": "C33",
-"shotsvault.extremereach.com": "C33",
-"sourcecreative.extremereach.com": "C33",
-"icpg.info": "C34",
-"vuze.camera": "C34",
-"dailymail.co.uk": "C35",
-"dailymail.com": "C35",
-"bento.me": "C36",
-"linktr.ee": "C36",
-"threads.com": "C37",
-"threads.net": "C37",
-"9news.com.au": "C38",
-"nine.com.au": "C38",
-"bhglobalproperties.com": "C39",
-"building-heritage.com": "C39",
-"economictimes.indiatimes.com": "C40",
-"m.economictimes.com": "C40",
-"heavyliftpfi.com": "C41",
-"projectcargojournal.com": "C41",
-"domains.atom.com": "C42",
-"polars.io": "C42",
-"aplar2020.com": "C43",
-"australianassignmentshelp.com": "C43",
-"gkrjao.abadat5rckc.com": "C44",
-"royalreelspokies.live": "C44",
-"moblumen.com": "C45",
-"mtbrokewines.com.au": "C45",
-"richfeel.com": "C46",
-"richfeelnaturals.com": "C46",
-"birthed.co.nz": "C47",
-"hopandvine.co.nz": "C47",
-"casinoroyalreels.com": "C48",
-"royalreels1.casino": "C48",
-"anchorinn.pub": "C49",
-"eatgood.nyc": "C49",
+"anchorinn.pub": "C25",
+"eatgood.nyc": "C25",
+"royalreels18casinos.sbs": "C25",
+"crownau77.com": "C26",
+"crownau77.info": "C26",
+"crownau77.live": "C26",
+"affgo.org": "C27",
+"l1l.pw": "C27",
+"win.101nightwin.com": "C27",
+"brianmoorman.org": "C28",
+"royalreels.implicaproject.org": "C28",
+"royalreels.watanili.com": "C28",
+"royalreels.emmadabiri.com": "C29",
+"royalreels.malagaamiantocero.org": "C29",
+"theapplebyte.info": "C29",
+"aruler.download": "C30",
+"royalreels.constituyentes.org": "C30",
+"royalreels.rawbreakdownproject.com": "C30",
+"royalreels8-au.com": "C31",
+"royalreels8au.com": "C31",
+"stewartleishman.com": "C31",
+"aplar2020.com": "C32",
+"australianassignmentshelp.com": "C32",
+"royal-reels-au.australianassignmentshelp.com": "C32",
+"au.casinologin.mobi": "C33",
+"casinologin.bet": "C33",
+"casinologin.mobi": "C33",
+"actualiteivoire.info": "C34",
+"royalreels.actualiteivoire.info": "C34",
+"royalreels.peepmystyles.com": "C34",
+"shots.net": "C35",
+"shotsvault.extremereach.com": "C35",
+"sourcecreative.extremereach.com": "C35",
+"icpg.info": "C36",
+"vuze.camera": "C36",
+"dailymail.co.uk": "C37",
+"dailymail.com": "C37",
+"bento.me": "C38",
+"linktr.ee": "C38",
+"threads.com": "C39",
+"threads.net": "C39",
+"9news.com.au": "C40",
+"nine.com.au": "C40",
+"bhglobalproperties.com": "C41",
+"building-heritage.com": "C41",
+"economictimes.indiatimes.com": "C42",
+"m.economictimes.com": "C42",
+"heavyliftpfi.com": "C43",
+"projectcargojournal.com": "C43",
+"domains.atom.com": "C44",
+"polars.io": "C44",
+"gkrjao.abadat5rckc.com": "C45",
+"royalreelspokies.live": "C45",
+"moblumen.com": "C46",
+"mtbrokewines.com.au": "C46",
+"richfeel.com": "C47",
+"richfeelnaturals.com": "C47",
+"birthed.co.nz": "C48",
+"hopandvine.co.nz": "C48",
+"casinoroyalreels.com": "C49",
+"royalreels1.casino": "C49",
 "tokenplay.app": "C50",
 "vegansupply.co.nz": "C50",
 "nitropack.io": "C51",
@@ -1642,7 +1660,9 @@
 "aus-royalreels.com": "C65",
 "royal-reels-slots.com": "C65",
 "zarahotel.au": "C66",
-"zaratower.au": "C66"
+"zaratower.au": "C66",
+"theyuzu.co": "C67",
+"yuzuco.com": "C67"
 },
 "edges": [
 {
@@ -2218,9 +2238,10 @@
 "src": "aplar2020.com",
 "dst": "australianassignmentshelp.com",
 "via": [
-"301"
+"301",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "royalreelspokies.live",
@@ -2340,9 +2361,10 @@
 "src": "eidolon.net",
 "dst": "spareharvest.com",
 "via": [
-"301"
+"301",
+"canonical"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "roymiller.co.nz",
@@ -2356,17 +2378,21 @@
 "src": "anchorinn.pub",
 "dst": "eatgood.nyc",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "vegansupply.co.nz",
 "dst": "tokenplay.app",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "wrenchturners.online",
@@ -4118,6 +4144,31 @@
 "src": "hollowayspizza.com",
 "dst": "royalreels22.gb.net",
 "via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "yuzuco.com",
+"dst": "theyuzu.co",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "anchorinn.pub",
+"dst": "royalreels18casinos.sbs",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "aplar2020.com",
+"dst": "royal-reels-au.australianassignmentshelp.com",
+"via": [
+"canonical",
 "hreflang"
 ],
 "soft": true

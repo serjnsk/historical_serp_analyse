@@ -2660,6 +2660,156 @@
      ]
     }
    ]
+  },
+  {
+   "host": "royal-reels-online-casino.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "songdoctor.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "yuzuco.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "theyuzu.co",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "yvauctions.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aquasis.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "anchorinn.pub",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "eatgood.nyc",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels18casinos.sbs",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels17-au.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ahcts.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "manawaridge.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-aus.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "reeltheatre.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sterlingrise.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "eidolon.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "spareharvest.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "vegansupply.co.nz",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "tokenplay.app",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "roymiller.co.nz",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "royaltheaters.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aplar2020.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royal-reels-au.australianassignmentshelp.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "australianassignmentshelp.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "bgtrade.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "scarlettjkim.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreels-17casino.com",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }
