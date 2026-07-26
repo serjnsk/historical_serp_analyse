@@ -2,7 +2,7 @@
 "clusters": [
 {
 "id": "C1",
-"size": 68,
+"size": 69,
 "regs": [
 "100thww2.org",
 "acmarineandcomposites.com",
@@ -64,6 +64,7 @@
 "shakeygroundfarm.com",
 "skolay.com",
 "solardepot.com.au",
+"southernxsoloists.com",
 "ticts.net",
 "toyalreels.com",
 "us.org",
@@ -135,6 +136,7 @@
 "shakeygroundfarm.com",
 "skolay.com",
 "solardepot.com.au",
+"southernxsoloists.com",
 "ticts.net",
 "toyalreels.com",
 "vivat-lastages.com",
@@ -325,6 +327,31 @@
 },
 {
 "id": "C6",
+"size": 8,
+"regs": [
+"acru.nyc",
+"gb.net",
+"hollowayspizza.com",
+"impactx.tech",
+"injex.dev",
+"onceuponastory.boutique",
+"rideomountainbiking.com",
+"stopcancer.health"
+],
+"members": [
+"acru.nyc",
+"hollowayspizza.com",
+"impactx.tech",
+"injex.dev",
+"onceuponastory.boutique",
+"rideomountainbiking.com",
+"royal-reels-australia.stopcancer.health",
+"royalreels22.gb.net"
+],
+"terminals": {}
+},
+{
+"id": "C7",
 "size": 7,
 "regs": [
 "online-casino-pokies-australia.click",
@@ -349,7 +376,7 @@
 }
 },
 {
-"id": "C7",
+"id": "C8",
 "size": 7,
 "regs": [
 "ata-rdc.org",
@@ -372,7 +399,7 @@
 "terminals": {}
 },
 {
-"id": "C8",
+"id": "C9",
 "size": 7,
 "regs": [
 "batikartbarbados.com",
@@ -395,7 +422,7 @@
 "terminals": {}
 },
 {
-"id": "C9",
+"id": "C10",
 "size": 6,
 "regs": [
 "royalreels10.com",
@@ -419,7 +446,7 @@
 }
 },
 {
-"id": "C10",
+"id": "C11",
 "size": 6,
 "regs": [
 "boost.education",
@@ -440,27 +467,6 @@
 "terminals": {
 "southmountain.vet": 8
 }
-},
-{
-"id": "C11",
-"size": 6,
-"regs": [
-"acru.nyc",
-"gb.net",
-"impactx.tech",
-"injex.dev",
-"onceuponastory.boutique",
-"stopcancer.health"
-],
-"members": [
-"acru.nyc",
-"impactx.tech",
-"injex.dev",
-"onceuponastory.boutique",
-"royal-reels-australia.stopcancer.health",
-"royalreels22.gb.net"
-],
-"terminals": {}
 },
 {
 "id": "C12",
@@ -1382,6 +1388,7 @@
 "shakeygroundfarm.com": "C1",
 "skolay.com": "C1",
 "solardepot.com.au": "C1",
+"southernxsoloists.com": "C1",
 "ticts.net": "C1",
 "toyalreels.com": "C1",
 "vivat-lastages.com": "C1",
@@ -1455,45 +1462,47 @@
 "shedoesthis.com": "C5",
 "steroide.me": "C5",
 "thetricksnetwork.com": "C5",
-"au.online-casino-pokies-australia.click": "C6",
-"royalreels18-online.com": "C6",
-"royalreelscasino18official.net": "C6",
-"therocket.house": "C6",
-"vortex3d.nz": "C6",
-"vortex3d.nzau": "C6",
-"vortex3d.nzen-au": "C6",
-"ata-rdc.org": "C7",
-"royalreels-au.royal-reels-online.it.com": "C7",
-"royalreels-casino.royal-reels-pokies.ink": "C7",
-"royalreels.royal-reels-casino-au.ink": "C7",
-"royalreels.royall-reels.ink": "C7",
-"royalreels.royalreels-23.ink": "C7",
-"royalreels.royalreels-casino1.ink": "C7",
-"batikartbarbados.com": "C8",
-"royal-reels-10.club": "C8",
-"royal-reels-16.club": "C8",
-"royal-reels-20.club": "C8",
-"royal-reels-au.club": "C8",
-"royal-reels-official.club": "C8",
-"royal-reels16.ink": "C8",
-"royalreels10.com": "C9",
-"royalreels22.com": "C9",
-"royalreels23.com": "C9",
-"royalreels7.com": "C9",
-"royalreels8.com": "C9",
-"royalreels9.com": "C9",
-"boost.education": "C10",
-"mcash.network": "C10",
-"portmolyneuxschool.co.nz": "C10",
-"royalreels-22.life": "C10",
-"southmountain.vet": "C10",
-"wrenchturners.online": "C10",
-"acru.nyc": "C11",
-"impactx.tech": "C11",
-"injex.dev": "C11",
-"onceuponastory.boutique": "C11",
-"royal-reels-australia.stopcancer.health": "C11",
-"royalreels22.gb.net": "C11",
+"acru.nyc": "C6",
+"hollowayspizza.com": "C6",
+"impactx.tech": "C6",
+"injex.dev": "C6",
+"onceuponastory.boutique": "C6",
+"rideomountainbiking.com": "C6",
+"royal-reels-australia.stopcancer.health": "C6",
+"royalreels22.gb.net": "C6",
+"au.online-casino-pokies-australia.click": "C7",
+"royalreels18-online.com": "C7",
+"royalreelscasino18official.net": "C7",
+"therocket.house": "C7",
+"vortex3d.nz": "C7",
+"vortex3d.nzau": "C7",
+"vortex3d.nzen-au": "C7",
+"ata-rdc.org": "C8",
+"royalreels-au.royal-reels-online.it.com": "C8",
+"royalreels-casino.royal-reels-pokies.ink": "C8",
+"royalreels.royal-reels-casino-au.ink": "C8",
+"royalreels.royall-reels.ink": "C8",
+"royalreels.royalreels-23.ink": "C8",
+"royalreels.royalreels-casino1.ink": "C8",
+"batikartbarbados.com": "C9",
+"royal-reels-10.club": "C9",
+"royal-reels-16.club": "C9",
+"royal-reels-20.club": "C9",
+"royal-reels-au.club": "C9",
+"royal-reels-official.club": "C9",
+"royal-reels16.ink": "C9",
+"royalreels10.com": "C10",
+"royalreels22.com": "C10",
+"royalreels23.com": "C10",
+"royalreels7.com": "C10",
+"royalreels8.com": "C10",
+"royalreels9.com": "C10",
+"boost.education": "C11",
+"mcash.network": "C11",
+"portmolyneuxschool.co.nz": "C11",
+"royalreels-22.life": "C11",
+"southmountain.vet": "C11",
+"wrenchturners.online": "C11",
 "royal-reels.com": "C12",
 "royalreels.casino": "C12",
 "royalreels.online": "C12",
@@ -2363,9 +2372,11 @@
 "src": "wrenchturners.online",
 "dst": "southmountain.vet",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "pokezsd.com",
@@ -4031,6 +4042,81 @@
 {
 "src": "mcash.network",
 "dst": "royalreels-22.life",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "rideomountainbiking.com",
+"dst": "impactx.tech",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "rideomountainbiking.com",
+"dst": "royalreels22.gb.net",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "ouisibistro.com",
+"dst": "hotwaterbrewingco.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "royalreels100.com",
+"dst": "southernxsoloists.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "pokezsd.com",
+"dst": "hotwaterbrewingco.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "wrenchturners.online",
+"dst": "royalreels-22.life",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "jimmyherring.net",
+"dst": "hotwaterbrewingco.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "hollowayspizza.com",
+"dst": "impactx.tech",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "hollowayspizza.com",
+"dst": "royalreels22.gb.net",
 "via": [
 "hreflang"
 ],
