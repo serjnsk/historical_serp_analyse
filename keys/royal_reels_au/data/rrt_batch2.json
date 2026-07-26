@@ -2318,6 +2318,177 @@
    "host": "royalreelpokies.com",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "occupylausd.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.emwis-eg.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "emwis-eg.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "cineroyal.ae",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "balhannahdental.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hyperadvisor.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sandylanehomes.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "onceuponastory.boutique",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "impactx.tech",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels22.gb.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "casinoroyalreels.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels1.casino",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "ctcoleman.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "hotwaterbrewingco.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreelscasino18-au.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "acture.app",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "royalreels.emwis-eg.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "emwis-eg.org",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "disdentalsurgery.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "sampowers.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels18australiacasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ydekc.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nye23.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "chieflydegallo.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "mcash.network",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "southmountain.vet",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels-22.life",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels.one",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "atheniesangels.org.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "royalreels18casinoaustralia.com",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }

@@ -420,6 +420,50 @@
 },
 {
 "id": "C10",
+"size": 6,
+"regs": [
+"boost.education",
+"mcash.network",
+"portmolyneuxschool.co.nz",
+"royalreels-22.life",
+"southmountain.vet",
+"wrenchturners.online"
+],
+"members": [
+"boost.education",
+"mcash.network",
+"portmolyneuxschool.co.nz",
+"royalreels-22.life",
+"southmountain.vet",
+"wrenchturners.online"
+],
+"terminals": {
+"southmountain.vet": 8
+}
+},
+{
+"id": "C11",
+"size": 6,
+"regs": [
+"acru.nyc",
+"gb.net",
+"impactx.tech",
+"injex.dev",
+"onceuponastory.boutique",
+"stopcancer.health"
+],
+"members": [
+"acru.nyc",
+"impactx.tech",
+"injex.dev",
+"onceuponastory.boutique",
+"royal-reels-australia.stopcancer.health",
+"royalreels22.gb.net"
+],
+"terminals": {}
+},
+{
+"id": "C12",
 "size": 5,
 "regs": [
 "royal-reels.com",
@@ -438,46 +482,6 @@
 "terminals": {
 "royalreelsofficial.com": 4
 }
-},
-{
-"id": "C11",
-"size": 5,
-"regs": [
-"boost.education",
-"mcash.network",
-"portmolyneuxschool.co.nz",
-"southmountain.vet",
-"wrenchturners.online"
-],
-"members": [
-"boost.education",
-"mcash.network",
-"portmolyneuxschool.co.nz",
-"southmountain.vet",
-"wrenchturners.online"
-],
-"terminals": {
-"southmountain.vet": 8
-}
-},
-{
-"id": "C12",
-"size": 5,
-"regs": [
-"acru.nyc",
-"gb.net",
-"impactx.tech",
-"injex.dev",
-"stopcancer.health"
-],
-"members": [
-"acru.nyc",
-"impactx.tech",
-"injex.dev",
-"royal-reels-australia.stopcancer.health",
-"royalreels22.gb.net"
-],
-"terminals": {}
 },
 {
 "id": "C13",
@@ -1478,21 +1482,23 @@
 "royalreels7.com": "C9",
 "royalreels8.com": "C9",
 "royalreels9.com": "C9",
-"royal-reels.com": "C10",
-"royalreels.casino": "C10",
-"royalreels.online": "C10",
-"royalreelsofficial.com": "C10",
-"royalreelsonline-casino.com": "C10",
-"boost.education": "C11",
-"mcash.network": "C11",
-"portmolyneuxschool.co.nz": "C11",
-"southmountain.vet": "C11",
-"wrenchturners.online": "C11",
-"acru.nyc": "C12",
-"impactx.tech": "C12",
-"injex.dev": "C12",
-"royal-reels-australia.stopcancer.health": "C12",
-"royalreels22.gb.net": "C12",
+"boost.education": "C10",
+"mcash.network": "C10",
+"portmolyneuxschool.co.nz": "C10",
+"royalreels-22.life": "C10",
+"southmountain.vet": "C10",
+"wrenchturners.online": "C10",
+"acru.nyc": "C11",
+"impactx.tech": "C11",
+"injex.dev": "C11",
+"onceuponastory.boutique": "C11",
+"royal-reels-australia.stopcancer.health": "C11",
+"royalreels22.gb.net": "C11",
+"royal-reels.com": "C12",
+"royalreels.casino": "C12",
+"royalreels.online": "C12",
+"royalreelsofficial.com": "C12",
+"royalreelsonline-casino.com": "C12",
 "acture.app": "C13",
 "emwis-eg.org": "C13",
 "harmonycricket.farm": "C13",
@@ -2291,9 +2297,11 @@
 "src": "casinoroyalreels.com",
 "dst": "royalreels1.casino",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "kingsbridge.merlincinemas.co.uk",
@@ -2387,9 +2395,11 @@
 "src": "mcash.network",
 "dst": "southmountain.vet",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "ctcoleman.com",
@@ -2428,17 +2438,19 @@
 "src": "acture.app",
 "dst": "emwis-eg.org",
 "via": [
-"301"
+"301",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "occupylausd.org",
 "dst": "emwis-eg.org",
 "via": [
-"301"
+"301",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "boost.education",
@@ -3968,6 +3980,57 @@
 {
 "src": "royalreels8au.com",
 "dst": "royalreels8-au.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "occupylausd.org",
+"dst": "royalreels.emwis-eg.org",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "onceuponastory.boutique",
+"dst": "impactx.tech",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "onceuponastory.boutique",
+"dst": "royalreels22.gb.net",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "ctcoleman.com",
+"dst": "hotwaterbrewingco.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "acture.app",
+"dst": "royalreels.emwis-eg.org",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "mcash.network",
+"dst": "royalreels-22.life",
 "via": [
 "hreflang"
 ],
