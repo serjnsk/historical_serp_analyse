@@ -3225,6 +3225,158 @@
    "host": "casinologin.bet",
    "status": "timeout",
    "cross": []
+  },
+  {
+   "host": "lemonde.fr",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wimbledon-village.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ballewbridal.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sultankebabs.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casinosanalyzer.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinosanalyzer.ca",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinosanalyzer.co.nz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kasynoanalyzer.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bonosanalyzer.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ausscasinosanalyzer.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "carpetcleaners.org.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "exploremore.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "rbfi.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "devita.global",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelsaustralia.bet",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "anzsee.org",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "spareharvest.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "au.casinologin.mobi",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinologin.mobi",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinologin.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "horsecom.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "thelighthouserecovery.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ambitious.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cageauxtrolls.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "nideal.ch",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "hotelinvercargill.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "centrelabour.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royalreelscasino.company.site",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
