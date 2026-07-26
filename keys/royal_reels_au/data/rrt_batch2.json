@@ -3104,6 +3104,127 @@
    "host": "californiaburritoonline.co.nz",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "royal-reels.online",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "richfeel.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "richfeelnaturals.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "royalreels1.org",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "emerald.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ari.yoga",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "impactx.tech",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "royalreels22.gb.net",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "finessecateringatmelbourne.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "angelaosagie.com.au",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "caprimonkeysol.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "gostreet.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "motionarray.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "aminomantra.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "deciduusandsantie.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "rhythmpsych.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "yfprotocol.finance",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "chibebe.co.nz",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "royal-casino-au.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "au.royalreelscasino-au.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "rspba.org",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "royal-casino-au.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "casinologin.bet",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }

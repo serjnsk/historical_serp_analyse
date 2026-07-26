@@ -327,9 +327,10 @@
 },
 {
 "id": "C6",
-"size": 9,
+"size": 10,
 "regs": [
 "acru.nyc",
+"ari.yoga",
 "dogeuprising.co",
 "gb.net",
 "hollowayspizza.com",
@@ -341,6 +342,7 @@
 ],
 "members": [
 "acru.nyc",
+"ari.yoga",
 "dogeuprising.co",
 "hollowayspizza.com",
 "impactx.tech",
@@ -1521,6 +1523,7 @@
 "steroide.me": "C5",
 "thetricksnetwork.com": "C5",
 "acru.nyc": "C6",
+"ari.yoga": "C6",
 "dogeuprising.co": "C6",
 "hollowayspizza.com": "C6",
 "impactx.tech": "C6",
@@ -2349,9 +2352,10 @@
 "src": "richfeel.com",
 "dst": "richfeelnaturals.com",
 "via": [
-"301"
+"301",
+"canonical"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "casinologin.bet",
@@ -4324,6 +4328,23 @@
 {
 "src": "cobbandco.net.au",
 "dst": "etsy.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "ari.yoga",
+"dst": "impactx.tech",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "ari.yoga",
+"dst": "royalreels22.gb.net",
 "via": [
 "hreflang"
 ],
