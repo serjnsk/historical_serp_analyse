@@ -789,21 +789,6 @@
 "id": "C44",
 "size": 2,
 "regs": [
-"t.me",
-"telegram.org"
-],
-"members": [
-"t.me",
-"telegram.org"
-],
-"terminals": {
-"telegram.org": 1
-}
-},
-{
-"id": "C45",
-"size": 2,
-"regs": [
 "imagup.com",
 "imagup.org"
 ],
@@ -816,7 +801,7 @@
 }
 },
 {
-"id": "C46",
+"id": "C45",
 "size": 2,
 "regs": [
 "casinogratuitsansdepot.com",
@@ -831,7 +816,7 @@
 }
 },
 {
-"id": "C47",
+"id": "C46",
 "size": 2,
 "regs": [
 "captain-caz.net",
@@ -844,7 +829,7 @@
 "terminals": {}
 },
 {
-"id": "C48",
+"id": "C47",
 "size": 2,
 "regs": [
 "jeuxaviator-fr.com",
@@ -859,7 +844,7 @@
 }
 },
 {
-"id": "C49",
+"id": "C48",
 "size": 2,
 "regs": [
 "jeux.ca",
@@ -874,7 +859,7 @@
 }
 },
 {
-"id": "C50",
+"id": "C49",
 "size": 2,
 "regs": [
 "juditpolgarmethod.com",
@@ -889,7 +874,7 @@
 }
 },
 {
-"id": "C51",
+"id": "C50",
 "size": 2,
 "regs": [
 "com.br",
@@ -904,7 +889,7 @@
 }
 },
 {
-"id": "C52",
+"id": "C51",
 "size": 2,
 "regs": [
 "com.br",
@@ -919,7 +904,7 @@
 }
 },
 {
-"id": "C53",
+"id": "C52",
 "size": 2,
 "regs": [
 "leconcept.cz",
@@ -934,7 +919,7 @@
 }
 },
 {
-"id": "C54",
+"id": "C53",
 "size": 2,
 "regs": [
 "betify-fr.fr",
@@ -949,22 +934,7 @@
 }
 },
 {
-"id": "C55",
-"size": 2,
-"regs": [
-"cleancss.com",
-"reddit.com"
-],
-"members": [
-"cleancss.com",
-"reddit.com"
-],
-"terminals": {
-"reddit.com": 2
-}
-},
-{
-"id": "C56",
+"id": "C54",
 "size": 2,
 "regs": [
 "casinonapoleon.bet",
@@ -979,7 +949,7 @@
 }
 },
 {
-"id": "C57",
+"id": "C55",
 "size": 2,
 "regs": [
 "betifyfr.com",
@@ -994,7 +964,7 @@
 }
 },
 {
-"id": "C58",
+"id": "C56",
 "size": 2,
 "regs": [
 "abacuscateringhire.co.uk",
@@ -1007,7 +977,7 @@
 "terminals": {}
 },
 {
-"id": "C59",
+"id": "C57",
 "size": 2,
 "regs": [
 "betify.pro",
@@ -1022,7 +992,7 @@
 }
 },
 {
-"id": "C60",
+"id": "C58",
 "size": 2,
 "regs": [
 "viucolageno.com",
@@ -1037,7 +1007,7 @@
 }
 },
 {
-"id": "C61",
+"id": "C59",
 "size": 2,
 "regs": [
 "onlyfansgratuit-fr.fr",
@@ -1052,7 +1022,7 @@
 }
 },
 {
-"id": "C62",
+"id": "C60",
 "size": 2,
 "regs": [
 "confluences.fr",
@@ -1067,7 +1037,7 @@
 }
 },
 {
-"id": "C63",
+"id": "C61",
 "size": 2,
 "regs": [
 "maxpowersystems.in",
@@ -1082,7 +1052,7 @@
 }
 },
 {
-"id": "C64",
+"id": "C62",
 "size": 2,
 "regs": [
 "brocante-sabres.com",
@@ -1097,7 +1067,7 @@
 }
 },
 {
-"id": "C65",
+"id": "C63",
 "size": 2,
 "regs": [
 "dinao.com",
@@ -1112,7 +1082,7 @@
 }
 },
 {
-"id": "C66",
+"id": "C64",
 "size": 2,
 "regs": [
 "casino-victoria.fr",
@@ -1127,7 +1097,7 @@
 }
 },
 {
-"id": "C67",
+"id": "C65",
 "size": 2,
 "regs": [
 "digital-outremer.com",
@@ -1142,7 +1112,7 @@
 }
 },
 {
-"id": "C68",
+"id": "C66",
 "size": 2,
 "regs": [
 "jdnagency.com",
@@ -1157,7 +1127,7 @@
 }
 },
 {
-"id": "C69",
+"id": "C67",
 "size": 2,
 "regs": [
 "playview.blog",
@@ -1172,7 +1142,7 @@
 }
 },
 {
-"id": "C70",
+"id": "C68",
 "size": 2,
 "regs": [
 "lucky-7-bonus.fr",
@@ -1187,7 +1157,7 @@
 }
 },
 {
-"id": "C71",
+"id": "C69",
 "size": 2,
 "regs": [
 "plenergy.es",
@@ -1202,7 +1172,7 @@
 }
 },
 {
-"id": "C72",
+"id": "C70",
 "size": 2,
 "regs": [
 "bayonaplaya.com",
@@ -1217,7 +1187,7 @@
 }
 },
 {
-"id": "C73",
+"id": "C71",
 "size": 2,
 "regs": [
 "betify.org",
@@ -1232,7 +1202,7 @@
 }
 },
 {
-"id": "C74",
+"id": "C72",
 "size": 2,
 "regs": [
 "goodmorningmusic.net",
@@ -1247,7 +1217,7 @@
 }
 },
 {
-"id": "C75",
+"id": "C73",
 "size": 2,
 "regs": [
 "betify-portugal.com",
@@ -1262,7 +1232,7 @@
 }
 },
 {
-"id": "C76",
+"id": "C74",
 "size": 2,
 "regs": [
 "threads.com",
@@ -1277,7 +1247,7 @@
 }
 },
 {
-"id": "C77",
+"id": "C75",
 "size": 2,
 "regs": [
 "anita-perez.fr",
@@ -1292,7 +1262,7 @@
 }
 },
 {
-"id": "C78",
+"id": "C76",
 "size": 2,
 "regs": [
 "benifex.com",
@@ -1307,7 +1277,7 @@
 }
 },
 {
-"id": "C79",
+"id": "C77",
 "size": 2,
 "regs": [
 "betway.com",
@@ -1322,7 +1292,7 @@
 }
 },
 {
-"id": "C80",
+"id": "C78",
 "size": 2,
 "regs": [
 "betify.net",
@@ -1337,7 +1307,7 @@
 }
 },
 {
-"id": "C81",
+"id": "C79",
 "size": 2,
 "regs": [
 "riip-fr.eu.com",
@@ -1350,7 +1320,7 @@
 "terminals": {}
 },
 {
-"id": "C82",
+"id": "C80",
 "size": 2,
 "regs": [
 "betify-fr.com",
@@ -1365,22 +1335,7 @@
 }
 },
 {
-"id": "C83",
-"size": 2,
-"regs": [
-"amazon.com",
-"amazonaws.com"
-],
-"members": [
-"aws.amazon.com",
-"s3.amazonaws.com"
-],
-"terminals": {
-"aws.amazon.com": 1
-}
-},
-{
-"id": "C84",
+"id": "C81",
 "size": 2,
 "regs": [
 "front-populaire.com",
@@ -1395,7 +1350,7 @@
 }
 },
 {
-"id": "C85",
+"id": "C82",
 "size": 2,
 "regs": [
 "fr-betify-casino.com",
@@ -1410,7 +1365,7 @@
 }
 },
 {
-"id": "C86",
+"id": "C83",
 "size": 2,
 "regs": [
 "casinotan.com",
@@ -1425,7 +1380,7 @@
 }
 },
 {
-"id": "C87",
+"id": "C84",
 "size": 2,
 "regs": [
 "ambianceloisirs.fr",
@@ -1440,46 +1395,46 @@
 }
 },
 {
+"id": "C85",
+"size": 2,
+"regs": [
+"betifycasino777fr.com",
+"betifycasinoa366fr.com"
+],
+"members": [
+"betifycasino777fr.com",
+"betifycasinoa366fr.com"
+],
+"terminals": {}
+},
+{
+"id": "C86",
+"size": 2,
+"regs": [
+"betifyfrance.vip",
+"urbanmobs.fr"
+],
+"members": [
+"betifyfrance.vip",
+"urbanmobs.fr"
+],
+"terminals": {}
+},
+{
+"id": "C87",
+"size": 2,
+"regs": [
+"casino-betify.net",
+"marcdecafe.fr"
+],
+"members": [
+"casino-betify.net",
+"marcdecafe.fr"
+],
+"terminals": {}
+},
+{
 "id": "C88",
-"size": 2,
-"regs": [
-"betifycasino777fr.com",
-"betifycasinoa366fr.com"
-],
-"members": [
-"betifycasino777fr.com",
-"betifycasinoa366fr.com"
-],
-"terminals": {}
-},
-{
-"id": "C89",
-"size": 2,
-"regs": [
-"betifyfrance.vip",
-"urbanmobs.fr"
-],
-"members": [
-"betifyfrance.vip",
-"urbanmobs.fr"
-],
-"terminals": {}
-},
-{
-"id": "C90",
-"size": 2,
-"regs": [
-"casino-betify.net",
-"marcdecafe.fr"
-],
-"members": [
-"casino-betify.net",
-"marcdecafe.fr"
-],
-"terminals": {}
-},
-{
-"id": "C91",
 "size": 2,
 "regs": [
 "online-gaming-casino.click",
@@ -1492,46 +1447,46 @@
 "terminals": {}
 },
 {
+"id": "C89",
+"size": 2,
+"regs": [
+"tn.bet",
+"tnbet.fr"
+],
+"members": [
+"tn.bet",
+"tnbet.fr"
+],
+"terminals": {}
+},
+{
+"id": "C90",
+"size": 2,
+"regs": [
+"shuffle.bet",
+"shuffle.com"
+],
+"members": [
+"shuffle.bet",
+"shuffle.com"
+],
+"terminals": {}
+},
+{
+"id": "C91",
+"size": 2,
+"regs": [
+"vip-grinders.com",
+"vip-grinders.es"
+],
+"members": [
+"vip-grinders.com",
+"vip-grinders.es"
+],
+"terminals": {}
+},
+{
 "id": "C92",
-"size": 2,
-"regs": [
-"tn.bet",
-"tnbet.fr"
-],
-"members": [
-"tn.bet",
-"tnbet.fr"
-],
-"terminals": {}
-},
-{
-"id": "C93",
-"size": 2,
-"regs": [
-"shuffle.bet",
-"shuffle.com"
-],
-"members": [
-"shuffle.bet",
-"shuffle.com"
-],
-"terminals": {}
-},
-{
-"id": "C94",
-"size": 2,
-"regs": [
-"vip-grinders.com",
-"vip-grinders.es"
-],
-"members": [
-"vip-grinders.com",
-"vip-grinders.es"
-],
-"terminals": {}
-},
-{
-"id": "C95",
 "size": 2,
 "regs": [
 "atthalin.fr",
@@ -1546,7 +1501,7 @@
 }
 },
 {
-"id": "C96",
+"id": "C93",
 "size": 2,
 "regs": [
 "betify-casino-en-ligne-france.eu.com",
@@ -1559,7 +1514,7 @@
 "terminals": {}
 },
 {
-"id": "C97",
+"id": "C94",
 "size": 2,
 "regs": [
 "babylontours.com",
@@ -1572,7 +1527,7 @@
 "terminals": {}
 },
 {
-"id": "C98",
+"id": "C95",
 "size": 2,
 "regs": [
 "leponclet.fr",
@@ -1587,7 +1542,7 @@
 }
 },
 {
-"id": "C99",
+"id": "C96",
 "size": 2,
 "regs": [
 "learndash.com",
@@ -1600,7 +1555,7 @@
 "terminals": {}
 },
 {
-"id": "C100",
+"id": "C97",
 "size": 2,
 "regs": [
 "com.cy",
@@ -1613,7 +1568,7 @@
 "terminals": {}
 },
 {
-"id": "C101",
+"id": "C98",
 "size": 9,
 "regs": [
 "betifybett.com"
@@ -1632,7 +1587,7 @@
 "terminals": {}
 },
 {
-"id": "C102",
+"id": "C99",
 "size": 6,
 "regs": [
 "lucky-minigames.com"
@@ -1648,7 +1603,7 @@
 "terminals": {}
 },
 {
-"id": "C103",
+"id": "C100",
 "size": 3,
 "regs": [
 "sitegpr.com"
@@ -1663,7 +1618,7 @@
 }
 },
 {
-"id": "C104",
+"id": "C101",
 "size": 3,
 "regs": [
 "scamdoc.com"
@@ -1676,7 +1631,7 @@
 "terminals": {}
 },
 {
-"id": "C105",
+"id": "C102",
 "size": 2,
 "regs": [
 "ufrj.br"
@@ -1690,7 +1645,7 @@
 }
 },
 {
-"id": "C106",
+"id": "C103",
 "size": 2,
 "regs": [
 "betify-casino-france.com"
@@ -1702,7 +1657,7 @@
 "terminals": {}
 },
 {
-"id": "C107",
+"id": "C104",
 "size": 2,
 "regs": [
 "betify-casino-sport-france.fr"
@@ -1714,7 +1669,7 @@
 "terminals": {}
 },
 {
-"id": "C108",
+"id": "C105",
 "size": 2,
 "regs": [
 "betify-casino-poker-france.fr"
@@ -1726,7 +1681,7 @@
 "terminals": {}
 },
 {
-"id": "C109",
+"id": "C106",
 "size": 2,
 "regs": [
 "betify-casino-club-fr.fr"
@@ -1738,7 +1693,7 @@
 "terminals": {}
 },
 {
-"id": "C110",
+"id": "C107",
 "size": 2,
 "regs": [
 "betify-casino-france.net"
@@ -1750,7 +1705,7 @@
 "terminals": {}
 },
 {
-"id": "C111",
+"id": "C108",
 "size": 2,
 "regs": [
 "beincrypto.com"
@@ -1762,7 +1717,7 @@
 "terminals": {}
 },
 {
-"id": "C112",
+"id": "C109",
 "size": 2,
 "regs": [
 "gravatar.com"
@@ -1774,7 +1729,7 @@
 "terminals": {}
 },
 {
-"id": "C113",
+"id": "C110",
 "size": 2,
 "regs": [
 "twitch.tv"
@@ -1786,7 +1741,7 @@
 "terminals": {}
 },
 {
-"id": "C114",
+"id": "C111",
 "size": 2,
 "regs": [
 "bnm.org"
@@ -1798,7 +1753,7 @@
 "terminals": {}
 },
 {
-"id": "C115",
+"id": "C112",
 "size": 2,
 "regs": [
 "upline-groupe.com"
@@ -1988,163 +1943,157 @@
 "pariez-malin.fr": "C42",
 "finance.yahoo.com": "C43",
 "fr.wallmine.com": "C43",
-"t.me": "C44",
-"telegram.org": "C44",
-"imagup.com": "C45",
-"imagup.org": "C45",
-"casinogratuitsansdepot.com": "C46",
-"mastersjeuvideo.com": "C46",
-"captain-caz.net": "C47",
-"captaincaz.net": "C47",
-"jeuxaviator-fr.com": "C48",
-"jeuxaviator.fr": "C48",
-"jeux.ca": "C49",
-"jeux.com": "C49",
-"en.sakkpalota.hu": "C50",
-"juditpolgarmethod.com": "C50",
-"lakns.com": "C51",
-"miottodistribuidora.com.br": "C51",
-"acatransformadora.com.br": "C52",
-"acave.ind.br": "C52",
-"leconcept.cz": "C53",
-"nicsell.com": "C53",
-"betify-fr.fr": "C54",
-"betify-sh.fr": "C54",
-"cleancss.com": "C55",
-"reddit.com": "C55",
-"casinonapoleon.bet": "C56",
-"casinonapoleon.org": "C56",
-"betifyfr.com": "C57",
-"casinobetify.com": "C57",
-"abacuscateringhire.co.uk": "C58",
-"estatekom.com": "C58",
-"betify.pro": "C59",
-"urlz.fr": "C59",
-"viucolageno.com": "C60",
-"viusuplementos.com": "C60",
-"onlyfansgratuit-fr.fr": "C61",
-"parlement-ouvert.fr": "C61",
-"confluences.fr": "C62",
-"meilleurcasinoen-ligne.net": "C62",
-"maxpowersystems.in": "C63",
-"siranthaelectricals.com": "C63",
-"brocante-sabres.com": "C64",
-"brocanteamani.com": "C64",
-"dinao.com": "C65",
-"preprod.webcaisse.fr": "C65",
-"casino-victoria.fr": "C66",
-"victoria-casino.fr": "C66",
-"semaag.fr": "C67",
-"semag.digital-outremer.com": "C67",
-"jdnagency.com": "C68",
-"jimenezdenalda.com": "C68",
-"playview.blog": "C69",
-"sneakpeek.top": "C69",
-"lucky-7-bonus.fr": "C70",
-"lucky-7-bonus.info": "C70",
-"plenergy.es": "C71",
-"plenoil.es": "C71",
-"bayonaplaya.com": "C72",
-"campingbayona.com": "C72",
-"betify.org": "C73",
-"betifylive.com": "C73",
-"goodmorningmusic.net": "C74",
-"podcastics.com": "C74",
-"betify-portugal.com": "C75",
-"betifycasino-pt.com": "C75",
-"threads.com": "C76",
-"threads.net": "C76",
-"anita-perez.fr": "C77",
-"benjamingirard.com": "C77",
-"benifex.com": "C78",
-"benify.com": "C78",
-"betway.com": "C79",
-"betway.de": "C79",
-"betify.net": "C80",
-"betify3sh.net": "C80",
-"riip-fr.eu.com": "C81",
-"riipfr.eu.com": "C81",
-"betify-fr.com": "C82",
-"betify-fr.eu.com": "C82",
-"aws.amazon.com": "C83",
-"s3.amazonaws.com": "C83",
-"front-populaire.com": "C84",
-"frontpopulaire-2024.fr": "C84",
-"fr-betify-casino.com": "C85",
-"lemansgolfier.com": "C85",
-"casinotan.com": "C86",
-"casinotan.net": "C86",
-"ambianceloisirs.fr": "C87",
-"bonussandepot.it.com": "C87",
-"betifycasino777fr.com": "C88",
-"betifycasinoa366fr.com": "C88",
-"betifyfrance.vip": "C89",
-"urbanmobs.fr": "C89",
-"casino-betify.net": "C90",
-"marcdecafe.fr": "C90",
-"betify.online-gaming-casino.click": "C91",
-"rotisserie-mios.fr": "C91",
-"tn.bet": "C92",
-"tnbet.fr": "C92",
-"shuffle.bet": "C93",
-"shuffle.com": "C93",
-"vip-grinders.com": "C94",
-"vip-grinders.es": "C94",
-"atthalin.fr": "C95",
-"betify-french.fr": "C95",
-"betify-casino-en-ligne-france.eu.com": "C96",
-"rdriviera.com": "C96",
-"babylontours.com": "C97",
-"babylontours.fr": "C97",
-"leponclet.fr": "C98",
-"sondagespayants.fr": "C98",
-"academy.learndash.com": "C99",
-"docs.nexcess.com": "C99",
-"irepair.com.cy": "C100",
-"irepair.gr": "C100",
-"betifybett.com": "C101",
-"ca.betifybett.com": "C101",
-"de.betifybett.com": "C101",
-"es.betifybett.com": "C101",
-"fr.betifybett.com": "C101",
-"it.betifybett.com": "C101",
-"nl.betifybett.com": "C101",
-"pl.betifybett.com": "C101",
-"pt.betifybett.com": "C101",
-"de.lucky-minigames.com": "C102",
-"es.lucky-minigames.com": "C102",
-"fr.lucky-minigames.com": "C102",
-"it.lucky-minigames.com": "C102",
-"lucky-minigames.com": "C102",
-"pt.lucky-minigames.com": "C102",
-"betifycasino.sitegpr.com": "C103",
-"betifyjuin.sitegpr.com": "C103",
-"sitegpr.com": "C103",
-"es.scamdoc.com": "C104",
-"fr.scamdoc.com": "C104",
-"scamdoc.com": "C104",
-"ppe.coppe.ufrj.br": "C105",
-"ppe.ufrj.br": "C105",
-"betify-casino-france.com": "C106",
-"betify-code-promo.betify-casino-france.com": "C106",
-"betify-casino-sport-france.fr": "C107",
-"jeux.betify-casino-sport-france.fr": "C107",
-"betify-casino-poker-france.fr": "C108",
-"jeux.betify-casino-poker-france.fr": "C108",
-"betify-casino-club-fr.fr": "C109",
-"jeux.betify-casino-club-fr.fr": "C109",
-"betify-casino-france.net": "C110",
-"betifycas.betify-casino-france.net": "C110",
-"beincrypto.com": "C111",
-"fr.beincrypto.com": "C111",
-"fr.gravatar.com": "C112",
-"gravatar.com": "C112",
-"m.twitch.tv": "C113",
-"twitch.tv": "C113",
-"bnm.org": "C114",
-"casino.bnm.org": "C114",
-"dev.upline-groupe.com": "C115",
-"upline-groupe.com": "C115"
+"imagup.com": "C44",
+"imagup.org": "C44",
+"casinogratuitsansdepot.com": "C45",
+"mastersjeuvideo.com": "C45",
+"captain-caz.net": "C46",
+"captaincaz.net": "C46",
+"jeuxaviator-fr.com": "C47",
+"jeuxaviator.fr": "C47",
+"jeux.ca": "C48",
+"jeux.com": "C48",
+"en.sakkpalota.hu": "C49",
+"juditpolgarmethod.com": "C49",
+"lakns.com": "C50",
+"miottodistribuidora.com.br": "C50",
+"acatransformadora.com.br": "C51",
+"acave.ind.br": "C51",
+"leconcept.cz": "C52",
+"nicsell.com": "C52",
+"betify-fr.fr": "C53",
+"betify-sh.fr": "C53",
+"casinonapoleon.bet": "C54",
+"casinonapoleon.org": "C54",
+"betifyfr.com": "C55",
+"casinobetify.com": "C55",
+"abacuscateringhire.co.uk": "C56",
+"estatekom.com": "C56",
+"betify.pro": "C57",
+"urlz.fr": "C57",
+"viucolageno.com": "C58",
+"viusuplementos.com": "C58",
+"onlyfansgratuit-fr.fr": "C59",
+"parlement-ouvert.fr": "C59",
+"confluences.fr": "C60",
+"meilleurcasinoen-ligne.net": "C60",
+"maxpowersystems.in": "C61",
+"siranthaelectricals.com": "C61",
+"brocante-sabres.com": "C62",
+"brocanteamani.com": "C62",
+"dinao.com": "C63",
+"preprod.webcaisse.fr": "C63",
+"casino-victoria.fr": "C64",
+"victoria-casino.fr": "C64",
+"semaag.fr": "C65",
+"semag.digital-outremer.com": "C65",
+"jdnagency.com": "C66",
+"jimenezdenalda.com": "C66",
+"playview.blog": "C67",
+"sneakpeek.top": "C67",
+"lucky-7-bonus.fr": "C68",
+"lucky-7-bonus.info": "C68",
+"plenergy.es": "C69",
+"plenoil.es": "C69",
+"bayonaplaya.com": "C70",
+"campingbayona.com": "C70",
+"betify.org": "C71",
+"betifylive.com": "C71",
+"goodmorningmusic.net": "C72",
+"podcastics.com": "C72",
+"betify-portugal.com": "C73",
+"betifycasino-pt.com": "C73",
+"threads.com": "C74",
+"threads.net": "C74",
+"anita-perez.fr": "C75",
+"benjamingirard.com": "C75",
+"benifex.com": "C76",
+"benify.com": "C76",
+"betway.com": "C77",
+"betway.de": "C77",
+"betify.net": "C78",
+"betify3sh.net": "C78",
+"riip-fr.eu.com": "C79",
+"riipfr.eu.com": "C79",
+"betify-fr.com": "C80",
+"betify-fr.eu.com": "C80",
+"front-populaire.com": "C81",
+"frontpopulaire-2024.fr": "C81",
+"fr-betify-casino.com": "C82",
+"lemansgolfier.com": "C82",
+"casinotan.com": "C83",
+"casinotan.net": "C83",
+"ambianceloisirs.fr": "C84",
+"bonussandepot.it.com": "C84",
+"betifycasino777fr.com": "C85",
+"betifycasinoa366fr.com": "C85",
+"betifyfrance.vip": "C86",
+"urbanmobs.fr": "C86",
+"casino-betify.net": "C87",
+"marcdecafe.fr": "C87",
+"betify.online-gaming-casino.click": "C88",
+"rotisserie-mios.fr": "C88",
+"tn.bet": "C89",
+"tnbet.fr": "C89",
+"shuffle.bet": "C90",
+"shuffle.com": "C90",
+"vip-grinders.com": "C91",
+"vip-grinders.es": "C91",
+"atthalin.fr": "C92",
+"betify-french.fr": "C92",
+"betify-casino-en-ligne-france.eu.com": "C93",
+"rdriviera.com": "C93",
+"babylontours.com": "C94",
+"babylontours.fr": "C94",
+"leponclet.fr": "C95",
+"sondagespayants.fr": "C95",
+"academy.learndash.com": "C96",
+"docs.nexcess.com": "C96",
+"irepair.com.cy": "C97",
+"irepair.gr": "C97",
+"betifybett.com": "C98",
+"ca.betifybett.com": "C98",
+"de.betifybett.com": "C98",
+"es.betifybett.com": "C98",
+"fr.betifybett.com": "C98",
+"it.betifybett.com": "C98",
+"nl.betifybett.com": "C98",
+"pl.betifybett.com": "C98",
+"pt.betifybett.com": "C98",
+"de.lucky-minigames.com": "C99",
+"es.lucky-minigames.com": "C99",
+"fr.lucky-minigames.com": "C99",
+"it.lucky-minigames.com": "C99",
+"lucky-minigames.com": "C99",
+"pt.lucky-minigames.com": "C99",
+"betifycasino.sitegpr.com": "C100",
+"betifyjuin.sitegpr.com": "C100",
+"sitegpr.com": "C100",
+"es.scamdoc.com": "C101",
+"fr.scamdoc.com": "C101",
+"scamdoc.com": "C101",
+"ppe.coppe.ufrj.br": "C102",
+"ppe.ufrj.br": "C102",
+"betify-casino-france.com": "C103",
+"betify-code-promo.betify-casino-france.com": "C103",
+"betify-casino-sport-france.fr": "C104",
+"jeux.betify-casino-sport-france.fr": "C104",
+"betify-casino-poker-france.fr": "C105",
+"jeux.betify-casino-poker-france.fr": "C105",
+"betify-casino-club-fr.fr": "C106",
+"jeux.betify-casino-club-fr.fr": "C106",
+"betify-casino-france.net": "C107",
+"betifycas.betify-casino-france.net": "C107",
+"beincrypto.com": "C108",
+"fr.beincrypto.com": "C108",
+"fr.gravatar.com": "C109",
+"gravatar.com": "C109",
+"m.twitch.tv": "C110",
+"twitch.tv": "C110",
+"bnm.org": "C111",
+"casino.bnm.org": "C111",
+"dev.upline-groupe.com": "C112",
+"upline-groupe.com": "C112"
 },
 "edges": [
 {

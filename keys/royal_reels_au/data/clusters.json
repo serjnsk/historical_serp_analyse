@@ -2,7 +2,7 @@
 "clusters": [
 {
 "id": "C1",
-"size": 69,
+"size": 64,
 "regs": [
 "100thww2.org",
 "acmarineandcomposites.com",
@@ -17,7 +17,6 @@
 "fooddeliverynews.com",
 "freedomballoonfest.com",
 "getbengt.com",
-"google.com",
 "greencommunityconnections.org",
 "hardfeelings.net",
 "healthyfootballleague.com",
@@ -26,7 +25,6 @@
 "maitlandriverrun.net",
 "marleyandlockyer.com",
 "qodebrisbane.com",
-"rolayreels.com",
 "royal-reels-18.net",
 "royal-reels21.net",
 "royal-reels21au.net",
@@ -59,16 +57,13 @@
 "royalrels.com",
 "royalrels.net",
 "roylereels.com",
-"savethekimberley.com",
 "saving-spoon-billed-sandpiper.com",
 "shakeygroundfarm.com",
 "skolay.com",
 "solardepot.com.au",
 "southernxsoloists.com",
 "ticts.net",
-"toyalreels.com",
 "us.org",
-"vivat-lastages.com",
 "www-royalreels.net",
 "wwwroyalreels.com"
 ],
@@ -93,9 +88,7 @@
 "jrishifrinson.com",
 "maitlandriverrun.net",
 "marleyandlockyer.com",
-"play.google.com",
 "qodebrisbane.com",
-"rolayreels.com",
 "royal-reels-18.net",
 "royal-reels21.net",
 "royal-reels21au.net",
@@ -131,22 +124,18 @@
 "royalrels.com",
 "royalrels.net",
 "roylereels.com",
-"savethekimberley.com",
 "saving-spoon-billed-sandpiper.com",
 "shakeygroundfarm.com",
 "skolay.com",
 "solardepot.com.au",
 "southernxsoloists.com",
 "ticts.net",
-"toyalreels.com",
-"vivat-lastages.com",
 "www-royalreels.net",
 "wwwroyalreels.com"
 ],
 "terminals": {
 "joocasino.live": 51,
-"win.101nightwin.com": 4,
-"play.google.com": 2
+"play.google.com": 1
 }
 },
 {
@@ -642,6 +631,26 @@
 "id": "C20",
 "size": 4,
 "regs": [
+"rolayreels.com",
+"savethekimberley.com",
+"toyalreels.com",
+"vivat-lastages.com"
+],
+"members": [
+"rolayreels.com",
+"savethekimberley.com",
+"toyalreels.com",
+"vivat-lastages.com"
+],
+"terminals": {
+"win.101nightwin.com": 4,
+"play.google.com": 1
+}
+},
+{
+"id": "C21",
+"size": 4,
+"regs": [
 "casinologin.bet",
 "casinologin.com",
 "casinologin.mobi"
@@ -657,7 +666,7 @@
 }
 },
 {
-"id": "C21",
+"id": "C22",
 "size": 4,
 "regs": [
 "ercepresliffre.info",
@@ -675,7 +684,7 @@
 }
 },
 {
-"id": "C22",
+"id": "C23",
 "size": 3,
 "regs": [
 "bet-square.io",
@@ -692,7 +701,7 @@
 }
 },
 {
-"id": "C23",
+"id": "C24",
 "size": 3,
 "regs": [
 "royalsreels-20.com",
@@ -706,23 +715,6 @@
 ],
 "terminals": {
 "royalsreels-20.com": 1
-}
-},
-{
-"id": "C24",
-"size": 3,
-"regs": [
-"google.com",
-"gov.br",
-"royalqueenseeds.it"
-],
-"members": [
-"cecon.setelagoas.mg.gov.br",
-"google.com",
-"royalqueenseeds.it"
-],
-"terminals": {
-"doodles.google": 5
 }
 },
 {
@@ -1430,9 +1422,7 @@
 "jrishifrinson.com": "C1",
 "maitlandriverrun.net": "C1",
 "marleyandlockyer.com": "C1",
-"play.google.com": "C1",
 "qodebrisbane.com": "C1",
-"rolayreels.com": "C1",
 "royal-reels-18.net": "C1",
 "royal-reels21.net": "C1",
 "royal-reels21au.net": "C1",
@@ -1468,15 +1458,12 @@
 "royalrels.com": "C1",
 "royalrels.net": "C1",
 "roylereels.com": "C1",
-"savethekimberley.com": "C1",
 "saving-spoon-billed-sandpiper.com": "C1",
 "shakeygroundfarm.com": "C1",
 "skolay.com": "C1",
 "solardepot.com.au": "C1",
 "southernxsoloists.com": "C1",
 "ticts.net": "C1",
-"toyalreels.com": "C1",
-"vivat-lastages.com": "C1",
 "www-royalreels.net": "C1",
 "wwwroyalreels.com": "C1",
 "alizetihr.com": "C2",
@@ -1629,23 +1616,24 @@
 "lostsociety-dc.com": "C19",
 "parkersgrille.com": "C19",
 "uncagedmimosas.com": "C19",
-"au.casinologin.mobi": "C20",
-"casinologin.bet": "C20",
-"casinologin.com": "C20",
-"casinologin.mobi": "C20",
-"ercepresliffre.info": "C21",
-"royalreels.ercepresliffre.info": "C21",
-"royalreels.idrissa.cc": "C21",
-"royalreels.jwcroft.com": "C21",
-"bet-square.io": "C22",
-"betsquare.com": "C22",
-"betsquare.org": "C22",
-"royalsreels-20.com": "C23",
-"royalsreels-21.com": "C23",
-"royalsreels.com": "C23",
-"cecon.setelagoas.mg.gov.br": "C24",
-"google.com": "C24",
-"royalqueenseeds.it": "C24",
+"rolayreels.com": "C20",
+"savethekimberley.com": "C20",
+"toyalreels.com": "C20",
+"vivat-lastages.com": "C20",
+"au.casinologin.mobi": "C21",
+"casinologin.bet": "C21",
+"casinologin.com": "C21",
+"casinologin.mobi": "C21",
+"ercepresliffre.info": "C22",
+"royalreels.ercepresliffre.info": "C22",
+"royalreels.idrissa.cc": "C22",
+"royalreels.jwcroft.com": "C22",
+"bet-square.io": "C23",
+"betsquare.com": "C23",
+"betsquare.org": "C23",
+"royalsreels-20.com": "C24",
+"royalsreels-21.com": "C24",
+"royalsreels.com": "C24",
 "greenbeestudyguides.com": "C25",
 "papporestaurant.com": "C25",
 "xa-na.com": "C25",

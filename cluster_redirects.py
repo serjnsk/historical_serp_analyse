@@ -42,6 +42,16 @@ def registrable(host):
     return '.'.join(p[-2:]) if len(p) >= 2 else d
 def excluded(a, b):
     return registrable(a) in EXCLUDED_DOMAINS or registrable(b) in EXCLUDED_DOMAINS
+
+# Мега-платформы как ЦЕЛЬ: ребро сохраняем (хост засчитан живым редиректором и попадает
+# в terminals), но склеивать через них компоненты нельзя — на один и тот же play.google.com
+# или facebook.com ведут никак не связанные между собой акторы.
+NO_JOIN = {'google.com', 'facebook.com', 'youtube.com', 'instagram.com', 'twitter.com',
+           'x.com', 'linkedin.com', 'tiktok.com', 'reddit.com', 'pinterest.com',
+           'apple.com', 'microsoft.com', 'amazon.com', 'wikipedia.org',
+           't.me', 'telegram.org', 'whatsapp.com'}
+def nojoin(b):
+    return registrable(b) in NO_JOIN
 def approved_source(i, url):
     if i == 0: return True
     return (urlsplit(url or '').path or '/') in ('', '/')
@@ -76,10 +86,12 @@ for seed, rec in probes.items():
         (strict if approved_source(i, ch[i].get('url')) else deep).append((a, b, lab))
 A = {a for (a, b, l) in strict}
 for a, b, l in strict:
-    edgemap[(a, b)].add(l); union(a, b)
+    edgemap[(a, b)].add(l)
+    if not nojoin(b): union(a, b)
 for a, b, l in deep:
     if b in A:
-        edgemap[(a, b)].add(l); union(a, b)
+        edgemap[(a, b)].add(l)
+        if not nojoin(b): union(a, b)
 
 # 2) RRT canonical/hreflang
 rrt_files = sorted(glob.glob(RRT_GLOB))
@@ -94,6 +106,7 @@ for f in rrt_files:
             if not a or not b or a == b or excluded(a, b): continue
             for v in (c.get('via') or []):
                 edgemap[(a, b)].add(v)              # 'canonical' / 'hreflang'
+            if nojoin(b): continue
             softedge.add((a, b))
             union(a, b)
             rrt_edge_count += 1
