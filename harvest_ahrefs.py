@@ -49,14 +49,25 @@ if os.path.exists(out):
         pass
 cursor = d_to
 reqs = 0
+misses = 0
+MISS_STEP  = 5    # на сколько дней шагать назад через дыру
+MISS_LIMIT = 12   # столько пустых ответов подряд (=60 дн) считаем концом истории
 while cursor >= d_from and reqs < MAX_REQ:
     rows = fetch(cursor)
     reqs += 1
-    if not rows:
-        break
-    snap = rows[0].get('update_date')
+    # Пустой ответ != конец истории: API отдаёт снапшот только если он есть рядом с
+    # запрошенной датой, а в ряду попадаются дыры по 3-4 недели. Поэтому на пустом
+    # ответе перешагиваем дыру, а обрываемся лишь после MISS_LIMIT попыток подряд.
+    snap = rows[0].get('update_date') if rows else None
     if not snap:
-        break
+        misses += 1
+        if misses >= MISS_LIMIT:
+            print(f'  стоп: {MISS_LIMIT} пустых ответов подряд '
+                  f'(просмотрено {MISS_LIMIT*MISS_STEP} дн назад от {cursor.isoformat()})', flush=True)
+            break
+        cursor = cursor - timedelta(days=MISS_STEP)
+        continue
+    misses = 0
     if snap in results:            # защита от зацикливания
         cursor = cursor - timedelta(days=1)
         continue
