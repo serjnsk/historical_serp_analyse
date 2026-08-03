@@ -1,0 +1,8 @@
+[
+{"host":"poland.lemoncasino2.pl","status":"ok","cross":[{"to":"lemoncasino2.pl","via":["hreflang"]}]},
+{"host":"lemoncasinopolska.net","status":"ok","cross":[]},
+{"host":"lemoncasino-logowanie.com","status":"ok","cross":[]},
+{"host":"pl.kasynopolska10.com","status":"ok","cross":[{"to":"kasynopolska10.pl","via":["canonical","hreflang"]},{"to":"casinoslovenija10.com","via":["hreflang"]},{"to":"kasinoslovensko10.com","via":["hreflang"]},{"to":"casinoau10.com","via":["hreflang"]},{"to":"casinophilippines10.com","via":["hreflang"]}]},
+{"host":"top.kasynos.online","status":"ok","cross":[]},
+{"host":"zaufanekasyno.pl","status":"timeout","cross":[]}
+]

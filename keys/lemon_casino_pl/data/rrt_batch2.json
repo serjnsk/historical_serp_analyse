@@ -703,6 +703,303 @@
      ]
     }
    ]
+  },
+  {
+   "host": "lemon-casinopl.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casinopl.co.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon--casino.org",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasyna-online.osiedleplonowa.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino-pl.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon.grizzzsport.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno-apk.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-pl.jp.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "baltic-cliff.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemon-pl-casino.baltic-cliff.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino-online-pl.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "magiadomu.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasinopoland.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "supabetting.pl",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon.stefhan.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon.ifmga-admin.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "ifmga-admin.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon.niespodzianka.info",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon.dataroomsource.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon.aahealthcare.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "aahealthcare.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino-polska.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino.org.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon.planetarium-halle.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon.aahealthcare.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "aahealthcare.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-kasyno-online.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "spinykasynopolska.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino12.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-poland.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinoplay.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno.sofprepacademy.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno-pl.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "mgokwegliniec.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemonkasyno.edu.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kasyno-internetowe.cashlesscongress.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "to.polskiekasynos.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinoofthekings.ca",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinosfiables.ca",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino-apk.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "poland.lemoncasino2.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemoncasino2.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasinopolska.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino-logowanie.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pl.kasynopolska10.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "kasynopolska10.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinoslovenija10.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "kasinoslovensko10.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinoau10.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinophilippines10.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "top.kasynos.online",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "zaufanekasyno.pl",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }

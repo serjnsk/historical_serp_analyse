@@ -1,0 +1,11 @@
+[
+{"host":"lemon-casinopl.in.net","status":"crawl-failed","cross":[]},
+{"host":"lemon-casinopl.co.com","status":"crawl-failed","cross":[]},
+{"host":"lemon--casino.org","status":"crawl-failed","cross":[]},
+{"host":"kasyna-online.osiedleplonowa.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino-pl.in.net","status":"crawl-failed","cross":[]},
+{"host":"lemon.grizzzsport.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-kasyno-apk.it.com","status":"crawl-failed","cross":[]},
+{"host":"lemon-casino-pl.jp.net","status":"ok","cross":[{"to":"baltic-cliff.pl","via":["canonical","hreflang"]},{"to":"lemon-pl-casino.baltic-cliff.pl","via":["hreflang"]}]},
+{"host":"lemon-casino-online-pl.pl","status":"ok","cross":[{"to":"magiadomu.com","via":["canonical","hreflang"]}]}
+]

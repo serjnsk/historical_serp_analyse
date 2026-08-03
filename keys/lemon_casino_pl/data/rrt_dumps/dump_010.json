@@ -1,0 +1,11 @@
+[
+{"host":"lemoncasinopoland.pl","status":"ok","cross":[{"to":"supabetting.pl","via":["canonical"]}]},
+{"host":"lemon.stefhan.info","status":"ok","cross":[{"to":"lemon.ifmga-admin.info","via":["canonical","hreflang"]},{"to":"ifmga-admin.info","via":["hreflang"]}]},
+{"host":"lemon.niespodzianka.info","status":"crawl-failed","cross":[]},
+{"host":"lemon.dataroomsource.info","status":"ok","cross":[{"to":"lemon.aahealthcare.info","via":["canonical","hreflang"]},{"to":"aahealthcare.info","via":["hreflang"]}]},
+{"host":"lemon-casino-polska.in.net","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino.org.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon.planetarium-halle.info","status":"ok","cross":[{"to":"lemon.aahealthcare.info","via":["canonical","hreflang"]},{"to":"aahealthcare.info","via":["hreflang"]}]},
+{"host":"lemon-kasyno-online.it.com","status":"crawl-failed","cross":[]},
+{"host":"spinykasynopolska.com","status":"ok","cross":[]}
+]

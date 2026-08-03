@@ -1,0 +1,10 @@
+[
+{"host":"lemoncasino12.io","status":"timeout","cross":[]},
+{"host":"lemon-casino-poland.it.com","status":"crawl-failed","cross":[]},
+{"host":"lemoncasinoplay.com","status":"ok","cross":[]},
+{"host":"lemon-kasyno.sofprepacademy.com","status":"ok","cross":[]},
+{"host":"lemon-kasyno-pl.com","status":"ok","cross":[{"to":"mgokwegliniec.pl","via":["canonical","hreflang"]},{"to":"lemonkasyno.edu.pl","via":["hreflang"]}]},
+{"host":"kasyno-internetowe.cashlesscongress.pl","status":"crawl-failed","cross":[]},
+{"host":"to.polskiekasynos.com","status":"ok","cross":[{"to":"casinoofthekings.ca","via":["hreflang"]},{"to":"casinosfiables.ca","via":["hreflang"]}]},
+{"host":"lemon-casino-apk.it.com","status":"crawl-failed","cross":[]}
+]
