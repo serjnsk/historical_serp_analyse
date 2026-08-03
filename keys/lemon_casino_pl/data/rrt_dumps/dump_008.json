@@ -1,0 +1,11 @@
+[
+{"host":"lemon-casino-apk.co.com","status":"crawl-failed","cross":[]},
+{"host":"kasyno-pl.osiedleplonowa.pl","status":"crawl-failed","cross":[]},
+{"host":"chickenmaison.com","status":"ok","cross":[]},
+{"host":"casinolemon.it.com","status":"ok","cross":[{"to":"splywy-kajakowe-drawa.pl","via":["canonical","hreflang"]},{"to":"lemon-casino1.splywy-kajakowe-drawa.pl","via":["hreflang"]}]},
+{"host":"lemon-kasyna.jp.net","status":"crawl-failed","cross":[]},
+{"host":"palmiarnia.poznan.pl","status":"ok","cross":[]},
+{"host":"najlepszybonusbezdepozytu.it.com","status":"crawl-failed","cross":[]},
+{"host":"ls.lemoncasinospl.co.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino.biz.pl","status":"ok","cross":[{"to":"lemon-casino.biz.pl","via":["canonical","hreflang"]}]}
+]

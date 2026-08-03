@@ -1,0 +1,12 @@
+[
+{"host":"pl.lemon1-casino.ink","status":"ok","cross":[{"to":"8razyo.pl","via":["canonical"]},{"to":"pl.lemoncasino-top.ink","via":["hreflang"]}]},
+{"host":"pl.lemon-casinos.top","status":"ok","cross":[]},
+{"host":"lemonkasyno.edu.pl","status":"ok","cross":[{"to":"mgokwegliniec.pl","via":["canonical","hreflang"]}]},
+{"host":"lemoncasino17.pl","status":"ok","cross":[{"to":"sp1nocnaukowcow.pl","via":["canonical","hreflang"]},{"to":"pol.lemoncasino17.pl","via":["hreflang"]}]},
+{"host":"lemon1.lemon--casino.ink","status":"ok","cross":[{"to":"thesocialcrewevents.com","via":["canonical"]},{"to":"lemon1.lemoncasinos-pl.ink","via":["hreflang"]}]},
+{"host":"lemon.casino","status":"ok","cross":[{"to":"lemoncasino13.io","via":["hreflang"]},{"to":"lemoncasino.io","via":["hreflang"]},{"to":"lemoncasinohu35.com","via":["hreflang"]},{"to":"lemoncasinono.com","via":["hreflang"]}]},
+{"host":"lemoncasino.io","status":"ok","cross":[{"to":"lemoncasino13.io","via":["hreflang"]},{"to":"lemon.casino","via":["hreflang"]},{"to":"lemoncasinohu35.com","via":["hreflang"]},{"to":"lemoncasinono.com","via":["hreflang"]}]},
+{"host":"lemon-casino.offer-rewards-now.click","status":"ok","cross":[]},
+{"host":"gry-hazardowe-zadarmo.com","status":"ok","cross":[]},
+{"host":"pl.topkasynoonline.com","status":"ok","cross":[{"to":"topkasynoonline.waw.pl","via":["hreflang"]}]}
+]

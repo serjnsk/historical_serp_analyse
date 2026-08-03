@@ -1,0 +1,12 @@
+[
+{"host":"pl.lemon-casinoo.ink","status":"ok","cross":[{"to":"8razyo.pl","via":["canonical"]},{"to":"pl.lemoncasino-top.ink","via":["hreflang"]}]},
+{"host":"lemoncasinoo.net.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon.lemon-kasyno12.ink","status":"ok","cross":[{"to":"oilblogcom.com","via":["canonical"]},{"to":"lemon.lemoncasino-13.ink","via":["hreflang"]}]},
+{"host":"lemon-casino-polska.pl","status":"ok","cross":[]},
+{"host":"lemon-bet-monety.ergo.edu.pl","status":"crawl-failed","cross":[]},
+{"host":"pl.polskiesloty.com","status":"ok","cross":[]},
+{"host":"lemon.lemon-casino-vip.ink","status":"ok","cross":[{"to":"oilblogcom.com","via":["canonical"]},{"to":"lemon.lemoncasino-13.ink","via":["hreflang"]}]},
+{"host":"lemon.gasthauslinde.info","status":"ok","cross":[{"to":"lemon.gdesklets.info","via":["canonical","hreflang"]},{"to":"gdesklets.info","via":["hreflang"]}]},
+{"host":"lemon.communitysupport.info","status":"ok","cross":[{"to":"communitysupport.info","via":["canonical","hreflang"]}]},
+{"host":"lemon-casino-logowanie-2026.backup.info.pl","status":"crawl-failed","cross":[]}
+]

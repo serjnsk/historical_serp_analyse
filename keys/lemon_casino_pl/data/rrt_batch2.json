@@ -1,0 +1,708 @@
+{
+ "results": [
+  {
+   "host": "pl.lemon1-casino.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "8razyo.pl",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino-top.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pl.lemon-casinos.top",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemonkasyno.edu.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "mgokwegliniec.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino17.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "sp1nocnaukowcow.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pol.lemoncasino17.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon1.lemon--casino.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "thesocialcrewevents.com",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "lemon1.lemoncasinos-pl.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon.casino",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemoncasino13.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemoncasino.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemoncasinohu35.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemoncasinono.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino.io",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemoncasino13.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemon.casino",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemoncasinohu35.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemoncasinono.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino.offer-rewards-now.click",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gry-hazardowe-zadarmo.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pl.topkasynoonline.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "topkasynoonline.waw.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pl.lemoncasino19.co.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon1.lemon-casino3.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "8razyo.pl",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino-top.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon.lemon-casino10.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "oilblogcom.com",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "lemon.lemoncasino-13.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino.thegioiraovat.info",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "gryonline2.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "znaki.fm",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pl.lemoncasino9.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "8razyo.pl",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino-top.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino-pl2.backup.info.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "polskiekasyno.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "polscekasyno.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino-pl.edu.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "rzeczpospolitanorwidowska.pl",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "wgaszczuinformacji.pl",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemoncasino-pl.click",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino-pl.alphascience.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pl.lemoncasino1.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "8razyo.pl",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino-top.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino-pln.backup.info.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino-eu.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon.lemoncasino12.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "oilblogcom.com",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "lemon.lemoncasino-13.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-kasyno.alphascience.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.liecenie.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon-casino.infoocean.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "infoocean.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "bison.dotfizjo.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "dotfizjo.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pl.lemon-casinoo.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "8razyo.pl",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino-top.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasinoo.net.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon.lemon-kasyno12.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "oilblogcom.com",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "lemon.lemoncasino-13.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino-polska.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-bet-monety.ergo.edu.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pl.polskiesloty.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon.lemon-casino-vip.ink",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "oilblogcom.com",
+     "via": [
+      "canonical"
+     ]
+    },
+    {
+     "to": "lemon.lemoncasino-13.ink",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon.gasthauslinde.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon.gdesklets.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "gdesklets.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon.communitysupport.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "communitysupport.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino-logowanie-2026.backup.info.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "mobilny-lemon-go.ergo.edu.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.edu.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lbc33.org",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino-pl.dworzecmetropolitalny.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinoapk.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino12.co.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-top-goracy.mateuszsliwa.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.wireda.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasyno-lemon.backup.info.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-logowanie-pl.backup.info.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casinolemon2.it.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "splywy-kajakowe-drawa.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemon-casino1.splywy-kajakowe-drawa.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pl-lemon-kasyno.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasino-pol.in.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pl.lemon-casinos.ink",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino9.soft-torun.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino-apk.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon.me",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "totalcasino.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casinos.co.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-zaloguj.co.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasynobonus.halniakowydwor.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "esportnow.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "play-lemoncasino.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemonkasyno-apk.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinos.it.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon.odonata.info",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon.aahealthcare.info",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "aahealthcare.info",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "polpenuil.it",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-apk.co.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasyno-pl.osiedleplonowa.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "chickenmaison.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "casinolemon.it.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "splywy-kajakowe-drawa.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "lemon-casino1.splywy-kajakowe-drawa.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-kasyna.jp.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "palmiarnia.poznan.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "najlepszybonusbezdepozytu.it.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ls.lemoncasinospl.co.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino.biz.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon-casino.biz.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  }
+ ]
+}

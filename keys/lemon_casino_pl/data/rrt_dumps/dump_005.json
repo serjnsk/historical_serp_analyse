@@ -1,0 +1,11 @@
+[
+{"host":"mobilny-lemon-go.ergo.edu.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-kasyno.pl","status":"timeout","cross":[]},
+{"host":"lemon-casino.edu.pl","status":"ok","cross":[{"to":"lbc33.org","via":["canonical","hreflang"]}]},
+{"host":"lemon-casino-pl.dworzecmetropolitalny.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncasinoapk.it.com","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino12.co.pl","status":"ok","cross":[]},
+{"host":"lemon-top-goracy.mateuszsliwa.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-casino.wireda.pl","status":"crawl-failed","cross":[]},
+{"host":"kasyno-lemon.backup.info.pl","status":"crawl-failed","cross":[]}
+]

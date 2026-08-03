@@ -1,0 +1,11 @@
+[
+{"host":"lemon-casinos.co.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-casino-zaloguj.co.com","status":"crawl-failed","cross":[]},
+{"host":"kasynobonus.halniakowydwor.pl","status":"crawl-failed","cross":[]},
+{"host":"esportnow.pl","status":"ok","cross":[]},
+{"host":"play-lemoncasino.com","status":"crawl-failed","cross":[]},
+{"host":"lemonkasyno-apk.it.com","status":"crawl-failed","cross":[]},
+{"host":"lemoncasinos.it.com","status":"ok","cross":[]},
+{"host":"lemon.odonata.info","status":"ok","cross":[{"to":"lemon.aahealthcare.info","via":["canonical","hreflang"]},{"to":"aahealthcare.info","via":["hreflang"]}]},
+{"host":"polpenuil.it","status":"timeout","cross":[]}
+]

@@ -1,0 +1,11 @@
+[
+{"host":"lemon-casino-logowanie-pl.backup.info.pl","status":"crawl-failed","cross":[]},
+{"host":"casinolemon2.it.com","status":"ok","cross":[{"to":"splywy-kajakowe-drawa.pl","via":["canonical","hreflang"]},{"to":"lemon-casino1.splywy-kajakowe-drawa.pl","via":["hreflang"]}]},
+{"host":"pl-lemon-kasyno.com","status":"ok","cross":[]},
+{"host":"lemon-kasino-pol.in.net","status":"crawl-failed","cross":[]},
+{"host":"pl.lemon-casinos.ink","status":"ok","cross":[]},
+{"host":"lemoncasino9.soft-torun.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino-apk.it.com","status":"crawl-failed","cross":[]},
+{"host":"lemon.me","status":"ok","cross":[]},
+{"host":"totalcasino.pl","status":"ok","cross":[]}
+]

@@ -1,0 +1,11 @@
+[
+{"host":"lemoncasino-pl.edu.pl","status":"ok","cross":[{"to":"rzeczpospolitanorwidowska.pl","via":["canonical"]},{"to":"wgaszczuinformacji.pl","via":["hreflang"]},{"to":"lemoncasino-pl.click","via":["hreflang"]}]},
+{"host":"lemoncasino-pl.alphascience.pl","status":"crawl-failed","cross":[]},
+{"host":"pl.lemoncasino1.ink","status":"ok","cross":[{"to":"8razyo.pl","via":["canonical"]},{"to":"pl.lemoncasino-top.ink","via":["hreflang"]}]},
+{"host":"lemoncasino-pln.backup.info.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino-eu.pl","status":"ok","cross":[]},
+{"host":"lemon.lemoncasino12.ink","status":"ok","cross":[{"to":"oilblogcom.com","via":["canonical"]},{"to":"lemon.lemoncasino-13.ink","via":["hreflang"]}]},
+{"host":"lemon-kasyno.alphascience.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-casino.liecenie.info","status":"ok","cross":[{"to":"lemon-casino.infoocean.info","via":["canonical","hreflang"]},{"to":"infoocean.info","via":["hreflang"]}]},
+{"host":"bison.dotfizjo.pl","status":"ok","cross":[{"to":"dotfizjo.pl","via":["hreflang"]}]}
+]
