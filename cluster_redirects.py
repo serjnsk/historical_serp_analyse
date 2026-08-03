@@ -49,9 +49,21 @@ def excluded(a, b):
 NO_JOIN = {'google.com', 'facebook.com', 'youtube.com', 'instagram.com', 'twitter.com',
            'x.com', 'linkedin.com', 'tiktok.com', 'reddit.com', 'pinterest.com',
            'apple.com', 'microsoft.com', 'amazon.com', 'wikipedia.org',
-           't.me', 'telegram.org', 'whatsapp.com'}
+           't.me', 'telegram.org', 'whatsapp.com',
+           # биржи/парковки доменов: просроченные домены разных владельцев массово
+           # редиректят на витрину продажи — это не сеть
+           'aftermarket.pl', 'am-track.pl', 'licytowanie.pl',
+           'sedo.com', 'dan.com', 'afternic.com'}
+# Те же платформы в страновых зонах (google.pl, google.com.br) и на собственных
+# TLD (doodles.google) — ловим по первой/последней метке регистрируемого домена.
+NO_JOIN_LABELS = {'google', 'facebook', 'youtube', 'instagram', 'twitter', 'linkedin',
+                  'tiktok', 'reddit', 'pinterest', 'apple', 'microsoft', 'amazon',
+                  'wikipedia', 'telegram', 'whatsapp'}
 def nojoin(b):
-    return registrable(b) in NO_JOIN
+    r = registrable(b)
+    if r in NO_JOIN: return True
+    p = r.split('.')
+    return p[0] in NO_JOIN_LABELS or p[-1] in NO_JOIN_LABELS
 def approved_source(i, url):
     if i == 0: return True
     return (urlsplit(url or '').path or '/') in ('', '/')

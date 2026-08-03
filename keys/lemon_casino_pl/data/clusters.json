@@ -1,1 +1,2401 @@
-{"clusters": [], "host2cluster": {}, "edges": []}
+{
+"clusters": [
+{
+"id": "C1",
+"size": 6,
+"regs": [
+"4lop.pl",
+"apartamentyinnova.pl",
+"displaymovie.pl",
+"kartynba.pl",
+"pracowniaannyrenusz.pl",
+"wegielkazmet.pl"
+],
+"members": [
+"4lop.pl",
+"apartamentyinnova.pl",
+"displaymovie.pl",
+"kartynba.pl",
+"pracowniaannyrenusz.pl",
+"wegielkazmet.pl"
+],
+"terminals": {
+"apartamentyinnova.pl": 5
+}
+},
+{
+"id": "C2",
+"size": 5,
+"regs": [
+"com.pl",
+"mebleujelenia.pl",
+"paumaluje.pl",
+"przychodniabajeczna.pl",
+"upleder.pl"
+],
+"members": [
+"beerock.com.pl",
+"mebleujelenia.pl",
+"paumaluje.pl",
+"przychodniabajeczna.pl",
+"upleder.pl"
+],
+"terminals": {
+"upleder.pl": 4
+}
+},
+{
+"id": "C3",
+"size": 5,
+"regs": [
+"dd99--dudespin.com",
+"ddspn--27ds.com",
+"dudespin100.com",
+"fp033g.top",
+"lynmonkel.com"
+],
+"members": [
+"dd99--dudespin.com",
+"ddspn--27ds.com",
+"ddspn.lynmonkel.com",
+"dudespin100.com",
+"fp033g.top"
+],
+"terminals": {
+"dd99--dudespin.com": 1
+}
+},
+{
+"id": "C4",
+"size": 5,
+"regs": [
+"lemon-casino-pl.com",
+"lemon-casino-pl.pl",
+"lemon-casino1.pl",
+"lemoncasinofreespins.com"
+],
+"members": [
+"lemon-casino-pl.com",
+"lemon-casino-pl.pl",
+"lemon-casino1.pl",
+"lemoncasinofreespins.com",
+"pl1.lemon-casino-pl.pl"
+],
+"terminals": {
+"pl1.lemon-casino-pl.pl": 6
+}
+},
+{
+"id": "C5",
+"size": 4,
+"regs": [
+"lemoncasino.io",
+"lemoncasino11.io",
+"lemoncasino12.io",
+"lemoncasino13.io"
+],
+"members": [
+"lemoncasino.io",
+"lemoncasino11.io",
+"lemoncasino12.io",
+"lemoncasino13.io"
+],
+"terminals": {
+"lemoncasino13.io": 5
+}
+},
+{
+"id": "C6",
+"size": 4,
+"regs": [
+"apeironmag.pl",
+"cpbrd.pl",
+"ematador.pl",
+"parafiagabon.pl"
+],
+"members": [
+"apeironmag.pl",
+"cpbrd.pl",
+"ematador.pl",
+"parafiagabon.pl"
+],
+"terminals": {
+"parafiagabon.pl": 4
+}
+},
+{
+"id": "C7",
+"size": 4,
+"regs": [
+"easydesk-sklep.it.com",
+"mojerosliny-sklep.pl",
+"motocyklemwbieszczady.pl",
+"tlsp.pl"
+],
+"members": [
+"easydesk-sklep.it.com",
+"mojerosliny-sklep.pl",
+"motocyklemwbieszczady.pl",
+"tlsp.pl"
+],
+"terminals": {
+"mojerosliny-sklep.pl": 6
+}
+},
+{
+"id": "C8",
+"size": 3,
+"regs": [
+"hollywoodcasinotoledo.com",
+"hollywoodcolumbus.com",
+"pennentertainment.com"
+],
+"members": [
+"hollywoodcasinotoledo.com",
+"hollywoodcolumbus.com",
+"pennentertainment.com"
+],
+"terminals": {
+"pennentertainment.com": 4
+}
+},
+{
+"id": "C9",
+"size": 3,
+"regs": [
+"energy-charts.org",
+"info.pl",
+"maes-online.com"
+],
+"members": [
+"backup.info.pl",
+"energy-charts.org",
+"maes-online.com"
+],
+"terminals": {
+"backup.info.pl": 2
+}
+},
+{
+"id": "C10",
+"size": 3,
+"regs": [
+"lemon-kasynowe.pl",
+"lemonkasyno-hazardowe.pl",
+"tubilety.pl"
+],
+"members": [
+"lemon-kasynowe.pl",
+"lemonkasyno-hazardowe.pl",
+"tubilety.pl"
+],
+"terminals": {}
+},
+{
+"id": "C11",
+"size": 3,
+"regs": [
+"kawailawa.pl",
+"kinomazowsze.pl",
+"net.pl"
+],
+"members": [
+"aviatour.net.pl",
+"kawailawa.pl",
+"kinomazowsze.pl"
+],
+"terminals": {
+"aviatour.net.pl": 2
+}
+},
+{
+"id": "C12",
+"size": 3,
+"regs": [
+"shinyatsukamoto.info",
+"strip2.co",
+"strip2.in"
+],
+"members": [
+"shinyatsukamoto.info",
+"strip2.in",
+"vps402.strip2.co"
+],
+"terminals": {
+"vps402.strip2.co": 2
+}
+},
+{
+"id": "C13",
+"size": 3,
+"regs": [
+"flyenvoy.com",
+"getibot.com",
+"hugedomains.com"
+],
+"members": [
+"flyenvoy.com",
+"getibot.com",
+"hugedomains.com"
+],
+"terminals": {}
+},
+{
+"id": "C14",
+"size": 3,
+"regs": [
+"drzwi-deco.pl",
+"iwinski.pl",
+"zswronie.pl"
+],
+"members": [
+"drzwi-deco.pl",
+"iwinski.pl",
+"zswronie.pl"
+],
+"terminals": {
+"drzwi-deco.pl": 4
+}
+},
+{
+"id": "C15",
+"size": 3,
+"regs": [
+"offer-rewards-now.click",
+"tablicedealerskie.pl",
+"winahoralabs.com"
+],
+"members": [
+"lemon-casino.offer-rewards-now.click",
+"tablicedealerskie.pl",
+"winahoralabs.com"
+],
+"terminals": {
+"speedredirecthq.com": 4
+}
+},
+{
+"id": "C16",
+"size": 3,
+"regs": [
+"audiczesci.pl",
+"ensite.pl",
+"vox-casino-pl.ink"
+],
+"members": [
+"audiczesci.pl",
+"ensite.pl",
+"vox-casino-pl.ink"
+],
+"terminals": {}
+},
+{
+"id": "C17",
+"size": 3,
+"regs": [
+"krabipopolsku.pl",
+"loftdizajn.pl",
+"plonka-podlesna.pl"
+],
+"members": [
+"krabipopolsku.pl",
+"loftdizajn.pl",
+"plonka-podlesna.pl"
+],
+"terminals": {
+"loftdizajn.pl": 4
+}
+},
+{
+"id": "C18",
+"size": 3,
+"regs": [
+"aftermarket-benefit.pl",
+"antals.pl",
+"modnaemma.pl"
+],
+"members": [
+"aftermarket-benefit.pl",
+"antals.pl",
+"modnaemma.pl"
+],
+"terminals": {
+"antals.pl": 3
+}
+},
+{
+"id": "C19",
+"size": 3,
+"regs": [
+"co.pl",
+"topkasynoonline.com",
+"waw.pl"
+],
+"members": [
+"pl.topkasynoonline.com",
+"topkasynoonline.co.pl",
+"topkasynoonline.waw.pl"
+],
+"terminals": {
+"pl.topkasynoonline.com": 4
+}
+},
+{
+"id": "C20",
+"size": 3,
+"regs": [
+"co.pl",
+"lemoncasino11.pl",
+"lemonkid.pl"
+],
+"members": [
+"lemoncasino11.pl",
+"lemoncasino12.co.pl",
+"lemonkid.pl"
+],
+"terminals": {
+"lemoncasino12.co.pl": 4
+}
+},
+{
+"id": "C21",
+"size": 3,
+"regs": [
+"baltic-cliff.pl",
+"biesiadawojciechow.pl",
+"lemon-casino-pl.jp.net"
+],
+"members": [
+"baltic-cliff.pl",
+"biesiadawojciechow.pl",
+"lemon-casino-pl.jp.net"
+],
+"terminals": {
+"baltic-cliff.pl": 2
+}
+},
+{
+"id": "C22",
+"size": 3,
+"regs": [
+"al23pp.org",
+"combodef.com",
+"paripesa.com"
+],
+"members": [
+"al23pp.org",
+"combodef.com",
+"paripesa.com"
+],
+"terminals": {
+"paripesa.com": 1
+}
+},
+{
+"id": "C23",
+"size": 4,
+"regs": [
+"livecasinohotel.com",
+"livech.com"
+],
+"members": [
+"livech.com",
+"louisiana.livecasinohotel.com",
+"philadelphia.livecasinohotel.com",
+"pittsburgh.livecasinohotel.com"
+],
+"terminals": {
+"livech.com": 6
+}
+},
+{
+"id": "C24",
+"size": 3,
+"regs": [
+"affs.com",
+"polskakasyno.com"
+],
+"members": [
+"m.affs.com",
+"www1.polskakasyno.com",
+"www11.polskakasyno.com"
+],
+"terminals": {
+"m.affs.com": 2,
+"www11.polskakasyno.com": 1
+}
+},
+{
+"id": "C25",
+"size": 3,
+"regs": [
+"auth0.com",
+"timesfreepress.com"
+],
+"members": [
+"auth0.com",
+"timesfreepress.com",
+"wehco.auth0.com"
+],
+"terminals": {
+"auth0.com": 1
+}
+},
+{
+"id": "C26",
+"size": 2,
+"regs": [
+"calzaunico.com",
+"calzaunico.com.co"
+],
+"members": [
+"calzaunico.com",
+"calzaunico.com.co"
+],
+"terminals": {
+"calzaunico.com.co": 1
+}
+},
+{
+"id": "C27",
+"size": 2,
+"regs": [
+"lemon-casino1.com",
+"lemoncasinoio.com"
+],
+"members": [
+"lemon-casino1.com",
+"lemoncasinoio.com"
+],
+"terminals": {
+"lemon-casino1.com": 1
+}
+},
+{
+"id": "C28",
+"size": 2,
+"regs": [
+"badromannyc.com",
+"badromanrestaurants.com"
+],
+"members": [
+"badromannyc.com",
+"badromanrestaurants.com"
+],
+"terminals": {
+"badromanrestaurants.com": 3
+}
+},
+{
+"id": "C29",
+"size": 2,
+"regs": [
+"oceanbasket.co.za",
+"oceanbasket.com"
+],
+"members": [
+"oceanbasket.co.za",
+"za.oceanbasket.com"
+],
+"terminals": {
+"za.oceanbasket.com": 2
+}
+},
+{
+"id": "C30",
+"size": 2,
+"regs": [
+"paysbig.com",
+"potawatomi.com"
+],
+"members": [
+"paysbig.com",
+"potawatomi.com"
+],
+"terminals": {
+"potawatomi.com": 3
+}
+},
+{
+"id": "C31",
+"size": 2,
+"regs": [
+"dailymail.co.uk",
+"dailymail.com"
+],
+"members": [
+"dailymail.co.uk",
+"dailymail.com"
+],
+"terminals": {
+"dailymail.com": 3
+}
+},
+{
+"id": "C32",
+"size": 2,
+"regs": [
+"kasynolemon.com",
+"lemoncasinopolska.com"
+],
+"members": [
+"kasynolemon.com",
+"lemoncasinopolska.com"
+],
+"terminals": {
+"lemoncasinohu12.com": 2
+}
+},
+{
+"id": "C33",
+"size": 2,
+"regs": [
+"lemoncasino-bonus.com",
+"lemoncasino.casino"
+],
+"members": [
+"lemoncasino-bonus.com",
+"lemoncasino.casino"
+],
+"terminals": {
+"lemoncasino-bonus.com": 1
+}
+},
+{
+"id": "C34",
+"size": 2,
+"regs": [
+"cidergossip.com",
+"directsharing.com"
+],
+"members": [
+"cidergossip.com",
+"directsharing.com"
+],
+"terminals": {
+"directsharing.com": 2
+}
+},
+{
+"id": "C35",
+"size": 2,
+"regs": [
+"com.pl",
+"walltime.pl"
+],
+"members": [
+"tapety-scienne.com.pl",
+"walltime.pl"
+],
+"terminals": {
+"walltime.pl": 1
+}
+},
+{
+"id": "C36",
+"size": 2,
+"regs": [
+"affs.com",
+"lemon.partners"
+],
+"members": [
+"affs.com",
+"lemon.partners"
+],
+"terminals": {
+"affs.com": 1
+}
+},
+{
+"id": "C37",
+"size": 2,
+"regs": [
+"archive.org",
+"lemon-casino7.pl"
+],
+"members": [
+"lemon-casino7.pl",
+"web.archive.org"
+],
+"terminals": {
+"web.archive.org": 1
+}
+},
+{
+"id": "C38",
+"size": 2,
+"regs": [
+"emeraldcasino.co.za",
+"tsogosun.com"
+],
+"members": [
+"emeraldcasino.co.za",
+"tsogosun.com"
+],
+"terminals": {
+"tsogosun.com": 2
+}
+},
+{
+"id": "C39",
+"size": 2,
+"regs": [
+"threads.com",
+"threads.net"
+],
+"members": [
+"threads.com",
+"threads.net"
+],
+"terminals": {
+"threads.com": 3
+}
+},
+{
+"id": "C40",
+"size": 2,
+"regs": [
+"nsdwine.com",
+"strzegom2012.pl"
+],
+"members": [
+"nsdwine.com",
+"strzegom2012.pl"
+],
+"terminals": {
+"nsdwine.com": 1
+}
+},
+{
+"id": "C41",
+"size": 2,
+"regs": [
+"forfit.pl",
+"premium.pl"
+],
+"members": [
+"forfit.pl",
+"premium.pl"
+],
+"terminals": {
+"premium.pl": 2
+}
+},
+{
+"id": "C42",
+"size": 2,
+"regs": [
+"dompstraga.pl",
+"mpogrodzenia.pl"
+],
+"members": [
+"dompstraga.pl",
+"mpogrodzenia.pl"
+],
+"terminals": {
+"mpogrodzenia.pl": 2
+}
+},
+{
+"id": "C43",
+"size": 2,
+"regs": [
+"himalaya-sports.com",
+"himalayacandy.com"
+],
+"members": [
+"himalaya-sports.com",
+"himalayacandy.com"
+],
+"terminals": {
+"himalaya-sports.com": 2
+}
+},
+{
+"id": "C44",
+"size": 2,
+"regs": [
+"darmowe-gry-hazardowe.pl",
+"ksiegarniasuplement.pl"
+],
+"members": [
+"darmowe-gry-hazardowe.pl",
+"ksiegarniasuplement.pl"
+],
+"terminals": {
+"darmowe-gry-hazardowe.pl": 1
+}
+},
+{
+"id": "C45",
+"size": 2,
+"regs": [
+"deepstreamhub.com",
+"ekopalniki.pl"
+],
+"members": [
+"deepstreamhub.com",
+"ekopalniki.pl"
+],
+"terminals": {
+"ekopalniki.pl": 1
+}
+},
+{
+"id": "C46",
+"size": 2,
+"regs": [
+"deanies.com",
+"spotapps.co"
+],
+"members": [
+"deanies.com",
+"tmt.spotapps.co"
+],
+"terminals": {
+"tmt.spotapps.co": 1
+}
+},
+{
+"id": "C47",
+"size": 2,
+"regs": [
+"dellagoresort.com",
+"onagilysys.com"
+],
+"members": [
+"book.onagilysys.com",
+"dellagoresort.com"
+],
+"terminals": {
+"book.onagilysys.com": 1
+}
+},
+{
+"id": "C48",
+"size": 2,
+"regs": [
+"grykasyno-online.pl",
+"newhollandpolska.pl"
+],
+"members": [
+"grykasyno-online.pl",
+"newhollandpolska.pl"
+],
+"terminals": {
+"grykasyno-online.pl": 2
+}
+},
+{
+"id": "C49",
+"size": 2,
+"regs": [
+"lemoncasino-app.pl",
+"org.pl"
+],
+"members": [
+"lemoncasino-app.pl",
+"lemoncasino12.org.pl"
+],
+"terminals": {
+"lemoncasino12.org.pl": 1
+}
+},
+{
+"id": "C50",
+"size": 2,
+"regs": [
+"gov.pl",
+"termosyikubki.pl"
+],
+"members": [
+"kcpu.gov.pl",
+"termosyikubki.pl"
+],
+"terminals": {
+"kcpu.gov.pl": 1
+}
+},
+{
+"id": "C51",
+"size": 2,
+"regs": [
+"epfumovar.hu",
+"fozosjatekok.hu"
+],
+"members": [
+"epfumovar.hu",
+"fozosjatekok.hu"
+],
+"terminals": {
+"fozosjatekok.hu": 1
+}
+},
+{
+"id": "C52",
+"size": 2,
+"regs": [
+"com.pl",
+"org.pl"
+],
+"members": [
+"goko.com.pl",
+"helpline.org.pl"
+],
+"terminals": {
+"doodles.google": 2
+}
+},
+{
+"id": "C53",
+"size": 2,
+"regs": [
+"dukla.org",
+"logopomoce.pl"
+],
+"members": [
+"dukla.org",
+"logopomoce.pl"
+],
+"terminals": {
+"dukla.org": 1
+}
+},
+{
+"id": "C54",
+"size": 2,
+"regs": [
+"czarciestudiotattoo.pl",
+"lisizakatek.pl"
+],
+"members": [
+"czarciestudiotattoo.pl",
+"lisizakatek.pl"
+],
+"terminals": {
+"lisizakatek.pl": 3
+}
+},
+{
+"id": "C55",
+"size": 2,
+"regs": [
+"online-casinopoland.pl",
+"roslinka24.pl"
+],
+"members": [
+"online-casinopoland.pl",
+"roslinka24.pl"
+],
+"terminals": {
+"online-casinopoland.pl": 2
+}
+},
+{
+"id": "C56",
+"size": 2,
+"regs": [
+"dialogikobiet.pl",
+"net.pl"
+],
+"members": [
+"dialogikobiet.pl",
+"teksty-piosenek.net.pl"
+],
+"terminals": {
+"dialogikobiet.pl": 2
+}
+},
+{
+"id": "C57",
+"size": 2,
+"regs": [
+"bisoncasino.io",
+"bisoncasino2.io"
+],
+"members": [
+"bisoncasino.io",
+"bisoncasino2.io"
+],
+"terminals": {
+"bisoncasino3.io": 2
+}
+},
+{
+"id": "C58",
+"size": 2,
+"regs": [
+"mash-up.pl",
+"najlepsze-kasyna-2026.pl"
+],
+"members": [
+"mash-up.pl",
+"najlepsze-kasyna-2026.pl"
+],
+"terminals": {
+"najlepsze-kasyna-2026.pl": 4
+}
+},
+{
+"id": "C59",
+"size": 2,
+"regs": [
+"iwaterpolska.pl",
+"org.pl"
+],
+"members": [
+"casinopolska.org.pl",
+"iwaterpolska.pl"
+],
+"terminals": {
+"casinopolska.org.pl": 3
+}
+},
+{
+"id": "C60",
+"size": 2,
+"regs": [
+"lemoncasinopoland.pl",
+"supabetting.pl"
+],
+"members": [
+"lemoncasinopoland.pl",
+"supabetting.pl"
+],
+"terminals": {
+"supabetting.pl": 1
+}
+},
+{
+"id": "C61",
+"size": 2,
+"regs": [
+"go2.promo",
+"play-lemoncasino.com"
+],
+"members": [
+"go2.promo",
+"play-lemoncasino.com"
+],
+"terminals": {
+"go2.promo": 1,
+"paripesa.com": 1
+}
+},
+{
+"id": "C62",
+"size": 2,
+"regs": [
+"ifmga-admin.info",
+"stefhan.info"
+],
+"members": [
+"ifmga-admin.info",
+"lemon.stefhan.info"
+],
+"terminals": {
+"ifmga-admin.info": 1
+}
+},
+{
+"id": "C63",
+"size": 2,
+"regs": [
+"gasthauslinde.info",
+"gdesklets.info"
+],
+"members": [
+"gdesklets.info",
+"lemon.gasthauslinde.info"
+],
+"terminals": {
+"gdesklets.info": 1
+}
+},
+{
+"id": "C64",
+"size": 2,
+"regs": [
+"infoocean.info",
+"liecenie.info"
+],
+"members": [
+"infoocean.info",
+"lemon-casino.liecenie.info"
+],
+"terminals": {
+"infoocean.info": 1
+}
+}
+],
+"host2cluster": {
+"4lop.pl": "C1",
+"apartamentyinnova.pl": "C1",
+"displaymovie.pl": "C1",
+"kartynba.pl": "C1",
+"pracowniaannyrenusz.pl": "C1",
+"wegielkazmet.pl": "C1",
+"beerock.com.pl": "C2",
+"mebleujelenia.pl": "C2",
+"paumaluje.pl": "C2",
+"przychodniabajeczna.pl": "C2",
+"upleder.pl": "C2",
+"dd99--dudespin.com": "C3",
+"ddspn--27ds.com": "C3",
+"ddspn.lynmonkel.com": "C3",
+"dudespin100.com": "C3",
+"fp033g.top": "C3",
+"lemon-casino-pl.com": "C4",
+"lemon-casino-pl.pl": "C4",
+"lemon-casino1.pl": "C4",
+"lemoncasinofreespins.com": "C4",
+"pl1.lemon-casino-pl.pl": "C4",
+"lemoncasino.io": "C5",
+"lemoncasino11.io": "C5",
+"lemoncasino12.io": "C5",
+"lemoncasino13.io": "C5",
+"apeironmag.pl": "C6",
+"cpbrd.pl": "C6",
+"ematador.pl": "C6",
+"parafiagabon.pl": "C6",
+"easydesk-sklep.it.com": "C7",
+"mojerosliny-sklep.pl": "C7",
+"motocyklemwbieszczady.pl": "C7",
+"tlsp.pl": "C7",
+"hollywoodcasinotoledo.com": "C8",
+"hollywoodcolumbus.com": "C8",
+"pennentertainment.com": "C8",
+"backup.info.pl": "C9",
+"energy-charts.org": "C9",
+"maes-online.com": "C9",
+"lemon-kasynowe.pl": "C10",
+"lemonkasyno-hazardowe.pl": "C10",
+"tubilety.pl": "C10",
+"aviatour.net.pl": "C11",
+"kawailawa.pl": "C11",
+"kinomazowsze.pl": "C11",
+"shinyatsukamoto.info": "C12",
+"strip2.in": "C12",
+"vps402.strip2.co": "C12",
+"flyenvoy.com": "C13",
+"getibot.com": "C13",
+"hugedomains.com": "C13",
+"drzwi-deco.pl": "C14",
+"iwinski.pl": "C14",
+"zswronie.pl": "C14",
+"lemon-casino.offer-rewards-now.click": "C15",
+"tablicedealerskie.pl": "C15",
+"winahoralabs.com": "C15",
+"audiczesci.pl": "C16",
+"ensite.pl": "C16",
+"vox-casino-pl.ink": "C16",
+"krabipopolsku.pl": "C17",
+"loftdizajn.pl": "C17",
+"plonka-podlesna.pl": "C17",
+"aftermarket-benefit.pl": "C18",
+"antals.pl": "C18",
+"modnaemma.pl": "C18",
+"pl.topkasynoonline.com": "C19",
+"topkasynoonline.co.pl": "C19",
+"topkasynoonline.waw.pl": "C19",
+"lemoncasino11.pl": "C20",
+"lemoncasino12.co.pl": "C20",
+"lemonkid.pl": "C20",
+"baltic-cliff.pl": "C21",
+"biesiadawojciechow.pl": "C21",
+"lemon-casino-pl.jp.net": "C21",
+"al23pp.org": "C22",
+"combodef.com": "C22",
+"paripesa.com": "C22",
+"livech.com": "C23",
+"louisiana.livecasinohotel.com": "C23",
+"philadelphia.livecasinohotel.com": "C23",
+"pittsburgh.livecasinohotel.com": "C23",
+"m.affs.com": "C24",
+"www1.polskakasyno.com": "C24",
+"www11.polskakasyno.com": "C24",
+"auth0.com": "C25",
+"timesfreepress.com": "C25",
+"wehco.auth0.com": "C25",
+"calzaunico.com": "C26",
+"calzaunico.com.co": "C26",
+"lemon-casino1.com": "C27",
+"lemoncasinoio.com": "C27",
+"badromannyc.com": "C28",
+"badromanrestaurants.com": "C28",
+"oceanbasket.co.za": "C29",
+"za.oceanbasket.com": "C29",
+"paysbig.com": "C30",
+"potawatomi.com": "C30",
+"dailymail.co.uk": "C31",
+"dailymail.com": "C31",
+"kasynolemon.com": "C32",
+"lemoncasinopolska.com": "C32",
+"lemoncasino-bonus.com": "C33",
+"lemoncasino.casino": "C33",
+"cidergossip.com": "C34",
+"directsharing.com": "C34",
+"tapety-scienne.com.pl": "C35",
+"walltime.pl": "C35",
+"affs.com": "C36",
+"lemon.partners": "C36",
+"lemon-casino7.pl": "C37",
+"web.archive.org": "C37",
+"emeraldcasino.co.za": "C38",
+"tsogosun.com": "C38",
+"threads.com": "C39",
+"threads.net": "C39",
+"nsdwine.com": "C40",
+"strzegom2012.pl": "C40",
+"forfit.pl": "C41",
+"premium.pl": "C41",
+"dompstraga.pl": "C42",
+"mpogrodzenia.pl": "C42",
+"himalaya-sports.com": "C43",
+"himalayacandy.com": "C43",
+"darmowe-gry-hazardowe.pl": "C44",
+"ksiegarniasuplement.pl": "C44",
+"deepstreamhub.com": "C45",
+"ekopalniki.pl": "C45",
+"deanies.com": "C46",
+"tmt.spotapps.co": "C46",
+"book.onagilysys.com": "C47",
+"dellagoresort.com": "C47",
+"grykasyno-online.pl": "C48",
+"newhollandpolska.pl": "C48",
+"lemoncasino-app.pl": "C49",
+"lemoncasino12.org.pl": "C49",
+"kcpu.gov.pl": "C50",
+"termosyikubki.pl": "C50",
+"epfumovar.hu": "C51",
+"fozosjatekok.hu": "C51",
+"goko.com.pl": "C52",
+"helpline.org.pl": "C52",
+"dukla.org": "C53",
+"logopomoce.pl": "C53",
+"czarciestudiotattoo.pl": "C54",
+"lisizakatek.pl": "C54",
+"online-casinopoland.pl": "C55",
+"roslinka24.pl": "C55",
+"dialogikobiet.pl": "C56",
+"teksty-piosenek.net.pl": "C56",
+"bisoncasino.io": "C57",
+"bisoncasino2.io": "C57",
+"mash-up.pl": "C58",
+"najlepsze-kasyna-2026.pl": "C58",
+"casinopolska.org.pl": "C59",
+"iwaterpolska.pl": "C59",
+"lemoncasinopoland.pl": "C60",
+"supabetting.pl": "C60",
+"go2.promo": "C61",
+"play-lemoncasino.com": "C61",
+"ifmga-admin.info": "C62",
+"lemon.stefhan.info": "C62",
+"gdesklets.info": "C63",
+"lemon.gasthauslinde.info": "C63",
+"infoocean.info": "C64",
+"lemon-casino.liecenie.info": "C64"
+},
+"edges": [
+{
+"src": "calzaunico.com",
+"dst": "calzaunico.com.co",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "przychodniabajeczna.pl",
+"dst": "upleder.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "wegielkazmet.pl",
+"dst": "apartamentyinnova.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasinoio.com",
+"dst": "lemon-casino1.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "hollywoodcolumbus.com",
+"dst": "pennentertainment.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "gothiconline.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "badromannyc.com",
+"dst": "badromanrestaurants.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "oceanbasket.co.za",
+"dst": "za.oceanbasket.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino.io",
+"dst": "lemoncasino13.io",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasinofreespins.com",
+"dst": "pl1.lemon-casino-pl.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "paysbig.com",
+"dst": "potawatomi.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "polskiesloty.com",
+"dst": "pl.polskiesloty.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "dailymail.co.uk",
+"dst": "dailymail.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "philadelphia.livecasinohotel.com",
+"dst": "livech.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "kasynolemon.com",
+"dst": "lemoncasinopolska.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino.casino",
+"dst": "lemoncasino-bonus.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "ind.1xbet.com",
+"dst": "indian.1xbet.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "nowe.polskiekasynos.com",
+"dst": "to.polskiekasynos.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "strefamechaniki.pl",
+"dst": "t2923.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "maes-online.com",
+"dst": "energy-charts.org",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "energy-charts.org",
+"dst": "backup.info.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "stalcut.pl",
+"dst": "sklep.stalcut.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "rodzinyaleppo.kik.waw.pl",
+"dst": "kik.waw.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "cidergossip.com",
+"dst": "directsharing.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "tapety-scienne.com.pl",
+"dst": "walltime.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemonkasyno-hazardowe.pl",
+"dst": "tubilety.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon-kasynowe.pl",
+"dst": "tubilety.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon.partners",
+"dst": "affs.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "kinomazowsze.pl",
+"dst": "aviatour.net.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "shinyatsukamoto.info",
+"dst": "strip2.in",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "strip2.in",
+"dst": "vps402.strip2.co",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "beerock.com.pl",
+"dst": "upleder.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "kasynolemon.pl",
+"dst": "licytowanie.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "licytowanie.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "lemon-casino7.pl",
+"dst": "web.archive.org",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "polbeerlabels.pl",
+"dst": "t2928.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "pracowniaannyrenusz.pl",
+"dst": "apartamentyinnova.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "casinolemon.pl",
+"dst": "t2921.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "emeraldcasino.co.za",
+"dst": "tsogosun.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "threads.net",
+"dst": "threads.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "strzegom2012.pl",
+"dst": "nsdwine.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "domowa.net.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "pittsburgh.livecasinohotel.com",
+"dst": "livech.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasinoonline.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "setelagoas.mg.gov.br",
+"dst": "google.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "www11.polskakasyno.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "kartynba.pl",
+"dst": "apartamentyinnova.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "forfit.pl",
+"dst": "premium.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "louisiana.livecasinohotel.com",
+"dst": "livech.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "dompstraga.pl",
+"dst": "mpogrodzenia.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "hollywoodcasinotoledo.com",
+"dst": "pennentertainment.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "pckbilgoraj.pl",
+"dst": "t2933.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "himalayacandy.com",
+"dst": "himalaya-sports.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "paumaluje.pl",
+"dst": "upleder.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "ksiegarniasuplement.pl",
+"dst": "darmowe-gry-hazardowe.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "deepstreamhub.com",
+"dst": "ekopalniki.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "maps.six.nsw.gov.au",
+"dst": "portal.spatial.nsw.gov.au",
+"via": [
+"308"
+],
+"soft": false
+},
+{
+"src": "deanies.com",
+"dst": "tmt.spotapps.co",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "dellagoresort.com",
+"dst": "book.onagilysys.com",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "lemoncasino.biz.pl",
+"dst": "lemon-casino.biz.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "kawailawa.pl",
+"dst": "aviatour.net.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon-casino-pl.com",
+"dst": "pl1.lemon-casino-pl.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "displaymovie.pl",
+"dst": "apartamentyinnova.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "flyenvoy.com",
+"dst": "hugedomains.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "m.lajfy.com",
+"dst": "m.archive.lajfy.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "piotrjuszczyk.pl",
+"dst": "t2936.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "newhollandpolska.pl",
+"dst": "grykasyno-online.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino-app.pl",
+"dst": "lemoncasino12.org.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "www11.polskakasyno.com",
+"dst": "m.affs.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "4lop.pl",
+"dst": "apartamentyinnova.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "termosyikubki.pl",
+"dst": "kcpu.gov.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "getibot.com",
+"dst": "hugedomains.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "epfumovar.hu",
+"dst": "fozosjatekok.hu",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "goko.com.pl",
+"dst": "helpline.org.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "helpline.org.pl",
+"dst": "google.pl",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "google.pl",
+"dst": "google.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "mebleujelenia.pl",
+"dst": "upleder.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "ddspn.lynmonkel.com",
+"dst": "ddspn--27ds.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "browarpukal.pl",
+"dst": "t2935.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "m.youtube.com",
+"dst": "youtube.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "supermeble.com.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "logopomoce.pl",
+"dst": "dukla.org",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "top.playsafekasyno.com",
+"dst": "to.playsafekasyno.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "czarciestudiotattoo.pl",
+"dst": "lisizakatek.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "roslinka24.pl",
+"dst": "online-casinopoland.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "teksty-piosenek.net.pl",
+"dst": "dialogikobiet.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "sharmaindianrestaurant.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "bisoncasino.io",
+"dst": "bisoncasino2.io",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "ekospan.pl",
+"dst": "t2950.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "blackoakcasino.com",
+"dst": "facebook.com",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "jogi-meble.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "dwanna.com.pl",
+"dst": "t2951.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "pracowniapieczywa.pl",
+"dst": "t2951.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "swiebodzintaxi.pl",
+"dst": "aftermarket.pl",
+"via": [
+"meta"
+],
+"soft": false
+},
+{
+"src": "mash-up.pl",
+"dst": "najlepsze-kasyna-2026.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "zswronie.pl",
+"dst": "drzwi-deco.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "tablicedealerskie.pl",
+"dst": "winahoralabs.com",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "audiczesci.pl",
+"dst": "vox-casino-pl.ink",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "vox-casino-pl.ink",
+"dst": "ensite.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "iwinski.pl",
+"dst": "drzwi-deco.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "plonka-podlesna.pl",
+"dst": "loftdizajn.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "modnaemma.pl",
+"dst": "aftermarket-benefit.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "aftermarket-benefit.pl",
+"dst": "antals.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "iwaterpolska.pl",
+"dst": "casinopolska.org.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "krabipopolsku.pl",
+"dst": "loftdizajn.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "topkasynoonline.co.pl",
+"dst": "pl.topkasynoonline.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "apeironmag.pl",
+"dst": "ematador.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "sp171wesola.edu.pl",
+"dst": "t2939.am-track.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "lemonkid.pl",
+"dst": "lemoncasino11.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino11.pl",
+"dst": "lemoncasino12.co.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "ematador.pl",
+"dst": "cpbrd.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "cpbrd.pl",
+"dst": "parafiagabon.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "topkasynoonline.waw.pl",
+"dst": "pl.topkasynoonline.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon-casino-pl.pl",
+"dst": "pl1.lemon-casino-pl.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "motocyklemwbieszczady.pl",
+"dst": "tlsp.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "tlsp.pl",
+"dst": "mojerosliny-sklep.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino11.io",
+"dst": "lemoncasino13.io",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "t.me",
+"dst": "telegram.org",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "lemon-casino1.pl",
+"dst": "pl1.lemon-casino-pl.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon-magyarorszag.com",
+"dst": "cas.lemon-magyarorszag.com",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasinopoland.pl",
+"dst": "supabetting.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino12.io",
+"dst": "lemoncasino13.io",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "easydesk-sklep.it.com",
+"dst": "mojerosliny-sklep.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "play-lemoncasino.com",
+"dst": "go2.promo",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "lemon.stefhan.info",
+"dst": "ifmga-admin.info",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon-casino-pl.jp.net",
+"dst": "biesiadawojciechow.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "biesiadawojciechow.pl",
+"dst": "baltic-cliff.pl",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "al23pp.org",
+"dst": "paripesa.com",
+"via": [
+"307"
+],
+"soft": false
+},
+{
+"src": "lemon-top-goracy.mateuszsliwa.pl",
+"dst": "mateuszsliwa.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "mobilny-lemon-go.ergo.edu.pl",
+"dst": "ergo.edu.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "lemon.gasthauslinde.info",
+"dst": "gdesklets.info",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemon-bet-monety.ergo.edu.pl",
+"dst": "ergo.edu.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "lemon-casino.liecenie.info",
+"dst": "infoocean.info",
+"via": [
+"301"
+],
+"soft": false
+},
+{
+"src": "lemoncasino-pl.edu.pl",
+"dst": "lemon-pl-casino.edu.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "lemon-casino.offer-rewards-now.click",
+"dst": "winahoralabs.com",
+"via": [
+"JS"
+],
+"soft": false
+},
+{
+"src": "t2923.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2928.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "wehco.auth0.com",
+"dst": "auth0.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2921.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2933.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2936.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "ddspn.lynmonkel.com",
+"dst": "dudespin100.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "ddspn--27ds.com",
+"dst": "dd99--dudespin.com",
+"via": [
+"307"
+],
+"soft": false
+},
+{
+"src": "t2935.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2950.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2951.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "t2939.am-track.pl",
+"dst": "aftermarket.pl",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "timesfreepress.com",
+"dst": "wehco.auth0.com",
+"via": [
+"307"
+],
+"soft": false
+},
+{
+"src": "fp033g.top",
+"dst": "ddspn.lynmonkel.com",
+"via": [
+"302"
+],
+"soft": false
+},
+{
+"src": "combodef.com",
+"dst": "al23pp.org",
+"via": [
+"303"
+],
+"soft": false
+}
+]
+}
