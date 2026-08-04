@@ -1194,6 +1194,41 @@
    "host": "lemonkasyno-pl.pl",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "lemoncasino11.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino3.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino1.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno.co.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.loft56.eu",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasyno-online.pwp.edu.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "ww1.e-kasyna.com",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }
