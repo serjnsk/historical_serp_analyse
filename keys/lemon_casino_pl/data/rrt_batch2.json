@@ -1000,6 +1000,91 @@
    "host": "zaufanekasyno.pl",
    "status": "timeout",
    "cross": []
+  },
+  {
+   "host": "lemoncasino11.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinoo.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-magyarorszag.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "cas.lemon-magyarorszag.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino-poland.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino.net.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinoplay.net",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-logowanie.ergodesk.com.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasynopl.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "onlinekaszinojatekok.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasino1.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino12.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.isdown.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.mpmanagement.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casinopl.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-kazyno.ergodesk.com.pl",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }

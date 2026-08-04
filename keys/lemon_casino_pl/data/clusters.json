@@ -1248,6 +1248,19 @@
 "id": "C77",
 "size": 2,
 "regs": [
+"kasynopl.net",
+"onlinekaszinojatekok.com"
+],
+"members": [
+"kasynopl.net",
+"onlinekaszinojatekok.com"
+],
+"terminals": {}
+},
+{
+"id": "C78",
+"size": 2,
+"regs": [
 "biz.pl"
 ],
 "members": [
@@ -1259,7 +1272,21 @@
 }
 },
 {
-"id": "C78",
+"id": "C79",
+"size": 2,
+"regs": [
+"lemon-magyarorszag.com"
+],
+"members": [
+"cas.lemon-magyarorszag.com",
+"lemon-magyarorszag.com"
+],
+"terminals": {
+"cas.lemon-magyarorszag.com": 2
+}
+},
+{
+"id": "C80",
 "size": 2,
 "regs": [
 "dotfizjo.pl"
@@ -1271,7 +1298,7 @@
 "terminals": {}
 },
 {
-"id": "C79",
+"id": "C81",
 "size": 2,
 "regs": [
 "communitysupport.info"
@@ -1283,7 +1310,7 @@
 "terminals": {}
 },
 {
-"id": "C80",
+"id": "C82",
 "size": 2,
 "regs": [
 "lemoncasino2.pl"
@@ -1519,14 +1546,18 @@
 "lemon-casino.edu.pl": "C75",
 "lemon-casino-online-pl.pl": "C76",
 "magiadomu.com": "C76",
-"lemon-casino.biz.pl": "C77",
-"lemoncasino.biz.pl": "C77",
-"bison.dotfizjo.pl": "C78",
-"dotfizjo.pl": "C78",
-"communitysupport.info": "C79",
-"lemon.communitysupport.info": "C79",
-"lemoncasino2.pl": "C80",
-"poland.lemoncasino2.pl": "C80"
+"kasynopl.net": "C77",
+"onlinekaszinojatekok.com": "C77",
+"lemon-casino.biz.pl": "C78",
+"lemoncasino.biz.pl": "C78",
+"cas.lemon-magyarorszag.com": "C79",
+"lemon-magyarorszag.com": "C79",
+"bison.dotfizjo.pl": "C80",
+"dotfizjo.pl": "C80",
+"communitysupport.info": "C81",
+"lemon.communitysupport.info": "C81",
+"lemoncasino2.pl": "C82",
+"poland.lemoncasino2.pl": "C82"
 },
 "edges": [
 {
@@ -2488,9 +2519,11 @@
 "src": "lemon-magyarorszag.com",
 "dst": "cas.lemon-magyarorszag.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "lemoncasinopoland.pl",
@@ -3251,6 +3284,14 @@
 {
 "src": "pl.kasynopolska10.com",
 "dst": "casinophilippines10.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "kasynopl.net",
+"dst": "onlinekaszinojatekok.com",
 "via": [
 "hreflang"
 ],
