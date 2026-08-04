@@ -1,0 +1,10 @@
+[
+{"host":"lemoncasinopolska.com","status":"ok","cross":[{"to":"lemoncasinohu12.com","via":["canonical"]}]},
+{"host":"lemon-hu.com","status":"timeout","cross":[]},
+{"host":"lemon-11.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-kasyno.proarte.net.pl","status":"crawl-failed","cross":[]},
+{"host":"kasyno-online-polska.com","status":"ok","cross":[]},
+{"host":"kasynogracz.pl","status":"ok","cross":[{"to":"kasyno-gracz.pl","via":["canonical","hreflang"]},{"to":"bestcasinosincanada.net","via":["hreflang"]},{"to":"onlinecasinomania.bg","via":["hreflang"]},{"to":"turulkaszino.com","via":["hreflang"]},{"to":"luckywok.at","via":["hreflang"]},{"to":"topcasinobewertungen.de","via":["hreflang"]},{"to":"casinoprofessori.fi","via":["hreflang"]},{"to":"casinosonline-portugal.com","via":["hreflang"]},{"to":"casinoisloty.com.ua","via":["hreflang"]},{"to":"greekonlinecasinos.com.gr","via":["hreflang"]}]},
+{"host":"polskie-kasyna.net","status":"ok","cross":[]},
+{"host":"lemonkasyno-pl.pl","status":"ok","cross":[]}
+]
