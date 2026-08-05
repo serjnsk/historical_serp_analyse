@@ -1489,6 +1489,175 @@
    "host": "lemonresort.pl",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "lemoncasino7.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino3.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinohu5.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemonskasyno.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon12.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasyno-poland-online.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "online-kasyno-poland.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "campaigns.lemoncasino6.io",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino9.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinohu2.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "www11.polskakasyno.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "casinolt.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "online-casino.ee",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "cazinoro.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "www1.kasinoslovenske.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casinos-slovenia.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casino-hrvatska.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "magyarcasinos.net",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "topcasinos.mx",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "cassinos24.com.br",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "casino-latvia.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "24kasino.com",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bgcasino.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "top.playsafekasyno.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "to.playsafekasyno.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "playsafecasina.cz",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "playsafecasino.ca",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "playsafehu.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kasyno-online-poland.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemonlemon.co",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }
