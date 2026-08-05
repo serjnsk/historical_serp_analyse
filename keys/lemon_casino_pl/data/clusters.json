@@ -3763,6 +3763,14 @@
 "hreflang"
 ],
 "soft": true
+},
+{
+"src": "kasynolemon.com",
+"dst": "lemoncasinohu12.com",
+"via": [
+"canonical"
+],
+"soft": true
 }
 ]
 }
