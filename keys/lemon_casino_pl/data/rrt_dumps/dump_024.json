@@ -1,0 +1,8 @@
+[
+{"host":"lemoncasinoio.com","status":"ok","cross":[{"to":"lemon-casino1.com","via":["canonical","hreflang"]}]},
+{"host":"lemon-casino1.com","status":"ok","cross":[]},
+{"host":"lemon-casino-pl.com","status":"ok","cross":[{"to":"pl1.lemon-casino-pl.pl","via":["canonical","hreflang"]},{"to":"pl.lemoncasino13.pl","via":["hreflang"]}]},
+{"host":"lemoncasinos.pl","status":"timeout","cross":[]},
+{"host":"lemon-casino2.pl","status":"timeout","cross":[]},
+{"host":"lemoncasinobonus.pl","status":"crawl-failed","cross":[]}
+]

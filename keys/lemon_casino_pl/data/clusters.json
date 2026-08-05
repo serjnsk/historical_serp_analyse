@@ -1356,6 +1356,19 @@
 "id": "C81",
 "size": 2,
 "regs": [
+"com.pl",
+"zagraniczne-kasyna.pl"
+],
+"members": [
+"paddington.com.pl",
+"zagraniczne-kasyna.pl"
+],
+"terminals": {}
+},
+{
+"id": "C82",
+"size": 2,
+"regs": [
 "biz.pl"
 ],
 "members": [
@@ -1367,7 +1380,7 @@
 }
 },
 {
-"id": "C82",
+"id": "C83",
 "size": 2,
 "regs": [
 "lemon-magyarorszag.com"
@@ -1381,7 +1394,7 @@
 }
 },
 {
-"id": "C83",
+"id": "C84",
 "size": 2,
 "regs": [
 "dotfizjo.pl"
@@ -1393,7 +1406,7 @@
 "terminals": {}
 },
 {
-"id": "C84",
+"id": "C85",
 "size": 2,
 "regs": [
 "communitysupport.info"
@@ -1405,7 +1418,7 @@
 "terminals": {}
 },
 {
-"id": "C85",
+"id": "C86",
 "size": 2,
 "regs": [
 "lemoncasino2.pl"
@@ -1677,16 +1690,18 @@
 "magiadomu.com": "C79",
 "kasynopl.net": "C80",
 "onlinekaszinojatekok.com": "C80",
-"lemon-casino.biz.pl": "C81",
-"lemoncasino.biz.pl": "C81",
-"cas.lemon-magyarorszag.com": "C82",
-"lemon-magyarorszag.com": "C82",
-"bison.dotfizjo.pl": "C83",
-"dotfizjo.pl": "C83",
-"communitysupport.info": "C84",
-"lemon.communitysupport.info": "C84",
-"lemoncasino2.pl": "C85",
-"poland.lemoncasino2.pl": "C85"
+"paddington.com.pl": "C81",
+"zagraniczne-kasyna.pl": "C81",
+"lemon-casino.biz.pl": "C82",
+"lemoncasino.biz.pl": "C82",
+"cas.lemon-magyarorszag.com": "C83",
+"lemon-magyarorszag.com": "C83",
+"bison.dotfizjo.pl": "C84",
+"dotfizjo.pl": "C84",
+"communitysupport.info": "C85",
+"lemon.communitysupport.info": "C85",
+"lemoncasino2.pl": "C86",
+"poland.lemoncasino2.pl": "C86"
 },
 "edges": [
 {
@@ -1717,9 +1732,11 @@
 "src": "lemoncasinoio.com",
 "dst": "lemon-casino1.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "hollywoodcolumbus.com",
@@ -2186,9 +2203,11 @@
 "src": "lemon-casino-pl.com",
 "dst": "pl1.lemon-casino-pl.pl",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "displaymovie.pl",
@@ -3723,6 +3742,23 @@
 {
 "src": "top.playsafekasyno.com",
 "dst": "playsafehu.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "zagraniczne-kasyna.pl",
+"dst": "paddington.com.pl",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "lemon-casino-pl.com",
+"dst": "pl.lemoncasino13.pl",
 "via": [
 "hreflang"
 ],

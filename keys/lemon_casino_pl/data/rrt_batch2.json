@@ -1658,6 +1658,101 @@
    "host": "lemonlemon.co",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "lemoncasino2.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinohu4.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "pl-lemon-casino.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncazino.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "doradcakasyn.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "zagraniczne-kasyna.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "paddington.com.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncy.eu",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinoio.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon-casino1.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino1.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-pl.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pl1.lemon-casino-pl.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino13.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemoncasinos.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino2.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinobonus.pl",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }
