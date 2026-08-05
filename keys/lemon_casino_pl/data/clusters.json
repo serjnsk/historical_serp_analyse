@@ -729,6 +729,20 @@
 },
 {
 "id": "C41",
+"size": 3,
+"regs": [
+"kasyno-online-blik.info",
+"thaibest.info"
+],
+"members": [
+"kasyno-online-blik.info",
+"kasyno-online-blik.thaibest.info",
+"thaibest.info"
+],
+"terminals": {}
+},
+{
+"id": "C42",
 "size": 2,
 "regs": [
 "calzaunico.com",
@@ -743,7 +757,7 @@
 }
 },
 {
-"id": "C42",
+"id": "C43",
 "size": 2,
 "regs": [
 "lemon-casino1.com",
@@ -758,7 +772,7 @@
 }
 },
 {
-"id": "C43",
+"id": "C44",
 "size": 2,
 "regs": [
 "badromannyc.com",
@@ -773,7 +787,7 @@
 }
 },
 {
-"id": "C44",
+"id": "C45",
 "size": 2,
 "regs": [
 "oceanbasket.co.za",
@@ -788,7 +802,7 @@
 }
 },
 {
-"id": "C45",
+"id": "C46",
 "size": 2,
 "regs": [
 "paysbig.com",
@@ -803,7 +817,7 @@
 }
 },
 {
-"id": "C46",
+"id": "C47",
 "size": 2,
 "regs": [
 "dailymail.co.uk",
@@ -818,7 +832,7 @@
 }
 },
 {
-"id": "C47",
+"id": "C48",
 "size": 2,
 "regs": [
 "lemoncasino-bonus.com",
@@ -833,7 +847,7 @@
 }
 },
 {
-"id": "C48",
+"id": "C49",
 "size": 2,
 "regs": [
 "cidergossip.com",
@@ -848,7 +862,7 @@
 }
 },
 {
-"id": "C49",
+"id": "C50",
 "size": 2,
 "regs": [
 "com.pl",
@@ -863,7 +877,7 @@
 }
 },
 {
-"id": "C50",
+"id": "C51",
 "size": 2,
 "regs": [
 "affs.com",
@@ -878,7 +892,7 @@
 }
 },
 {
-"id": "C51",
+"id": "C52",
 "size": 2,
 "regs": [
 "archive.org",
@@ -893,7 +907,7 @@
 }
 },
 {
-"id": "C52",
+"id": "C53",
 "size": 2,
 "regs": [
 "emeraldcasino.co.za",
@@ -908,7 +922,7 @@
 }
 },
 {
-"id": "C53",
+"id": "C54",
 "size": 2,
 "regs": [
 "threads.com",
@@ -923,7 +937,7 @@
 }
 },
 {
-"id": "C54",
+"id": "C55",
 "size": 2,
 "regs": [
 "nsdwine.com",
@@ -938,7 +952,7 @@
 }
 },
 {
-"id": "C55",
+"id": "C56",
 "size": 2,
 "regs": [
 "forfit.pl",
@@ -953,7 +967,7 @@
 }
 },
 {
-"id": "C56",
+"id": "C57",
 "size": 2,
 "regs": [
 "dompstraga.pl",
@@ -968,7 +982,7 @@
 }
 },
 {
-"id": "C57",
+"id": "C58",
 "size": 2,
 "regs": [
 "himalaya-sports.com",
@@ -983,7 +997,7 @@
 }
 },
 {
-"id": "C58",
+"id": "C59",
 "size": 2,
 "regs": [
 "darmowe-gry-hazardowe.pl",
@@ -998,7 +1012,7 @@
 }
 },
 {
-"id": "C59",
+"id": "C60",
 "size": 2,
 "regs": [
 "deepstreamhub.com",
@@ -1013,7 +1027,7 @@
 }
 },
 {
-"id": "C60",
+"id": "C61",
 "size": 2,
 "regs": [
 "deanies.com",
@@ -1028,7 +1042,7 @@
 }
 },
 {
-"id": "C61",
+"id": "C62",
 "size": 2,
 "regs": [
 "dellagoresort.com",
@@ -1043,7 +1057,7 @@
 }
 },
 {
-"id": "C62",
+"id": "C63",
 "size": 2,
 "regs": [
 "grykasyno-online.pl",
@@ -1058,7 +1072,7 @@
 }
 },
 {
-"id": "C63",
+"id": "C64",
 "size": 2,
 "regs": [
 "lemoncasino-app.pl",
@@ -1073,7 +1087,7 @@
 }
 },
 {
-"id": "C64",
+"id": "C65",
 "size": 2,
 "regs": [
 "gov.pl",
@@ -1088,7 +1102,7 @@
 }
 },
 {
-"id": "C65",
+"id": "C66",
 "size": 2,
 "regs": [
 "epfumovar.hu",
@@ -1103,7 +1117,7 @@
 }
 },
 {
-"id": "C66",
+"id": "C67",
 "size": 2,
 "regs": [
 "com.pl",
@@ -1118,7 +1132,7 @@
 }
 },
 {
-"id": "C67",
+"id": "C68",
 "size": 2,
 "regs": [
 "dukla.org",
@@ -1133,7 +1147,7 @@
 }
 },
 {
-"id": "C68",
+"id": "C69",
 "size": 2,
 "regs": [
 "czarciestudiotattoo.pl",
@@ -1148,7 +1162,7 @@
 }
 },
 {
-"id": "C69",
+"id": "C70",
 "size": 2,
 "regs": [
 "online-casinopoland.pl",
@@ -1163,7 +1177,7 @@
 }
 },
 {
-"id": "C70",
+"id": "C71",
 "size": 2,
 "regs": [
 "dialogikobiet.pl",
@@ -1178,7 +1192,7 @@
 }
 },
 {
-"id": "C71",
+"id": "C72",
 "size": 2,
 "regs": [
 "bisoncasino.io",
@@ -1193,7 +1207,7 @@
 }
 },
 {
-"id": "C72",
+"id": "C73",
 "size": 2,
 "regs": [
 "mash-up.pl",
@@ -1208,7 +1222,7 @@
 }
 },
 {
-"id": "C73",
+"id": "C74",
 "size": 2,
 "regs": [
 "iwaterpolska.pl",
@@ -1223,7 +1237,7 @@
 }
 },
 {
-"id": "C74",
+"id": "C75",
 "size": 2,
 "regs": [
 "lemoncasinopoland.pl",
@@ -1238,7 +1252,7 @@
 }
 },
 {
-"id": "C75",
+"id": "C76",
 "size": 2,
 "regs": [
 "go2.promo",
@@ -1254,7 +1268,7 @@
 }
 },
 {
-"id": "C76",
+"id": "C77",
 "size": 2,
 "regs": [
 "edu.pl",
@@ -1267,33 +1281,33 @@
 "terminals": {}
 },
 {
-"id": "C77",
-"size": 2,
-"regs": [
-"lemon-casino-online-pl.pl",
-"magiadomu.com"
-],
-"members": [
-"lemon-casino-online-pl.pl",
-"magiadomu.com"
-],
-"terminals": {}
-},
-{
 "id": "C78",
 "size": 2,
 "regs": [
-"kasynopl.net",
-"onlinekaszinojatekok.com"
+"lemon-casino-online-pl.pl",
+"magiadomu.com"
 ],
 "members": [
-"kasynopl.net",
-"onlinekaszinojatekok.com"
+"lemon-casino-online-pl.pl",
+"magiadomu.com"
 ],
 "terminals": {}
 },
 {
 "id": "C79",
+"size": 2,
+"regs": [
+"kasynopl.net",
+"onlinekaszinojatekok.com"
+],
+"members": [
+"kasynopl.net",
+"onlinekaszinojatekok.com"
+],
+"terminals": {}
+},
+{
+"id": "C80",
 "size": 2,
 "regs": [
 "24kasino.com",
@@ -1306,7 +1320,7 @@
 "terminals": {}
 },
 {
-"id": "C80",
+"id": "C81",
 "size": 2,
 "regs": [
 "biz.pl"
@@ -1320,7 +1334,7 @@
 }
 },
 {
-"id": "C81",
+"id": "C82",
 "size": 2,
 "regs": [
 "lemon-magyarorszag.com"
@@ -1334,7 +1348,7 @@
 }
 },
 {
-"id": "C82",
+"id": "C83",
 "size": 2,
 "regs": [
 "dotfizjo.pl"
@@ -1346,7 +1360,7 @@
 "terminals": {}
 },
 {
-"id": "C83",
+"id": "C84",
 "size": 2,
 "regs": [
 "communitysupport.info"
@@ -1358,7 +1372,7 @@
 "terminals": {}
 },
 {
-"id": "C84",
+"id": "C85",
 "size": 2,
 "regs": [
 "lemoncasino2.pl"
@@ -1533,94 +1547,97 @@
 "lemoncasino17.pl": "C40",
 "pol.lemoncasino17.pl": "C40",
 "sp1nocnaukowcow.pl": "C40",
-"calzaunico.com": "C41",
-"calzaunico.com.co": "C41",
-"lemon-casino1.com": "C42",
-"lemoncasinoio.com": "C42",
-"badromannyc.com": "C43",
-"badromanrestaurants.com": "C43",
-"oceanbasket.co.za": "C44",
-"za.oceanbasket.com": "C44",
-"paysbig.com": "C45",
-"potawatomi.com": "C45",
-"dailymail.co.uk": "C46",
-"dailymail.com": "C46",
-"lemoncasino-bonus.com": "C47",
-"lemoncasino.casino": "C47",
-"cidergossip.com": "C48",
-"directsharing.com": "C48",
-"tapety-scienne.com.pl": "C49",
-"walltime.pl": "C49",
-"affs.com": "C50",
-"lemon.partners": "C50",
-"lemon-casino7.pl": "C51",
-"web.archive.org": "C51",
-"emeraldcasino.co.za": "C52",
-"tsogosun.com": "C52",
-"threads.com": "C53",
-"threads.net": "C53",
-"nsdwine.com": "C54",
-"strzegom2012.pl": "C54",
-"forfit.pl": "C55",
-"premium.pl": "C55",
-"dompstraga.pl": "C56",
-"mpogrodzenia.pl": "C56",
-"himalaya-sports.com": "C57",
-"himalayacandy.com": "C57",
-"darmowe-gry-hazardowe.pl": "C58",
-"ksiegarniasuplement.pl": "C58",
-"deepstreamhub.com": "C59",
-"ekopalniki.pl": "C59",
-"deanies.com": "C60",
-"tmt.spotapps.co": "C60",
-"book.onagilysys.com": "C61",
-"dellagoresort.com": "C61",
-"grykasyno-online.pl": "C62",
-"newhollandpolska.pl": "C62",
-"lemoncasino-app.pl": "C63",
-"lemoncasino12.org.pl": "C63",
-"kcpu.gov.pl": "C64",
-"termosyikubki.pl": "C64",
-"epfumovar.hu": "C65",
-"fozosjatekok.hu": "C65",
-"goko.com.pl": "C66",
-"helpline.org.pl": "C66",
-"dukla.org": "C67",
-"logopomoce.pl": "C67",
-"czarciestudiotattoo.pl": "C68",
-"lisizakatek.pl": "C68",
-"online-casinopoland.pl": "C69",
-"roslinka24.pl": "C69",
-"dialogikobiet.pl": "C70",
-"teksty-piosenek.net.pl": "C70",
-"bisoncasino.io": "C71",
-"bisoncasino2.io": "C71",
-"mash-up.pl": "C72",
-"najlepsze-kasyna-2026.pl": "C72",
-"casinopolska.org.pl": "C73",
-"iwaterpolska.pl": "C73",
-"lemoncasinopoland.pl": "C74",
-"supabetting.pl": "C74",
-"go2.promo": "C75",
-"play-lemoncasino.com": "C75",
-"lbc33.org": "C76",
-"lemon-casino.edu.pl": "C76",
-"lemon-casino-online-pl.pl": "C77",
-"magiadomu.com": "C77",
-"kasynopl.net": "C78",
-"onlinekaszinojatekok.com": "C78",
-"24kasino.com": "C79",
-"www11.kasynopolska.com": "C79",
-"lemon-casino.biz.pl": "C80",
-"lemoncasino.biz.pl": "C80",
-"cas.lemon-magyarorszag.com": "C81",
-"lemon-magyarorszag.com": "C81",
-"bison.dotfizjo.pl": "C82",
-"dotfizjo.pl": "C82",
-"communitysupport.info": "C83",
-"lemon.communitysupport.info": "C83",
-"lemoncasino2.pl": "C84",
-"poland.lemoncasino2.pl": "C84"
+"kasyno-online-blik.info": "C41",
+"kasyno-online-blik.thaibest.info": "C41",
+"thaibest.info": "C41",
+"calzaunico.com": "C42",
+"calzaunico.com.co": "C42",
+"lemon-casino1.com": "C43",
+"lemoncasinoio.com": "C43",
+"badromannyc.com": "C44",
+"badromanrestaurants.com": "C44",
+"oceanbasket.co.za": "C45",
+"za.oceanbasket.com": "C45",
+"paysbig.com": "C46",
+"potawatomi.com": "C46",
+"dailymail.co.uk": "C47",
+"dailymail.com": "C47",
+"lemoncasino-bonus.com": "C48",
+"lemoncasino.casino": "C48",
+"cidergossip.com": "C49",
+"directsharing.com": "C49",
+"tapety-scienne.com.pl": "C50",
+"walltime.pl": "C50",
+"affs.com": "C51",
+"lemon.partners": "C51",
+"lemon-casino7.pl": "C52",
+"web.archive.org": "C52",
+"emeraldcasino.co.za": "C53",
+"tsogosun.com": "C53",
+"threads.com": "C54",
+"threads.net": "C54",
+"nsdwine.com": "C55",
+"strzegom2012.pl": "C55",
+"forfit.pl": "C56",
+"premium.pl": "C56",
+"dompstraga.pl": "C57",
+"mpogrodzenia.pl": "C57",
+"himalaya-sports.com": "C58",
+"himalayacandy.com": "C58",
+"darmowe-gry-hazardowe.pl": "C59",
+"ksiegarniasuplement.pl": "C59",
+"deepstreamhub.com": "C60",
+"ekopalniki.pl": "C60",
+"deanies.com": "C61",
+"tmt.spotapps.co": "C61",
+"book.onagilysys.com": "C62",
+"dellagoresort.com": "C62",
+"grykasyno-online.pl": "C63",
+"newhollandpolska.pl": "C63",
+"lemoncasino-app.pl": "C64",
+"lemoncasino12.org.pl": "C64",
+"kcpu.gov.pl": "C65",
+"termosyikubki.pl": "C65",
+"epfumovar.hu": "C66",
+"fozosjatekok.hu": "C66",
+"goko.com.pl": "C67",
+"helpline.org.pl": "C67",
+"dukla.org": "C68",
+"logopomoce.pl": "C68",
+"czarciestudiotattoo.pl": "C69",
+"lisizakatek.pl": "C69",
+"online-casinopoland.pl": "C70",
+"roslinka24.pl": "C70",
+"dialogikobiet.pl": "C71",
+"teksty-piosenek.net.pl": "C71",
+"bisoncasino.io": "C72",
+"bisoncasino2.io": "C72",
+"mash-up.pl": "C73",
+"najlepsze-kasyna-2026.pl": "C73",
+"casinopolska.org.pl": "C74",
+"iwaterpolska.pl": "C74",
+"lemoncasinopoland.pl": "C75",
+"supabetting.pl": "C75",
+"go2.promo": "C76",
+"play-lemoncasino.com": "C76",
+"lbc33.org": "C77",
+"lemon-casino.edu.pl": "C77",
+"lemon-casino-online-pl.pl": "C78",
+"magiadomu.com": "C78",
+"kasynopl.net": "C79",
+"onlinekaszinojatekok.com": "C79",
+"24kasino.com": "C80",
+"www11.kasynopolska.com": "C80",
+"lemon-casino.biz.pl": "C81",
+"lemoncasino.biz.pl": "C81",
+"cas.lemon-magyarorszag.com": "C82",
+"lemon-magyarorszag.com": "C82",
+"bison.dotfizjo.pl": "C83",
+"dotfizjo.pl": "C83",
+"communitysupport.info": "C84",
+"lemon.communitysupport.info": "C84",
+"lemoncasino2.pl": "C85",
+"poland.lemoncasino2.pl": "C85"
 },
 "edges": [
 {
@@ -1764,9 +1781,11 @@
 "src": "nowe.polskiekasynos.com",
 "dst": "to.polskiekasynos.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "strefamechaniki.pl",
@@ -2470,9 +2489,11 @@
 "src": "topkasynoonline.co.pl",
 "dst": "pl.topkasynoonline.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "apeironmag.pl",
@@ -2526,9 +2547,11 @@
 "src": "topkasynoonline.waw.pl",
 "dst": "pl.topkasynoonline.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "lemon-casino-pl.pl",
@@ -3479,6 +3502,56 @@
 {
 "src": "lemon-casino-pl.pl",
 "dst": "pl.lemoncasino13.pl",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "lemonkid.pl",
+"dst": "lemoncasino12.co.pl",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "topkasynoonline.co.pl",
+"dst": "topkasynoonline.waw.pl",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "nowe.polskiekasynos.com",
+"dst": "casinoofthekings.ca",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "nowe.polskiekasynos.com",
+"dst": "casinosfiables.ca",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "kasyno-online-blik.info",
+"dst": "thaibest.info",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "kasyno-online-blik.info",
+"dst": "kasyno-online-blik.thaibest.info",
 "via": [
 "hreflang"
 ],

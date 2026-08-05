@@ -1,0 +1,9 @@
+[
+{"host":"lemon-casino9.pl","status":"timeout","cross":[]},
+{"host":"casinoslemon.pl","status":"ok","cross":[]},
+{"host":"topkasynoonline.co.pl","status":"ok","cross":[{"to":"pl.topkasynoonline.com","via":["canonical","hreflang"]},{"to":"topkasynoonline.waw.pl","via":["hreflang"]}]},
+{"host":"nowe.polskiekasynos.com","status":"ok","cross":[{"to":"to.polskiekasynos.com","via":["canonical","hreflang"]},{"to":"casinoofthekings.ca","via":["hreflang"]},{"to":"casinosfiables.ca","via":["hreflang"]}]},
+{"host":"sopolskiekasyno.pl","status":"ok","cross":[]},
+{"host":"kasyno-online-blik.info","status":"ok","cross":[{"to":"thaibest.info","via":["canonical","hreflang"]},{"to":"kasyno-online-blik.thaibest.info","via":["hreflang"]}]},
+{"host":"lemonresort.pl","status":"ok","cross":[]}
+]

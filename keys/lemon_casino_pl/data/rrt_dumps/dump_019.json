@@ -1,0 +1,10 @@
+[
+{"host":"lemonkaszino.org","status":"ok","cross":[]},
+{"host":"lemoncasinohu9.com","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino2.com","status":"timeout","cross":[]},
+{"host":"topkasynoonline.waw.pl","status":"ok","cross":[{"to":"pl.topkasynoonline.com","via":["canonical","hreflang"]}]},
+{"host":"lemonkid.pl","status":"ok","cross":[{"to":"lemoncasino12.co.pl","via":["canonical","hreflang"]}]},
+{"host":"app-lemoncasino.com","status":"ok","cross":[]},
+{"host":"lemonscasino.org","status":"timeout","cross":[]},
+{"host":"pl.polskiekasynohex.org","status":"ok","cross":[]}
+]
