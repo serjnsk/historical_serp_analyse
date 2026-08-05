@@ -1,0 +1,11 @@
+[
+{"host":"lemoncasino2.pl","status":"ok","cross":[{"to":"poland.lemoncasino2.pl","via":["canonical","hreflang"]}]},
+{"host":"kasynolemon.pl","status":"crawl-failed","cross":[{"to":"aftermarket.pl","via":["canonical"]}]},
+{"host":"lemon-casinos.com","status":"ok","cross":[]},
+{"host":"kasyno-lemon.pl","status":"timeout","cross":[]},
+{"host":"lemon-kasyno.info.pl","status":"crawl-failed","cross":[]},
+{"host":"kasynainternetowe23.net","status":"ok","cross":[]},
+{"host":"www11.kasynopolska.com","status":"ok","cross":[{"to":"24kasino.com","via":["hreflang"]}]},
+{"host":"lemon-casino.magazyndigital.pl","status":"crawl-failed","cross":[]},
+{"host":"kasyno-bez-depozuty.szkolka-daniel.pl","status":"crawl-failed","cross":[]}
+]

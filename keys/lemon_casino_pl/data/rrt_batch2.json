@@ -1229,6 +1229,127 @@
    "host": "ww1.e-kasyna.com",
    "status": "timeout",
    "cross": []
+  },
+  {
+   "host": "lemoncasino2.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "poland.lemoncasino2.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kasynolemon.pl",
+   "status": "crawl-failed",
+   "cross": [
+    {
+     "to": "aftermarket.pl",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casinos.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasyno-lemon.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno.info.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasynainternetowe23.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "www11.kasynopolska.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "24kasino.com",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino.magazyndigital.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasyno-bez-depozuty.szkolka-daniel.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinohu14.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino10.io",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemoncasino.shop",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino-pl.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pl1.lemon-casino-pl.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino13.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino.com.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino.org.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemonkasyno.net.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasyna-polska.pl",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }

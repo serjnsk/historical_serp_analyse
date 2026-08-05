@@ -146,6 +146,28 @@
 },
 {
 "id": "C7",
+"size": 6,
+"regs": [
+"lemon-casino-pl.com",
+"lemon-casino-pl.pl",
+"lemon-casino1.pl",
+"lemoncasino13.pl",
+"lemoncasinofreespins.com"
+],
+"members": [
+"lemon-casino-pl.com",
+"lemon-casino-pl.pl",
+"lemon-casino1.pl",
+"lemoncasinofreespins.com",
+"pl.lemoncasino13.pl",
+"pl1.lemon-casino-pl.pl"
+],
+"terminals": {
+"pl1.lemon-casino-pl.pl": 6
+}
+},
+{
+"id": "C8",
 "size": 5,
 "regs": [
 "com.pl",
@@ -166,7 +188,7 @@
 }
 },
 {
-"id": "C8",
+"id": "C9",
 "size": 5,
 "regs": [
 "dd99--dudespin.com",
@@ -184,26 +206,6 @@
 ],
 "terminals": {
 "dd99--dudespin.com": 1
-}
-},
-{
-"id": "C9",
-"size": 5,
-"regs": [
-"lemon-casino-pl.com",
-"lemon-casino-pl.pl",
-"lemon-casino1.pl",
-"lemoncasinofreespins.com"
-],
-"members": [
-"lemon-casino-pl.com",
-"lemon-casino-pl.pl",
-"lemon-casino1.pl",
-"lemoncasinofreespins.com",
-"pl1.lemon-casino-pl.pl"
-],
-"terminals": {
-"pl1.lemon-casino-pl.pl": 6
 }
 },
 {
@@ -1294,6 +1296,19 @@
 "id": "C79",
 "size": 2,
 "regs": [
+"24kasino.com",
+"kasynopolska.com"
+],
+"members": [
+"24kasino.com",
+"www11.kasynopolska.com"
+],
+"terminals": {}
+},
+{
+"id": "C80",
+"size": 2,
+"regs": [
 "biz.pl"
 ],
 "members": [
@@ -1305,7 +1320,7 @@
 }
 },
 {
-"id": "C80",
+"id": "C81",
 "size": 2,
 "regs": [
 "lemon-magyarorszag.com"
@@ -1319,7 +1334,7 @@
 }
 },
 {
-"id": "C81",
+"id": "C82",
 "size": 2,
 "regs": [
 "dotfizjo.pl"
@@ -1331,7 +1346,7 @@
 "terminals": {}
 },
 {
-"id": "C82",
+"id": "C83",
 "size": 2,
 "regs": [
 "communitysupport.info"
@@ -1343,7 +1358,7 @@
 "terminals": {}
 },
 {
-"id": "C83",
+"id": "C84",
 "size": 2,
 "regs": [
 "lemoncasino2.pl"
@@ -1399,21 +1414,22 @@
 "kasinoslovensko10.com": "C6",
 "kasynopolska10.pl": "C6",
 "pl.kasynopolska10.com": "C6",
-"beerock.com.pl": "C7",
-"mebleujelenia.pl": "C7",
-"paumaluje.pl": "C7",
-"przychodniabajeczna.pl": "C7",
-"upleder.pl": "C7",
-"dd99--dudespin.com": "C8",
-"ddspn--27ds.com": "C8",
-"ddspn.lynmonkel.com": "C8",
-"dudespin100.com": "C8",
-"fp033g.top": "C8",
-"lemon-casino-pl.com": "C9",
-"lemon-casino-pl.pl": "C9",
-"lemon-casino1.pl": "C9",
-"lemoncasinofreespins.com": "C9",
-"pl1.lemon-casino-pl.pl": "C9",
+"lemon-casino-pl.com": "C7",
+"lemon-casino-pl.pl": "C7",
+"lemon-casino1.pl": "C7",
+"lemoncasinofreespins.com": "C7",
+"pl.lemoncasino13.pl": "C7",
+"pl1.lemon-casino-pl.pl": "C7",
+"beerock.com.pl": "C8",
+"mebleujelenia.pl": "C8",
+"paumaluje.pl": "C8",
+"przychodniabajeczna.pl": "C8",
+"upleder.pl": "C8",
+"dd99--dudespin.com": "C9",
+"ddspn--27ds.com": "C9",
+"ddspn.lynmonkel.com": "C9",
+"dudespin100.com": "C9",
+"fp033g.top": "C9",
 "lemon-pl-casino.edu.pl": "C10",
 "lemoncasino-pl.click": "C10",
 "lemoncasino-pl.edu.pl": "C10",
@@ -1593,16 +1609,18 @@
 "magiadomu.com": "C77",
 "kasynopl.net": "C78",
 "onlinekaszinojatekok.com": "C78",
-"lemon-casino.biz.pl": "C79",
-"lemoncasino.biz.pl": "C79",
-"cas.lemon-magyarorszag.com": "C80",
-"lemon-magyarorszag.com": "C80",
-"bison.dotfizjo.pl": "C81",
-"dotfizjo.pl": "C81",
-"communitysupport.info": "C82",
-"lemon.communitysupport.info": "C82",
-"lemoncasino2.pl": "C83",
-"poland.lemoncasino2.pl": "C83"
+"24kasino.com": "C79",
+"www11.kasynopolska.com": "C79",
+"lemon-casino.biz.pl": "C80",
+"lemoncasino.biz.pl": "C80",
+"cas.lemon-magyarorszag.com": "C81",
+"lemon-magyarorszag.com": "C81",
+"bison.dotfizjo.pl": "C82",
+"dotfizjo.pl": "C82",
+"communitysupport.info": "C83",
+"lemon.communitysupport.info": "C83",
+"lemoncasino2.pl": "C84",
+"poland.lemoncasino2.pl": "C84"
 },
 "edges": [
 {
@@ -2516,9 +2534,11 @@
 "src": "lemon-casino-pl.pl",
 "dst": "pl1.lemon-casino-pl.pl",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "motocyklemwbieszczady.pl",
@@ -3426,6 +3446,39 @@
 {
 "src": "kasynogracz.pl",
 "dst": "greekonlinecasinos.com.gr",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "lemoncasino2.pl",
+"dst": "poland.lemoncasino2.pl",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "kasynolemon.pl",
+"dst": "aftermarket.pl",
+"via": [
+"canonical"
+],
+"soft": false
+},
+{
+"src": "www11.kasynopolska.com",
+"dst": "24kasino.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "lemon-casino-pl.pl",
+"dst": "pl.lemoncasino13.pl",
 "via": [
 "hreflang"
 ],

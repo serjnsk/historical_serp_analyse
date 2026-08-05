@@ -1,0 +1,10 @@
+[
+{"host":"lemoncasinohu14.com","status":"ok","cross":[]},
+{"host":"lemoncasino10.io","status":"timeout","cross":[]},
+{"host":"lemoncasino.shop","status":"timeout","cross":[]},
+{"host":"lemon-casino-pl.pl","status":"ok","cross":[{"to":"pl1.lemon-casino-pl.pl","via":["canonical","hreflang"]},{"to":"pl.lemoncasino13.pl","via":["hreflang"]}]},
+{"host":"lemon-casino.com.pl","status":"ok","cross":[]},
+{"host":"lemon-casino.org.pl","status":"ok","cross":[]},
+{"host":"lemonkasyno.net.pl","status":"ok","cross":[]},
+{"host":"kasyna-polska.pl","status":"timeout","cross":[]}
+]
