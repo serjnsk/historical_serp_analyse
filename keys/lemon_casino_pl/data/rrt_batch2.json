@@ -1790,6 +1790,131 @@
    "host": "lemon7.pl",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "lemon-casino.biz.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon.partners",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemonkasyno8.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-cazino.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon-casino8.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncasinofreespins.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pl1.lemon-casino-pl.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    },
+    {
+     "to": "pl.lemoncasino13.pl",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino7.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "web.archive.org",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-casino.vip",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "lemon-kaszino.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemon-kasynowe.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemonautomat.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "nowe.polskiekasynaonline.net",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "polskiekasynaonline.eu.com",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kasynas.online",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "kasyna-online.org.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "najlepszekasynaonline.com.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "chok-chobienia.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "lemonsport.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemoncitrustree.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }

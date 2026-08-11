@@ -1,0 +1,10 @@
+[
+{"host":"lemon-kasynowe.pl","status":"crawl-failed","cross":[]},
+{"host":"lemonautomat.com","status":"timeout","cross":[]},
+{"host":"nowe.polskiekasynaonline.net","status":"ok","cross":[{"to":"polskiekasynaonline.eu.com","via":["canonical","hreflang"]}]},
+{"host":"kasynas.online","status":"crawl-failed","cross":[]},
+{"host":"kasyna-online.org.pl","status":"crawl-failed","cross":[]},
+{"host":"najlepszekasynaonline.com.pl","status":"ok","cross":[{"to":"chok-chobienia.pl","via":["canonical","hreflang"]}]},
+{"host":"lemonsport.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncitrustree.com","status":"ok","cross":[]}
+]

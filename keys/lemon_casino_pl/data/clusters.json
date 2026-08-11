@@ -1369,6 +1369,47 @@
 "id": "C82",
 "size": 2,
 "regs": [
+"lemon-casino.vip",
+"lemon-kaszino.com"
+],
+"members": [
+"lemon-casino.vip",
+"lemon-kaszino.com"
+],
+"terminals": {
+"winplace.link": 1
+}
+},
+{
+"id": "C83",
+"size": 2,
+"regs": [
+"polskiekasynaonline.eu.com",
+"polskiekasynaonline.net"
+],
+"members": [
+"nowe.polskiekasynaonline.net",
+"polskiekasynaonline.eu.com"
+],
+"terminals": {}
+},
+{
+"id": "C84",
+"size": 2,
+"regs": [
+"chok-chobienia.pl",
+"com.pl"
+],
+"members": [
+"chok-chobienia.pl",
+"najlepszekasynaonline.com.pl"
+],
+"terminals": {}
+},
+{
+"id": "C85",
+"size": 2,
+"regs": [
 "biz.pl"
 ],
 "members": [
@@ -1380,7 +1421,7 @@
 }
 },
 {
-"id": "C83",
+"id": "C86",
 "size": 2,
 "regs": [
 "lemon-magyarorszag.com"
@@ -1394,7 +1435,7 @@
 }
 },
 {
-"id": "C84",
+"id": "C87",
 "size": 2,
 "regs": [
 "dotfizjo.pl"
@@ -1406,7 +1447,7 @@
 "terminals": {}
 },
 {
-"id": "C85",
+"id": "C88",
 "size": 2,
 "regs": [
 "communitysupport.info"
@@ -1418,7 +1459,7 @@
 "terminals": {}
 },
 {
-"id": "C86",
+"id": "C89",
 "size": 2,
 "regs": [
 "lemoncasino2.pl"
@@ -1692,16 +1733,22 @@
 "onlinekaszinojatekok.com": "C80",
 "paddington.com.pl": "C81",
 "zagraniczne-kasyna.pl": "C81",
-"lemon-casino.biz.pl": "C82",
-"lemoncasino.biz.pl": "C82",
-"cas.lemon-magyarorszag.com": "C83",
-"lemon-magyarorszag.com": "C83",
-"bison.dotfizjo.pl": "C84",
-"dotfizjo.pl": "C84",
-"communitysupport.info": "C85",
-"lemon.communitysupport.info": "C85",
-"lemoncasino2.pl": "C86",
-"poland.lemoncasino2.pl": "C86"
+"lemon-casino.vip": "C82",
+"lemon-kaszino.com": "C82",
+"nowe.polskiekasynaonline.net": "C83",
+"polskiekasynaonline.eu.com": "C83",
+"chok-chobienia.pl": "C84",
+"najlepszekasynaonline.com.pl": "C84",
+"lemon-casino.biz.pl": "C85",
+"lemoncasino.biz.pl": "C85",
+"cas.lemon-magyarorszag.com": "C86",
+"lemon-magyarorszag.com": "C86",
+"bison.dotfizjo.pl": "C87",
+"dotfizjo.pl": "C87",
+"communitysupport.info": "C88",
+"lemon.communitysupport.info": "C88",
+"lemoncasino2.pl": "C89",
+"poland.lemoncasino2.pl": "C89"
 },
 "edges": [
 {
@@ -1783,9 +1830,11 @@
 "src": "lemoncasinofreespins.com",
 "dst": "pl1.lemon-casino-pl.pl",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "paysbig.com",
@@ -1985,9 +2034,10 @@
 "src": "lemon-casino7.pl",
 "dst": "web.archive.org",
 "via": [
-"JS"
+"JS",
+"canonical"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "polbeerlabels.pl",
@@ -3769,6 +3819,41 @@
 "dst": "lemoncasinohu12.com",
 "via": [
 "canonical"
+],
+"soft": true
+},
+{
+"src": "lemoncasinofreespins.com",
+"dst": "pl.lemoncasino13.pl",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "lemon-casino.vip",
+"dst": "lemon-kaszino.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "nowe.polskiekasynaonline.net",
+"dst": "polskiekasynaonline.eu.com",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "najlepszekasynaonline.com.pl",
+"dst": "chok-chobienia.pl",
+"via": [
+"canonical",
+"hreflang"
 ],
 "soft": true
 }
