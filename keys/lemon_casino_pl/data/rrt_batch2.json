@@ -2145,6 +2145,26 @@
    "host": "kasynobezdepozytu.com.pl",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "lemon11.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon10.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon78.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemon777.pl",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
