@@ -2,7 +2,7 @@
 "clusters": [
 {
 "id": "C1",
-"size": 16,
+"size": 17,
 "regs": [
 "24kasino.com",
 "affs.com",
@@ -34,6 +34,7 @@
 "online-casino.ee",
 "topcasinos.mx",
 "www1.kasinoslovenske.com",
+"www1.kasynopolska.com",
 "www1.polskakasyno.com",
 "www11.kasynopolska.com",
 "www11.polskakasyno.com"
@@ -1485,6 +1486,7 @@
 "online-casino.ee": "C1",
 "topcasinos.mx": "C1",
 "www1.kasinoslovenske.com": "C1",
+"www1.kasynopolska.com": "C1",
 "www1.polskakasyno.com": "C1",
 "www11.kasynopolska.com": "C1",
 "www11.polskakasyno.com": "C1",
@@ -1880,9 +1882,11 @@
 "src": "lemoncasino.casino",
 "dst": "lemoncasino-bonus.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "ind.1xbet.com",
@@ -2123,9 +2127,11 @@
 "src": "www1.polskakasyno.com",
 "dst": "www11.polskakasyno.com",
 "via": [
-"301"
+"301",
+"canonical",
+"hreflang"
 ],
-"soft": false
+"soft": true
 },
 {
 "src": "kartynba.pl",
@@ -3856,6 +3862,118 @@
 "hreflang"
 ],
 "soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "casinolt.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "online-casino.ee",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "cazinoro.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "www1.kasinoslovenske.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "casinos-slovenia.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "casino-hrvatska.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "magyarcasinos.net",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "topcasinos.mx",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "cassinos24.com.br",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "casino-latvia.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "24kasino.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.polskakasyno.com",
+"dst": "bgcasino.com",
+"via": [
+"hreflang"
+],
+"soft": true
+},
+{
+"src": "www1.kasynopolska.com",
+"dst": "www11.kasynopolska.com",
+"via": [
+"canonical"
+],
+"soft": true
+},
+{
+"src": "casinolemon.pl",
+"dst": "aftermarket.pl",
+"via": [
+"canonical"
+],
+"soft": false
 }
 ]
 }

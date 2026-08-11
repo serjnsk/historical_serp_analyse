@@ -1,0 +1,9 @@
+[
+{"host":"casinolemon.pl","status":"crawl-failed","cross":[{"to":"aftermarket.pl","via":["canonical"]}]},
+{"host":"lemonkasyno-hazardowe.pl","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino-pl.pl","status":"crawl-failed","cross":[]},
+{"host":"lemon-casino-pl.net","status":"ok","cross":[]},
+{"host":"lemonkasyno.org","status":"timeout","cross":[]},
+{"host":"kasyno-lemon.org","status":"timeout","cross":[]},
+{"host":"lemoncasino.net","status":"timeout","cross":[]}
+]

@@ -1,0 +1,10 @@
+[
+{"host":"lemoncasino.com","status":"crawl-failed","cross":[]},
+{"host":"lemoncasino.casino","status":"ok","cross":[{"to":"lemoncasino-bonus.com","via":["canonical","hreflang"]}]},
+{"host":"lemon-casino.com","status":"timeout","cross":[]},
+{"host":"lemoncasino77.com","status":"ok","cross":[]},
+{"host":"lemoncasino-poland.com","status":"ok","cross":[]},
+{"host":"lemoncasinoonline.pl","status":"crawl-failed","cross":[]},
+{"host":"www1.polskakasyno.com","status":"ok","cross":[{"to":"www11.polskakasyno.com","via":["canonical","hreflang"]},{"to":"casinolt.com","via":["hreflang"]},{"to":"online-casino.ee","via":["hreflang"]},{"to":"cazinoro.com","via":["hreflang"]},{"to":"www1.kasinoslovenske.com","via":["hreflang"]},{"to":"casinos-slovenia.com","via":["hreflang"]},{"to":"casino-hrvatska.com","via":["hreflang"]},{"to":"magyarcasinos.net","via":["hreflang"]},{"to":"topcasinos.mx","via":["hreflang"]},{"to":"cassinos24.com.br","via":["hreflang"]},{"to":"casino-latvia.com","via":["hreflang"]},{"to":"24kasino.com","via":["hreflang"]},{"to":"bgcasino.com","via":["hreflang"]}]},
+{"host":"www1.kasynopolska.com","status":"ok","cross":[{"to":"www11.kasynopolska.com","via":["canonical"]}]}
+]
