@@ -2092,6 +2092,59 @@
    "host": "lemoncasino.net",
    "status": "timeout",
    "cross": []
+  },
+  {
+   "host": "lemon-casino.pro",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "lemon-kasyno.org",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "lemonkasyno.net",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasynogracz.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "nowekasynaonline.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "uczciwe-kasyna.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "kasyno-internetowe.com.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "onlinekasyno.org.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "pl.onlinekasyno.org.pl",
+     "via": [
+      "canonical",
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "kasynobezdepozytu.com.pl",
+   "status": "crawl-failed",
+   "cross": []
   }
  ]
 }

@@ -1470,6 +1470,18 @@
 "poland.lemoncasino2.pl"
 ],
 "terminals": {}
+},
+{
+"id": "C90",
+"size": 2,
+"regs": [
+"org.pl"
+],
+"members": [
+"onlinekasyno.org.pl",
+"pl.onlinekasyno.org.pl"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
@@ -1750,7 +1762,9 @@
 "communitysupport.info": "C88",
 "lemon.communitysupport.info": "C88",
 "lemoncasino2.pl": "C89",
-"poland.lemoncasino2.pl": "C89"
+"poland.lemoncasino2.pl": "C89",
+"onlinekasyno.org.pl": "C90",
+"pl.onlinekasyno.org.pl": "C90"
 },
 "edges": [
 {
@@ -3974,6 +3988,15 @@
 "canonical"
 ],
 "soft": false
+},
+{
+"src": "onlinekasyno.org.pl",
+"dst": "pl.onlinekasyno.org.pl",
+"via": [
+"canonical",
+"hreflang"
+],
+"soft": true
 }
 ]
 }
