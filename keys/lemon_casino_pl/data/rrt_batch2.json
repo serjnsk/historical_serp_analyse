@@ -2165,6 +2165,93 @@
    "host": "lemon777.pl",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "za.oceanbasket.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "nandos.co.za",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mendocinofarms.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "jamulcasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "itu.int",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gianteagle.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "chickiesandpetes.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "cellarbrations.com.au",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bristolfarms.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mgokwegliniec.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "igamingpolska.pl",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "mifinity.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "slotozilla.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "wettformat.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "ojoslocos.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "happylemonusa.com",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "m.happylemonusa.com",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
   }
  ]
 }

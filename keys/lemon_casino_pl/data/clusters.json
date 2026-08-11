@@ -1482,6 +1482,18 @@
 "pl.onlinekasyno.org.pl"
 ],
 "terminals": {}
+},
+{
+"id": "C91",
+"size": 2,
+"regs": [
+"happylemonusa.com"
+],
+"members": [
+"happylemonusa.com",
+"m.happylemonusa.com"
+],
+"terminals": {}
 }
 ],
 "host2cluster": {
@@ -1764,7 +1776,9 @@
 "lemoncasino2.pl": "C89",
 "poland.lemoncasino2.pl": "C89",
 "onlinekasyno.org.pl": "C90",
-"pl.onlinekasyno.org.pl": "C90"
+"pl.onlinekasyno.org.pl": "C90",
+"happylemonusa.com": "C91",
+"m.happylemonusa.com": "C91"
 },
 "edges": [
 {
@@ -3995,6 +4009,14 @@
 "via": [
 "canonical",
 "hreflang"
+],
+"soft": true
+},
+{
+"src": "happylemonusa.com",
+"dst": "m.happylemonusa.com",
+"via": [
+"canonical"
 ],
 "soft": true
 }

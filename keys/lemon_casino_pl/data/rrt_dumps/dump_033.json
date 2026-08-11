@@ -1,0 +1,9 @@
+[
+{"host":"mgokwegliniec.pl","status":"timeout","cross":[]},
+{"host":"igamingpolska.pl","status":"timeout","cross":[]},
+{"host":"mifinity.com","status":"ok","cross":[]},
+{"host":"slotozilla.com","status":"ok","cross":[]},
+{"host":"wettformat.com","status":"ok","cross":[]},
+{"host":"ojoslocos.com","status":"ok","cross":[]},
+{"host":"happylemonusa.com","status":"ok","cross":[{"to":"m.happylemonusa.com","via":["canonical"]}]}
+]
