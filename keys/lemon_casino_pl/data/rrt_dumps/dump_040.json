@@ -1,0 +1,10 @@
+[
+{"host":"apmc.ap.gov.in","status":"crawl-failed","cross":[]},
+{"host":"webland.ap.gov.in","status":"crawl-failed","cross":[]},
+{"host":"police.nsw.gov.au","status":"ok","cross":[]},
+{"host":"motocyklemwbieszczady.pl","status":"ok","cross":[]},
+{"host":"play-fortune.pl","status":"ok","cross":[]},
+{"host":"wck.org.pl","status":"ok","cross":[]},
+{"host":"32red.com","status":"ok","cross":[{"to":"int.32red.com","via":["hreflang"]},{"to":"32rosu.ro","via":["hreflang"]}]},
+{"host":"grandluxcafe.com","status":"ok","cross":[]}
+]
