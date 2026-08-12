@@ -2540,6 +2540,41 @@
    "host": "badromannyc.com",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "automatyonline.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "greatcanadian.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bauhausglobal.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "thebazaar.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "vanguardngr.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "gsws-nbm.ap.gov.in",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "beams.jk.gov.in",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }
