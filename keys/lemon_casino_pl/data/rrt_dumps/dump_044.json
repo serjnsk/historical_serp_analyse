@@ -1,0 +1,9 @@
+[
+{"host":"sp171wesola.edu.pl","status":"crawl-failed","cross":[{"to":"aftermarket.pl","via":["canonical"]}]},
+{"host":"strzegom2012.pl","status":"ok","cross":[{"to":"nsdwine.com","via":["canonical"]},{"to":"lemoncasino-pl.lemon-kasyno-top.ink","via":["hreflang"]}]},
+{"host":"thenautilobstah.com","status":"ok","cross":[]},
+{"host":"excalibur.mgmresorts.com","status":"ok","cross":[]},
+{"host":"alexxaslasvegas.com","status":"crawl-failed","cross":[]},
+{"host":"chezannsalon.com","status":"ok","cross":[]},
+{"host":"antigo.visitebrasilia.com.br","status":"crawl-failed","cross":[]}
+]
