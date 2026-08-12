@@ -2407,6 +2407,36 @@
    "host": "themresort.com",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "sizzlinghotspot.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "maes-online.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "oddajzadarmo.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "weterynaria.org.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "dellagoresort.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "broadwaypalm.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
