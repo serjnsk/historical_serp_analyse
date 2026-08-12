@@ -2690,6 +2690,36 @@
    "host": "onefootball.com",
    "status": "timeout",
    "cross": []
+  },
+  {
+   "host": "wiggor.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "toranska.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "lemontreehotels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "mayfairhotels.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "pointplacecasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "venetianlasvegas.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
