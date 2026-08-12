@@ -2660,6 +2660,36 @@
    "host": "antigo.visitebrasilia.com.br",
    "status": "crawl-failed",
    "cross": []
+  },
+  {
+   "host": "feetlab.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "apeironmag.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "tribal.mp.gov.in",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "windcreek.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "rollinghillscasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "onefootball.com",
+   "status": "timeout",
+   "cross": []
   }
  ]
 }
