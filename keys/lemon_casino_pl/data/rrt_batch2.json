@@ -2372,6 +2372,41 @@
    "host": "plazahotelcasino.com",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "wvw.agilecorporate.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "izamarka.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "altertechnika.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "dobramine.co",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "bonusy-bez-depozytu.rankarma.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "casino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "themresort.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
