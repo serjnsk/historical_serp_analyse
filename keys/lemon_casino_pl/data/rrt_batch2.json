@@ -2720,6 +2720,62 @@
    "host": "venetianlasvegas.com",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "bisoncasino.io",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "bisoncasino3.io",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bison.casino",
+     "via": [
+      "hreflang"
+     ]
+    },
+    {
+     "to": "bisoncasino10.casino",
+     "via": [
+      "hreflang"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "pl.bestcasinos-pl.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "obuwiekati.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "krabipopolsku.pl",
+   "status": "ok",
+   "cross": [
+    {
+     "to": "loftdizajn.pl",
+     "via": [
+      "canonical"
+     ]
+    }
+   ]
+  },
+  {
+   "host": "biegajzosp.pl",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "thedailycatch.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
