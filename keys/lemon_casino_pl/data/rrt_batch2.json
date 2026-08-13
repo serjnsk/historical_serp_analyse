@@ -2776,6 +2776,41 @@
    "host": "thedailycatch.com",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "yaamava.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "northernquest.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "islandviewcasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "islandresortandcasino.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "micocina.com",
+   "status": "timeout",
+   "cross": []
+  },
+  {
+   "host": "eiffeltowerrestaurant.com",
+   "status": "ok",
+   "cross": []
+  },
+  {
+   "host": "davidburkeprime.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
