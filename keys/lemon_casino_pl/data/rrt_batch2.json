@@ -2811,6 +2811,36 @@
    "host": "davidburkeprime.com",
    "status": "ok",
    "cross": []
+  },
+  {
+   "host": "stacjabajkowo.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "solatostart.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "snmuzyki.pl",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "sweepstakesnetherlands.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "cherirooftop.com",
+   "status": "crawl-failed",
+   "cross": []
+  },
+  {
+   "host": "fatburger.com",
+   "status": "ok",
+   "cross": []
   }
  ]
 }
